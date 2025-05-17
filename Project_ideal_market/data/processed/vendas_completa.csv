@@ -1,0 +1,1501 @@
+venda_id,cliente_id,produto_id,quantidade,data_venda,nome_x,categoria,preco_unitario,nome_y,idade,genero,cidade
+1,173,44,9,2024-04-16,Produto 44,Alimentos,203.11,Alana das Neves,30,FEMININO,Rio de Janeiro
+2,61,38,7,2024-12-20,Produto 38,Higiene,371.78,Luigi Vieira,25,MASCULINO,Belém
+3,47,20,8,2024-01-05,Produto 20,Alimentos,120.45,Bruno Santos,56,FEMININO,Manaus
+4,149,23,9,2024-05-06,Produto 23,Limpeza,440.78,Dr. Thales Cavalcanti,56,FEMININO,Manaus
+5,80,45,6,2023-05-17,Produto 45,Limpeza,241.47,Carolina Gomes,53,MASCULINO,Belém
+6,118,16,4,2024-01-02,Produto 16,Alimentos,201.34,Ana Julia Nogueira,22,MASCULINO,Belém
+7,164,50,1,2023-07-03,Produto 50,Alimentos,489.06,Joaquim da Cruz,47,FEMININO,Belém
+8,147,42,8,2024-08-10,Produto 42,Higiene,342.11,Leandro Teixeira,43,MASCULINO,Rio de Janeiro
+9,20,8,7,2023-10-14,Produto 8,Higiene,354.39,João Vitor da Rosa,41,MASCULINO,Rio de Janeiro
+10,185,50,2,2024-04-16,Produto 50,Alimentos,489.06,Lucas Gabriel Nascimento,61,FEMININO,Belém
+11,146,21,8,2024-01-10,Produto 21,Alimentos,292.75,Joana Pereira,22,MASCULINO,São Paulo
+12,47,1,5,2024-10-15,Produto 1,Eletrônicos,61.16,Bruno Santos,56,FEMININO,Manaus
+13,49,8,7,2024-06-20,Produto 8,Higiene,354.39,João Miguel Nogueira,21,MASCULINO,Rio de Janeiro
+14,14,29,4,2024-05-25,Produto 29,Limpeza,243.43,Joaquim da Costa,53,FEMININO,Manaus
+15,143,32,5,2024-08-01,Produto 32,Alimentos,128.12,Otávio Freitas,31,MASCULINO,São Paulo
+16,159,38,8,2023-09-07,Produto 38,Higiene,371.78,Ian Silveira,56,MASCULINO,São Paulo
+17,1,5,1,2024-05-24,Produto 5,Bebidas,32.66,Sr. Emanuel Costela,56,FEMININO,Rio de Janeiro
+18,117,47,1,2024-09-21,Produto 47,Eletrônicos,266.54,Anthony Cunha,50,FEMININO,Belém
+19,54,22,4,2023-03-14,Produto 22,Alimentos,432.25,Maria Luiza Fernandes,43,FEMININO,São Paulo
+20,118,47,3,2023-10-09,Produto 47,Eletrônicos,266.54,Ana Julia Nogueira,22,MASCULINO,Belém
+21,3,34,2,2023-12-26,Produto 34,Limpeza,220.05,Cauê Ferreira,46,MASCULINO,São Paulo
+22,144,1,3,2023-01-10,Produto 1,Eletrônicos,61.16,Clarice Gomes,20,FEMININO,Fortaleza
+23,185,26,1,2023-07-30,Produto 26,Higiene,297.98,Lucas Gabriel Nascimento,61,FEMININO,Belém
+24,12,43,1,2023-06-01,Produto 43,Limpeza,122.57,Elisa da Mota,28,MASCULINO,Fortaleza
+25,74,10,6,2023-01-05,Produto 10,Higiene,345.57,Maria Vitória Jesus,46,MASCULINO,São Paulo
+26,16,30,5,2023-07-14,Produto 30,Limpeza,192.1,Yasmin Jesus,41,FEMININO,Fortaleza
+27,200,50,8,2023-10-10,Produto 50,Alimentos,489.06,André Costa,56,FEMININO,Manaus
+28,102,18,2,2024-04-08,Produto 18,Alimentos,77.57,Sarah Monteiro,18,MASCULINO,Belém
+29,152,17,4,2023-04-23,Produto 17,Eletrônicos,446.49,Pedro Henrique Vieira,32,FEMININO,Fortaleza
+30,156,26,8,2023-09-28,Produto 26,Higiene,297.98,Vitor Hugo Lopes,30,FEMININO,Rio de Janeiro
+31,117,8,6,2023-06-12,Produto 8,Higiene,354.39,Anthony Cunha,50,FEMININO,Belém
+32,8,47,1,2024-04-04,Produto 47,Eletrônicos,266.54,Mirella Barros,56,MASCULINO,Belém
+33,122,40,4,2023-04-15,Produto 40,Eletrônicos,412.28,Rafaela da Rosa,45,FEMININO,São Paulo
+34,92,49,1,2024-11-23,Produto 49,Eletrônicos,402.04,André Aragão,35,FEMININO,Belém
+35,164,12,2,2024-07-09,Produto 12,Bebidas,434.1,Joaquim da Cruz,47,FEMININO,Belém
+36,90,27,5,2023-10-09,Produto 27,Higiene,178.36,Diego Martins,33,MASCULINO,Rio de Janeiro
+37,136,8,8,2024-11-17,Produto 8,Higiene,354.39,Isabella da Costa,39,FEMININO,Fortaleza
+38,186,25,8,2023-06-11,Produto 25,Eletrônicos,454.31,Sr. Vicente Pires,61,MASCULINO,São Paulo
+39,60,46,3,2023-12-17,Produto 46,Higiene,46.03,Catarina Melo,61,MASCULINO,Fortaleza
+40,178,4,4,2024-03-09,Produto 4,Limpeza,497.99,Marcos Vinicius da Costa,45,FEMININO,São Paulo
+41,28,33,6,2023-05-20,Produto 33,Higiene,168.48,Maria Castro,39,FEMININO,Fortaleza
+42,101,1,3,2024-04-15,Produto 1,Eletrônicos,61.16,Dr. Augusto Aragão,62,FEMININO,São Paulo
+43,41,19,2,2023-05-12,Produto 19,Higiene,259.1,Natália da Cunha,20,MASCULINO,São Paulo
+44,192,31,6,2023-03-28,Produto 31,Eletrônicos,354.02,Ana Luiza Silva,56,MASCULINO,Fortaleza
+45,155,16,5,2024-11-18,Produto 16,Alimentos,201.34,Dr. Carlos Eduardo Cavalcanti,59,FEMININO,Fortaleza
+46,191,14,5,2023-07-02,Produto 14,Eletrônicos,215.92,Emilly Duarte,42,FEMININO,Manaus
+47,145,48,5,2024-01-03,Produto 48,Limpeza,220.99,Alana Rodrigues,18,FEMININO,São Paulo
+48,161,5,5,2023-05-09,Produto 5,Bebidas,32.66,Stephany Moreira,69,FEMININO,Fortaleza
+49,157,41,3,2023-09-03,Produto 41,Eletrônicos,373.38,Lavínia Gonçalves,68,MASCULINO,Fortaleza
+50,141,26,7,2024-08-23,Produto 26,Higiene,297.98,Vitor Hugo da Rosa,54,FEMININO,Belém
+51,46,28,6,2024-07-31,Produto 28,Alimentos,355.55,Evelyn Peixoto,26,MASCULINO,Manaus
+52,35,2,4,2024-10-31,Produto 2,Eletrônicos,465.81,Yago Dias,33,MASCULINO,São Paulo
+53,134,50,2,2024-01-13,Produto 50,Alimentos,489.06,Dr. Guilherme Moreira,61,MASCULINO,São Paulo
+54,82,6,9,2023-05-29,Produto 6,Eletrônicos,369.83,Dr. Henrique Rodrigues,48,FEMININO,Belém
+55,115,9,1,2024-03-08,Produto 9,Alimentos,484.48,Sr. Leonardo Jesus,52,FEMININO,Belém
+56,197,33,4,2024-09-19,Produto 33,Higiene,168.48,Carolina Cunha,30,FEMININO,Rio de Janeiro
+57,47,41,1,2024-12-26,Produto 41,Eletrônicos,373.38,Bruno Santos,56,FEMININO,Manaus
+58,153,25,6,2024-04-13,Produto 25,Eletrônicos,454.31,Carolina da Paz,32,FEMININO,São Paulo
+59,194,48,4,2024-03-21,Produto 48,Limpeza,220.99,Daniela Silva,18,FEMININO,Belém
+60,10,13,5,2024-04-25,Produto 13,Alimentos,420.05,Marina Moraes,40,FEMININO,Belém
+61,56,9,5,2023-10-21,Produto 9,Alimentos,484.48,Marcela Lima,37,FEMININO,Belém
+62,30,13,9,2023-05-23,Produto 13,Alimentos,420.05,Bárbara Vieira,42,MASCULINO,Fortaleza
+63,109,31,1,2023-09-07,Produto 31,Eletrônicos,354.02,Felipe Silveira,25,MASCULINO,São Paulo
+64,5,41,2,2023-10-29,Produto 41,Eletrônicos,373.38,Thomas Alves,60,FEMININO,Manaus
+65,119,11,6,2023-01-25,Produto 11,Limpeza,419.3,Luna Pires,59,FEMININO,Belém
+66,33,4,5,2023-03-11,Produto 4,Limpeza,497.99,Gabriela Araújo,59,FEMININO,Manaus
+67,118,34,7,2024-09-16,Produto 34,Limpeza,220.05,Ana Julia Nogueira,22,MASCULINO,Belém
+68,65,38,3,2023-04-22,Produto 38,Higiene,371.78,Bryan Sales,34,MASCULINO,Rio de Janeiro
+69,146,46,3,2023-12-30,Produto 46,Higiene,46.03,Joana Pereira,22,MASCULINO,São Paulo
+70,177,4,2,2023-10-30,Produto 4,Limpeza,497.99,Ana Vitória Carvalho,39,FEMININO,Fortaleza
+71,11,38,3,2024-04-15,Produto 38,Higiene,371.78,Ana Lívia das Neves,28,FEMININO,Rio de Janeiro
+72,85,19,1,2023-04-01,Produto 19,Higiene,259.1,Felipe Correia,25,FEMININO,Fortaleza
+73,26,6,5,2024-06-13,Produto 6,Eletrônicos,369.83,Rebeca da Cunha,50,FEMININO,Belém
+74,63,34,5,2024-10-22,Produto 34,Limpeza,220.05,Dr. Kevin Campos,52,FEMININO,Manaus
+75,86,18,7,2024-12-26,Produto 18,Alimentos,77.57,Dr. Luigi Campos,31,MASCULINO,Belém
+76,59,13,4,2024-10-24,Produto 13,Alimentos,420.05,Natália Ribeiro,24,FEMININO,Manaus
+77,27,41,3,2023-07-11,Produto 41,Eletrônicos,373.38,Vitor Nogueira,29,MASCULINO,Rio de Janeiro
+78,177,23,1,2024-07-05,Produto 23,Limpeza,440.78,Ana Vitória Carvalho,39,FEMININO,Fortaleza
+79,161,19,8,2023-08-30,Produto 19,Higiene,259.1,Stephany Moreira,69,FEMININO,Fortaleza
+80,98,45,3,2023-05-18,Produto 45,Limpeza,241.47,Marcela Cavalcanti,58,FEMININO,Rio de Janeiro
+81,105,11,2,2023-12-11,Produto 11,Limpeza,419.3,Caroline Fernandes,26,MASCULINO,Manaus
+82,99,1,4,2023-06-29,Produto 1,Eletrônicos,61.16,Sophia Ferreira,46,MASCULINO,Fortaleza
+83,129,24,3,2024-12-12,Produto 24,Alimentos,122.16,Júlia Souza,65,FEMININO,Manaus
+84,149,7,1,2024-05-17,Produto 7,Alimentos,275.23,Dr. Thales Cavalcanti,56,FEMININO,Manaus
+85,55,25,3,2023-07-22,Produto 25,Eletrônicos,454.31,Dr. Lucas Gabriel Dias,19,MASCULINO,Manaus
+86,6,21,2,2024-07-26,Produto 21,Alimentos,292.75,Lucas Freitas,25,MASCULINO,Fortaleza
+87,197,15,8,2023-07-11,Produto 15,Limpeza,115.18,Carolina Cunha,30,FEMININO,Rio de Janeiro
+88,95,1,6,2023-01-05,Produto 1,Eletrônicos,61.16,Ana Fernandes,43,MASCULINO,São Paulo
+89,133,12,9,2023-08-25,Produto 12,Bebidas,434.1,Cecília da Paz,52,MASCULINO,São Paulo
+90,102,7,8,2024-11-23,Produto 7,Alimentos,275.23,Sarah Monteiro,18,MASCULINO,Belém
+91,3,15,3,2023-11-07,Produto 15,Limpeza,115.18,Cauê Ferreira,46,MASCULINO,São Paulo
+92,181,21,5,2024-07-02,Produto 21,Alimentos,292.75,Otávio Cavalcanti,62,FEMININO,São Paulo
+93,23,19,7,2023-02-25,Produto 19,Higiene,259.1,Pietra da Luz,55,FEMININO,Belém
+94,53,29,5,2024-03-18,Produto 29,Limpeza,243.43,Emanuella Ribeiro,26,FEMININO,Rio de Janeiro
+95,165,25,8,2023-08-25,Produto 25,Eletrônicos,454.31,Guilherme Rodrigues,54,FEMININO,Rio de Janeiro
+96,83,33,5,2023-07-16,Produto 33,Higiene,168.48,Beatriz Lima,65,FEMININO,Fortaleza
+97,145,49,1,2024-08-07,Produto 49,Eletrônicos,402.04,Alana Rodrigues,18,FEMININO,São Paulo
+98,85,32,5,2024-07-24,Produto 32,Alimentos,128.12,Felipe Correia,25,FEMININO,Fortaleza
+99,78,49,4,2024-05-28,Produto 49,Eletrônicos,402.04,Sr. Enzo Araújo,51,FEMININO,Rio de Janeiro
+100,110,35,6,2024-03-24,Produto 35,Alimentos,130.57,Dra. Brenda Peixoto,41,FEMININO,São Paulo
+101,1,44,3,2023-12-26,Produto 44,Alimentos,203.11,Sr. Emanuel Costela,56,FEMININO,Rio de Janeiro
+102,51,38,5,2024-11-30,Produto 38,Higiene,371.78,Evelyn Aragão,31,FEMININO,São Paulo
+103,173,26,2,2023-01-30,Produto 26,Higiene,297.98,Alana das Neves,30,FEMININO,Rio de Janeiro
+104,4,11,6,2023-04-18,Produto 11,Limpeza,419.3,Giovanna Aragão,32,MASCULINO,Belém
+105,190,35,6,2024-08-24,Produto 35,Alimentos,130.57,Rafael Novaes,45,MASCULINO,Rio de Janeiro
+106,193,8,5,2024-12-17,Produto 8,Higiene,354.39,Kamilly da Paz,50,FEMININO,São Paulo
+107,113,46,6,2024-03-20,Produto 46,Higiene,46.03,Enzo Gabriel Farias,34,MASCULINO,Manaus
+108,32,14,7,2024-03-13,Produto 14,Eletrônicos,215.92,Amanda Lima,44,MASCULINO,Belém
+109,34,10,5,2024-08-28,Produto 10,Higiene,345.57,Dr. Igor Moura,45,MASCULINO,Rio de Janeiro
+110,92,2,1,2024-04-01,Produto 2,Eletrônicos,465.81,André Aragão,35,FEMININO,Belém
+111,95,46,8,2024-09-06,Produto 46,Higiene,46.03,Ana Fernandes,43,MASCULINO,São Paulo
+112,72,9,4,2024-11-28,Produto 9,Alimentos,484.48,Luiza Nascimento,59,FEMININO,Belém
+113,39,3,9,2024-11-26,Produto 3,Alimentos,487.25,Luiz Otávio Nascimento,61,FEMININO,Rio de Janeiro
+114,154,21,6,2024-05-09,Produto 21,Alimentos,292.75,Dra. Clarice Fernandes,43,MASCULINO,Manaus
+115,162,26,1,2024-11-04,Produto 26,Higiene,297.98,Vitor Hugo Fogaça,49,FEMININO,Manaus
+116,182,8,3,2023-09-04,Produto 8,Higiene,354.39,Ana Julia Nogueira,23,MASCULINO,Rio de Janeiro
+117,118,48,3,2024-06-26,Produto 48,Limpeza,220.99,Ana Julia Nogueira,22,MASCULINO,Belém
+118,3,2,4,2024-07-17,Produto 2,Eletrônicos,465.81,Cauê Ferreira,46,MASCULINO,São Paulo
+119,123,6,6,2024-08-10,Produto 6,Eletrônicos,369.83,Natália Dias,24,MASCULINO,Rio de Janeiro
+120,50,28,7,2024-03-14,Produto 28,Alimentos,355.55,Nathan Costela,42,FEMININO,Belém
+121,12,29,4,2023-10-05,Produto 29,Limpeza,243.43,Elisa da Mota,28,MASCULINO,Fortaleza
+122,193,26,6,2024-07-05,Produto 26,Higiene,297.98,Kamilly da Paz,50,FEMININO,São Paulo
+123,54,25,1,2024-09-04,Produto 25,Eletrônicos,454.31,Maria Luiza Fernandes,43,FEMININO,São Paulo
+124,133,12,8,2023-04-21,Produto 12,Bebidas,434.1,Cecília da Paz,52,MASCULINO,São Paulo
+125,57,5,7,2024-01-20,Produto 5,Bebidas,32.66,Sr. Davi Lucas Rezende,45,MASCULINO,Fortaleza
+126,145,34,9,2023-07-10,Produto 34,Limpeza,220.05,Alana Rodrigues,18,FEMININO,São Paulo
+127,112,48,3,2024-05-04,Produto 48,Limpeza,220.99,Ana Alves,68,MASCULINO,São Paulo
+128,47,37,2,2024-11-24,Produto 37,Limpeza,287.88,Bruno Santos,56,FEMININO,Manaus
+129,151,15,1,2024-03-01,Produto 15,Limpeza,115.18,João Felipe Martins,26,FEMININO,Belém
+130,85,44,3,2024-02-09,Produto 44,Alimentos,203.11,Felipe Correia,25,FEMININO,Fortaleza
+131,142,36,5,2023-12-01,Produto 36,Limpeza,205.58,Sofia Vieira,64,FEMININO,Fortaleza
+132,66,15,2,2023-07-28,Produto 15,Limpeza,115.18,Thiago Silva,53,FEMININO,Fortaleza
+133,75,43,3,2023-01-22,Produto 43,Limpeza,122.57,Sabrina Nascimento,35,MASCULINO,Manaus
+134,179,48,4,2024-11-08,Produto 48,Limpeza,220.99,Dr. Guilherme Fernandes,19,FEMININO,Belém
+135,103,23,7,2024-09-02,Produto 23,Limpeza,440.78,Ana Sophia Araújo,42,MASCULINO,São Paulo
+136,166,6,3,2023-07-27,Produto 6,Eletrônicos,369.83,Luna Cavalcanti,40,FEMININO,Rio de Janeiro
+137,192,46,9,2023-01-08,Produto 46,Higiene,46.03,Ana Luiza Silva,56,MASCULINO,Fortaleza
+138,38,50,8,2024-12-02,Produto 50,Alimentos,489.06,Vitor Nunes,68,FEMININO,São Paulo
+139,50,44,4,2024-11-17,Produto 44,Alimentos,203.11,Nathan Costela,42,FEMININO,Belém
+140,98,43,1,2024-06-12,Produto 43,Limpeza,122.57,Marcela Cavalcanti,58,FEMININO,Rio de Janeiro
+141,82,45,1,2024-08-24,Produto 45,Limpeza,241.47,Dr. Henrique Rodrigues,48,FEMININO,Belém
+142,30,21,1,2024-10-14,Produto 21,Alimentos,292.75,Bárbara Vieira,42,MASCULINO,Fortaleza
+143,79,23,1,2024-10-18,Produto 23,Limpeza,440.78,Renan Lopes,27,FEMININO,Fortaleza
+144,91,43,8,2023-06-15,Produto 43,Limpeza,122.57,Eduardo Moreira,62,FEMININO,Fortaleza
+145,179,16,3,2024-05-10,Produto 16,Alimentos,201.34,Dr. Guilherme Fernandes,19,FEMININO,Belém
+146,191,47,6,2024-08-12,Produto 47,Eletrônicos,266.54,Emilly Duarte,42,FEMININO,Manaus
+147,52,15,3,2024-03-04,Produto 15,Limpeza,115.18,Thiago Moreira,67,FEMININO,São Paulo
+148,166,25,5,2023-06-12,Produto 25,Eletrônicos,454.31,Luna Cavalcanti,40,FEMININO,Rio de Janeiro
+149,79,36,7,2024-01-01,Produto 36,Limpeza,205.58,Renan Lopes,27,FEMININO,Fortaleza
+150,30,11,2,2024-06-09,Produto 11,Limpeza,419.3,Bárbara Vieira,42,MASCULINO,Fortaleza
+151,106,15,6,2023-08-27,Produto 15,Limpeza,115.18,Mirella Oliveira,41,MASCULINO,Fortaleza
+152,51,4,6,2023-03-13,Produto 4,Limpeza,497.99,Evelyn Aragão,31,FEMININO,São Paulo
+153,81,21,3,2024-03-20,Produto 21,Alimentos,292.75,Dr. Vitor Gomes,31,MASCULINO,Manaus
+154,133,13,6,2024-10-16,Produto 13,Alimentos,420.05,Cecília da Paz,52,MASCULINO,São Paulo
+155,29,22,5,2024-05-23,Produto 22,Alimentos,432.25,Sra. Sabrina Farias,61,MASCULINO,Manaus
+156,132,19,2,2023-09-26,Produto 19,Higiene,259.1,Daniel Moreira,54,MASCULINO,Fortaleza
+157,138,34,9,2024-02-19,Produto 34,Limpeza,220.05,Maitê Freitas,52,MASCULINO,Belém
+158,184,14,8,2023-09-02,Produto 14,Eletrônicos,215.92,Isabelly Fogaça,45,MASCULINO,São Paulo
+159,145,4,3,2024-11-05,Produto 4,Limpeza,497.99,Alana Rodrigues,18,FEMININO,São Paulo
+160,74,48,8,2023-03-01,Produto 48,Limpeza,220.99,Maria Vitória Jesus,46,MASCULINO,São Paulo
+161,17,46,9,2023-01-06,Produto 46,Higiene,46.03,Dra. Raquel Oliveira,20,FEMININO,Fortaleza
+162,84,27,3,2024-12-09,Produto 27,Higiene,178.36,Pietra Azevedo,32,MASCULINO,Fortaleza
+163,69,29,3,2024-07-23,Produto 29,Limpeza,243.43,Otávio Campos,21,FEMININO,Rio de Janeiro
+164,34,47,2,2024-02-11,Produto 47,Eletrônicos,266.54,Dr. Igor Moura,45,MASCULINO,Rio de Janeiro
+165,6,28,8,2023-08-05,Produto 28,Alimentos,355.55,Lucas Freitas,25,MASCULINO,Fortaleza
+166,53,35,1,2023-01-26,Produto 35,Alimentos,130.57,Emanuella Ribeiro,26,FEMININO,Rio de Janeiro
+167,194,8,8,2023-01-05,Produto 8,Higiene,354.39,Daniela Silva,18,FEMININO,Belém
+168,126,16,7,2024-06-15,Produto 16,Alimentos,201.34,Dr. Thomas Santos,29,FEMININO,Belém
+169,43,42,7,2024-01-25,Produto 42,Higiene,342.11,Milena Aragão,68,FEMININO,São Paulo
+170,115,36,3,2024-12-10,Produto 36,Limpeza,205.58,Sr. Leonardo Jesus,52,FEMININO,Belém
+171,111,30,1,2024-07-24,Produto 30,Limpeza,192.1,Dr. Vicente Araújo,28,FEMININO,Manaus
+172,151,18,4,2024-03-23,Produto 18,Alimentos,77.57,João Felipe Martins,26,FEMININO,Belém
+173,183,2,9,2023-05-26,Produto 2,Eletrônicos,465.81,Catarina Martins,45,MASCULINO,Manaus
+174,80,49,5,2024-01-23,Produto 49,Eletrônicos,402.04,Carolina Gomes,53,MASCULINO,Belém
+175,95,13,1,2023-09-06,Produto 13,Alimentos,420.05,Ana Fernandes,43,MASCULINO,São Paulo
+176,118,4,5,2024-06-09,Produto 4,Limpeza,497.99,Ana Julia Nogueira,22,MASCULINO,Belém
+177,144,26,8,2024-04-06,Produto 26,Higiene,297.98,Clarice Gomes,20,FEMININO,Fortaleza
+178,8,25,8,2023-01-13,Produto 25,Eletrônicos,454.31,Mirella Barros,56,MASCULINO,Belém
+179,132,30,5,2024-01-19,Produto 30,Limpeza,192.1,Daniel Moreira,54,MASCULINO,Fortaleza
+180,104,11,9,2024-07-09,Produto 11,Limpeza,419.3,Alexia Souza,24,FEMININO,Belém
+181,132,7,1,2024-02-03,Produto 7,Alimentos,275.23,Daniel Moreira,54,MASCULINO,Fortaleza
+182,184,31,4,2023-01-19,Produto 31,Eletrônicos,354.02,Isabelly Fogaça,45,MASCULINO,São Paulo
+183,25,44,3,2024-07-28,Produto 44,Alimentos,203.11,Miguel Nunes,38,FEMININO,Manaus
+184,195,10,2,2024-05-05,Produto 10,Higiene,345.57,Catarina Campos,44,FEMININO,São Paulo
+185,96,39,8,2024-02-23,Produto 39,Bebidas,384.76,Enzo Gabriel Alves,42,MASCULINO,Rio de Janeiro
+186,195,13,7,2023-12-03,Produto 13,Alimentos,420.05,Catarina Campos,44,FEMININO,São Paulo
+187,155,31,9,2024-02-23,Produto 31,Eletrônicos,354.02,Dr. Carlos Eduardo Cavalcanti,59,FEMININO,Fortaleza
+188,93,7,2,2024-09-03,Produto 7,Alimentos,275.23,Maria Fernanda da Mata,64,MASCULINO,São Paulo
+189,160,49,4,2024-11-05,Produto 49,Eletrônicos,402.04,Maria Vitória Cavalcanti,66,MASCULINO,Rio de Janeiro
+190,178,42,6,2023-05-02,Produto 42,Higiene,342.11,Marcos Vinicius da Costa,45,FEMININO,São Paulo
+191,61,42,3,2024-03-07,Produto 42,Higiene,342.11,Luigi Vieira,25,MASCULINO,Belém
+192,122,36,8,2023-02-13,Produto 36,Limpeza,205.58,Rafaela da Rosa,45,FEMININO,São Paulo
+193,51,20,3,2023-11-13,Produto 20,Alimentos,120.45,Evelyn Aragão,31,FEMININO,São Paulo
+194,147,4,2,2024-01-16,Produto 4,Limpeza,497.99,Leandro Teixeira,43,MASCULINO,Rio de Janeiro
+195,21,7,3,2023-05-25,Produto 7,Alimentos,275.23,Francisco da Cruz,61,FEMININO,Fortaleza
+196,5,1,6,2023-11-23,Produto 1,Eletrônicos,61.16,Thomas Alves,60,FEMININO,Manaus
+197,92,44,2,2023-12-29,Produto 44,Alimentos,203.11,André Aragão,35,FEMININO,Belém
+198,170,45,8,2023-02-19,Produto 45,Limpeza,241.47,Bryan Farias,60,MASCULINO,Manaus
+199,61,42,1,2023-03-06,Produto 42,Higiene,342.11,Luigi Vieira,25,MASCULINO,Belém
+200,22,47,7,2023-12-21,Produto 47,Eletrônicos,266.54,Kaique Barbosa,47,MASCULINO,Manaus
+201,149,13,2,2023-06-13,Produto 13,Alimentos,420.05,Dr. Thales Cavalcanti,56,FEMININO,Manaus
+202,70,22,6,2023-05-21,Produto 22,Alimentos,432.25,Luiz Felipe Sales,19,MASCULINO,Manaus
+203,1,21,2,2023-05-08,Produto 21,Alimentos,292.75,Sr. Emanuel Costela,56,FEMININO,Rio de Janeiro
+204,133,22,2,2024-02-02,Produto 22,Alimentos,432.25,Cecília da Paz,52,MASCULINO,São Paulo
+205,12,28,8,2024-04-07,Produto 28,Alimentos,355.55,Elisa da Mota,28,MASCULINO,Fortaleza
+206,90,9,2,2023-07-06,Produto 9,Alimentos,484.48,Diego Martins,33,MASCULINO,Rio de Janeiro
+207,46,26,7,2024-12-20,Produto 26,Higiene,297.98,Evelyn Peixoto,26,MASCULINO,Manaus
+208,34,9,3,2023-07-09,Produto 9,Alimentos,484.48,Dr. Igor Moura,45,MASCULINO,Rio de Janeiro
+209,177,15,8,2024-01-23,Produto 15,Limpeza,115.18,Ana Vitória Carvalho,39,FEMININO,Fortaleza
+210,78,10,7,2024-03-04,Produto 10,Higiene,345.57,Sr. Enzo Araújo,51,FEMININO,Rio de Janeiro
+211,45,24,8,2023-10-11,Produto 24,Alimentos,122.16,Raul Sales,38,MASCULINO,São Paulo
+212,155,42,7,2023-08-25,Produto 42,Higiene,342.11,Dr. Carlos Eduardo Cavalcanti,59,FEMININO,Fortaleza
+213,73,8,6,2023-07-13,Produto 8,Higiene,354.39,Bárbara da Cruz,21,FEMININO,São Paulo
+214,26,24,7,2023-10-14,Produto 24,Alimentos,122.16,Rebeca da Cunha,50,FEMININO,Belém
+215,47,16,5,2023-05-16,Produto 16,Alimentos,201.34,Bruno Santos,56,FEMININO,Manaus
+216,121,49,7,2023-06-20,Produto 49,Eletrônicos,402.04,Isabel da Rosa,58,MASCULINO,Fortaleza
+217,56,26,1,2023-06-08,Produto 26,Higiene,297.98,Marcela Lima,37,FEMININO,Belém
+218,94,27,1,2023-07-20,Produto 27,Higiene,178.36,Fernando Aragão,41,FEMININO,Fortaleza
+219,107,37,9,2024-05-01,Produto 37,Limpeza,287.88,Arthur Moura,18,FEMININO,Belém
+220,63,4,5,2024-07-10,Produto 4,Limpeza,497.99,Dr. Kevin Campos,52,FEMININO,Manaus
+221,48,50,5,2024-08-05,Produto 50,Alimentos,489.06,Bernardo Azevedo,35,FEMININO,Manaus
+222,61,24,3,2024-05-18,Produto 24,Alimentos,122.16,Luigi Vieira,25,MASCULINO,Belém
+223,81,19,5,2024-01-06,Produto 19,Higiene,259.1,Dr. Vitor Gomes,31,MASCULINO,Manaus
+224,26,36,3,2023-04-13,Produto 36,Limpeza,205.58,Rebeca da Cunha,50,FEMININO,Belém
+225,36,39,9,2023-05-05,Produto 39,Bebidas,384.76,Rafael Rezende,32,MASCULINO,Manaus
+226,1,10,9,2023-11-09,Produto 10,Higiene,345.57,Sr. Emanuel Costela,56,FEMININO,Rio de Janeiro
+227,8,25,6,2024-04-02,Produto 25,Eletrônicos,454.31,Mirella Barros,56,MASCULINO,Belém
+228,113,18,1,2023-08-18,Produto 18,Alimentos,77.57,Enzo Gabriel Farias,34,MASCULINO,Manaus
+229,99,19,7,2024-10-19,Produto 19,Higiene,259.1,Sophia Ferreira,46,MASCULINO,Fortaleza
+230,180,36,7,2023-07-16,Produto 36,Limpeza,205.58,Vitor Souza,59,FEMININO,Rio de Janeiro
+231,47,10,4,2024-02-27,Produto 10,Higiene,345.57,Bruno Santos,56,FEMININO,Manaus
+232,127,33,8,2024-07-25,Produto 33,Higiene,168.48,Noah Lopes,51,MASCULINO,Fortaleza
+233,56,50,6,2024-09-01,Produto 50,Alimentos,489.06,Marcela Lima,37,FEMININO,Belém
+234,14,5,4,2023-06-20,Produto 5,Bebidas,32.66,Joaquim da Costa,53,FEMININO,Manaus
+235,28,47,4,2024-01-17,Produto 47,Eletrônicos,266.54,Maria Castro,39,FEMININO,Fortaleza
+236,78,49,2,2023-06-22,Produto 49,Eletrônicos,402.04,Sr. Enzo Araújo,51,FEMININO,Rio de Janeiro
+237,130,35,2,2024-10-24,Produto 35,Alimentos,130.57,Sra. Stella Fernandes,40,MASCULINO,Fortaleza
+238,109,44,4,2024-03-28,Produto 44,Alimentos,203.11,Felipe Silveira,25,MASCULINO,São Paulo
+239,154,34,5,2023-12-16,Produto 34,Limpeza,220.05,Dra. Clarice Fernandes,43,MASCULINO,Manaus
+240,14,33,8,2024-09-25,Produto 33,Higiene,168.48,Joaquim da Costa,53,FEMININO,Manaus
+241,187,21,6,2024-05-08,Produto 21,Alimentos,292.75,Thales Fogaça,37,FEMININO,São Paulo
+242,56,17,4,2024-09-11,Produto 17,Eletrônicos,446.49,Marcela Lima,37,FEMININO,Belém
+243,115,22,7,2023-01-04,Produto 22,Alimentos,432.25,Sr. Leonardo Jesus,52,FEMININO,Belém
+244,7,48,8,2023-04-03,Produto 48,Limpeza,220.99,Sr. João Guilherme Pereira,38,MASCULINO,Manaus
+245,3,37,2,2023-01-06,Produto 37,Limpeza,287.88,Cauê Ferreira,46,MASCULINO,São Paulo
+246,111,15,7,2023-10-15,Produto 15,Limpeza,115.18,Dr. Vicente Araújo,28,FEMININO,Manaus
+247,151,35,2,2024-09-09,Produto 35,Alimentos,130.57,João Felipe Martins,26,FEMININO,Belém
+248,107,28,2,2023-05-26,Produto 28,Alimentos,355.55,Arthur Moura,18,FEMININO,Belém
+249,18,7,8,2024-02-28,Produto 7,Alimentos,275.23,Augusto Alves,39,MASCULINO,Belém
+250,38,32,2,2024-08-30,Produto 32,Alimentos,128.12,Vitor Nunes,68,FEMININO,São Paulo
+251,115,11,9,2024-04-01,Produto 11,Limpeza,419.3,Sr. Leonardo Jesus,52,FEMININO,Belém
+252,15,10,1,2023-07-21,Produto 10,Higiene,345.57,Camila Nogueira,57,FEMININO,Manaus
+253,192,9,9,2023-07-31,Produto 9,Alimentos,484.48,Ana Luiza Silva,56,MASCULINO,Fortaleza
+254,119,14,1,2023-01-06,Produto 14,Eletrônicos,215.92,Luna Pires,59,FEMININO,Belém
+255,28,13,2,2024-09-15,Produto 13,Alimentos,420.05,Maria Castro,39,FEMININO,Fortaleza
+256,39,25,6,2024-01-11,Produto 25,Eletrônicos,454.31,Luiz Otávio Nascimento,61,FEMININO,Rio de Janeiro
+257,185,2,6,2024-03-22,Produto 2,Eletrônicos,465.81,Lucas Gabriel Nascimento,61,FEMININO,Belém
+258,17,35,1,2023-04-16,Produto 35,Alimentos,130.57,Dra. Raquel Oliveira,20,FEMININO,Fortaleza
+259,86,7,7,2024-10-12,Produto 7,Alimentos,275.23,Dr. Luigi Campos,31,MASCULINO,Belém
+260,126,21,8,2024-02-05,Produto 21,Alimentos,292.75,Dr. Thomas Santos,29,FEMININO,Belém
+261,44,18,2,2023-04-06,Produto 18,Alimentos,77.57,Dr. Murilo Monteiro,24,MASCULINO,São Paulo
+262,25,3,8,2024-01-23,Produto 3,Alimentos,487.25,Miguel Nunes,38,FEMININO,Manaus
+263,145,42,9,2024-03-27,Produto 42,Higiene,342.11,Alana Rodrigues,18,FEMININO,São Paulo
+264,13,39,6,2024-02-20,Produto 39,Bebidas,384.76,Lorena Duarte,41,MASCULINO,Rio de Janeiro
+265,25,41,5,2024-12-26,Produto 41,Eletrônicos,373.38,Miguel Nunes,38,FEMININO,Manaus
+266,68,49,9,2024-05-18,Produto 49,Eletrônicos,402.04,Vitor Gabriel Pereira,57,FEMININO,São Paulo
+267,138,11,9,2024-03-29,Produto 11,Limpeza,419.3,Maitê Freitas,52,MASCULINO,Belém
+268,67,39,1,2023-10-18,Produto 39,Bebidas,384.76,Alexandre Costa,67,FEMININO,São Paulo
+269,109,24,3,2024-06-17,Produto 24,Alimentos,122.16,Felipe Silveira,25,MASCULINO,São Paulo
+270,146,46,9,2023-07-12,Produto 46,Higiene,46.03,Joana Pereira,22,MASCULINO,São Paulo
+271,111,19,2,2023-05-30,Produto 19,Higiene,259.1,Dr. Vicente Araújo,28,FEMININO,Manaus
+272,111,4,4,2024-05-29,Produto 4,Limpeza,497.99,Dr. Vicente Araújo,28,FEMININO,Manaus
+273,34,26,4,2024-01-28,Produto 26,Higiene,297.98,Dr. Igor Moura,45,MASCULINO,Rio de Janeiro
+274,111,38,2,2023-11-12,Produto 38,Higiene,371.78,Dr. Vicente Araújo,28,FEMININO,Manaus
+275,8,42,3,2023-03-17,Produto 42,Higiene,342.11,Mirella Barros,56,MASCULINO,Belém
+276,168,32,3,2024-08-21,Produto 32,Alimentos,128.12,Maria Fernanda Sales,62,FEMININO,Fortaleza
+277,113,39,1,2023-09-27,Produto 39,Bebidas,384.76,Enzo Gabriel Farias,34,MASCULINO,Manaus
+278,83,45,6,2023-08-13,Produto 45,Limpeza,241.47,Beatriz Lima,65,FEMININO,Fortaleza
+279,42,46,8,2024-06-13,Produto 46,Higiene,46.03,Kaique Alves,54,MASCULINO,Rio de Janeiro
+280,169,36,3,2023-04-23,Produto 36,Limpeza,205.58,Srta. Caroline Farias,32,MASCULINO,Rio de Janeiro
+281,101,40,5,2023-09-08,Produto 40,Eletrônicos,412.28,Dr. Augusto Aragão,62,FEMININO,São Paulo
+282,6,37,1,2023-08-21,Produto 37,Limpeza,287.88,Lucas Freitas,25,MASCULINO,Fortaleza
+283,180,33,7,2024-12-14,Produto 33,Higiene,168.48,Vitor Souza,59,FEMININO,Rio de Janeiro
+284,26,36,1,2023-03-24,Produto 36,Limpeza,205.58,Rebeca da Cunha,50,FEMININO,Belém
+285,64,3,9,2023-05-05,Produto 3,Alimentos,487.25,Srta. Juliana Araújo,31,FEMININO,Fortaleza
+286,187,9,8,2023-06-24,Produto 9,Alimentos,484.48,Thales Fogaça,37,FEMININO,São Paulo
+287,184,8,7,2023-03-10,Produto 8,Higiene,354.39,Isabelly Fogaça,45,MASCULINO,São Paulo
+288,59,33,7,2023-02-16,Produto 33,Higiene,168.48,Natália Ribeiro,24,FEMININO,Manaus
+289,109,6,5,2023-09-13,Produto 6,Eletrônicos,369.83,Felipe Silveira,25,MASCULINO,São Paulo
+290,198,41,5,2024-12-27,Produto 41,Eletrônicos,373.38,Heitor Campos,58,MASCULINO,Belém
+291,121,39,5,2023-01-30,Produto 39,Bebidas,384.76,Isabel da Rosa,58,MASCULINO,Fortaleza
+292,33,4,1,2023-10-08,Produto 4,Limpeza,497.99,Gabriela Araújo,59,FEMININO,Manaus
+293,181,13,8,2023-08-25,Produto 13,Alimentos,420.05,Otávio Cavalcanti,62,FEMININO,São Paulo
+294,150,49,1,2023-09-05,Produto 49,Eletrônicos,402.04,Maysa Fogaça,44,FEMININO,Belém
+295,21,2,4,2024-01-03,Produto 2,Eletrônicos,465.81,Francisco da Cruz,61,FEMININO,Fortaleza
+296,198,5,9,2024-05-09,Produto 5,Bebidas,32.66,Heitor Campos,58,MASCULINO,Belém
+297,70,44,9,2023-01-25,Produto 44,Alimentos,203.11,Luiz Felipe Sales,19,MASCULINO,Manaus
+298,112,27,5,2024-08-08,Produto 27,Higiene,178.36,Ana Alves,68,MASCULINO,São Paulo
+299,4,32,4,2024-12-18,Produto 32,Alimentos,128.12,Giovanna Aragão,32,MASCULINO,Belém
+300,94,21,3,2024-05-04,Produto 21,Alimentos,292.75,Fernando Aragão,41,FEMININO,Fortaleza
+301,75,8,3,2024-05-08,Produto 8,Higiene,354.39,Sabrina Nascimento,35,MASCULINO,Manaus
+302,190,38,5,2023-11-10,Produto 38,Higiene,371.78,Rafael Novaes,45,MASCULINO,Rio de Janeiro
+303,62,8,1,2024-08-28,Produto 8,Higiene,354.39,Vicente Lopes,64,MASCULINO,Fortaleza
+304,94,50,5,2024-01-10,Produto 50,Alimentos,489.06,Fernando Aragão,41,FEMININO,Fortaleza
+305,95,3,6,2024-09-30,Produto 3,Alimentos,487.25,Ana Fernandes,43,MASCULINO,São Paulo
+306,152,44,7,2023-01-25,Produto 44,Alimentos,203.11,Pedro Henrique Vieira,32,FEMININO,Fortaleza
+307,55,3,9,2023-11-30,Produto 3,Alimentos,487.25,Dr. Lucas Gabriel Dias,19,MASCULINO,Manaus
+308,137,22,3,2023-12-21,Produto 22,Alimentos,432.25,Daniela da Costa,44,FEMININO,Manaus
+309,131,6,2,2023-04-26,Produto 6,Eletrônicos,369.83,Srta. Isabelly Cavalcanti,41,MASCULINO,Belém
+310,31,2,3,2023-02-17,Produto 2,Eletrônicos,465.81,Noah Aragão,66,MASCULINO,Belém
+311,40,23,9,2023-04-09,Produto 23,Limpeza,440.78,Heitor Lopes,69,FEMININO,São Paulo
+312,36,44,7,2024-04-03,Produto 44,Alimentos,203.11,Rafael Rezende,32,MASCULINO,Manaus
+313,152,2,9,2024-06-06,Produto 2,Eletrônicos,465.81,Pedro Henrique Vieira,32,FEMININO,Fortaleza
+314,6,38,2,2024-08-19,Produto 38,Higiene,371.78,Lucas Freitas,25,MASCULINO,Fortaleza
+315,66,17,5,2024-02-09,Produto 17,Eletrônicos,446.49,Thiago Silva,53,FEMININO,Fortaleza
+316,75,35,4,2023-08-02,Produto 35,Alimentos,130.57,Sabrina Nascimento,35,MASCULINO,Manaus
+317,4,34,2,2024-11-15,Produto 34,Limpeza,220.05,Giovanna Aragão,32,MASCULINO,Belém
+318,79,23,9,2024-05-17,Produto 23,Limpeza,440.78,Renan Lopes,27,FEMININO,Fortaleza
+319,134,30,9,2024-12-21,Produto 30,Limpeza,192.1,Dr. Guilherme Moreira,61,MASCULINO,São Paulo
+320,118,8,6,2024-03-23,Produto 8,Higiene,354.39,Ana Julia Nogueira,22,MASCULINO,Belém
+321,113,22,6,2024-07-29,Produto 22,Alimentos,432.25,Enzo Gabriel Farias,34,MASCULINO,Manaus
+322,94,44,8,2023-09-15,Produto 44,Alimentos,203.11,Fernando Aragão,41,FEMININO,Fortaleza
+323,179,36,6,2023-05-01,Produto 36,Limpeza,205.58,Dr. Guilherme Fernandes,19,FEMININO,Belém
+324,62,5,1,2023-02-23,Produto 5,Bebidas,32.66,Vicente Lopes,64,MASCULINO,Fortaleza
+325,185,13,4,2023-11-27,Produto 13,Alimentos,420.05,Lucas Gabriel Nascimento,61,FEMININO,Belém
+326,194,29,7,2023-08-29,Produto 29,Limpeza,243.43,Daniela Silva,18,FEMININO,Belém
+327,79,31,2,2024-06-13,Produto 31,Eletrônicos,354.02,Renan Lopes,27,FEMININO,Fortaleza
+328,136,47,9,2024-04-27,Produto 47,Eletrônicos,266.54,Isabella da Costa,39,FEMININO,Fortaleza
+329,26,16,8,2023-07-06,Produto 16,Alimentos,201.34,Rebeca da Cunha,50,FEMININO,Belém
+330,179,42,8,2024-10-17,Produto 42,Higiene,342.11,Dr. Guilherme Fernandes,19,FEMININO,Belém
+331,173,30,7,2023-09-19,Produto 30,Limpeza,192.1,Alana das Neves,30,FEMININO,Rio de Janeiro
+332,44,16,4,2023-12-30,Produto 16,Alimentos,201.34,Dr. Murilo Monteiro,24,MASCULINO,São Paulo
+333,133,12,2,2024-05-05,Produto 12,Bebidas,434.1,Cecília da Paz,52,MASCULINO,São Paulo
+334,70,17,3,2024-03-06,Produto 17,Eletrônicos,446.49,Luiz Felipe Sales,19,MASCULINO,Manaus
+335,154,16,6,2023-08-27,Produto 16,Alimentos,201.34,Dra. Clarice Fernandes,43,MASCULINO,Manaus
+336,118,12,5,2023-10-31,Produto 12,Bebidas,434.1,Ana Julia Nogueira,22,MASCULINO,Belém
+337,68,8,8,2023-10-25,Produto 8,Higiene,354.39,Vitor Gabriel Pereira,57,FEMININO,São Paulo
+338,19,20,6,2023-03-17,Produto 20,Alimentos,120.45,Benjamin Monteiro,19,FEMININO,Belém
+339,20,3,6,2024-11-30,Produto 3,Alimentos,487.25,João Vitor da Rosa,41,MASCULINO,Rio de Janeiro
+340,113,16,1,2023-11-29,Produto 16,Alimentos,201.34,Enzo Gabriel Farias,34,MASCULINO,Manaus
+341,140,30,4,2024-10-03,Produto 30,Limpeza,192.1,Camila Caldeira,52,FEMININO,São Paulo
+342,47,45,5,2024-04-18,Produto 45,Limpeza,241.47,Bruno Santos,56,FEMININO,Manaus
+343,1,23,3,2023-10-10,Produto 23,Limpeza,440.78,Sr. Emanuel Costela,56,FEMININO,Rio de Janeiro
+344,90,28,9,2024-08-13,Produto 28,Alimentos,355.55,Diego Martins,33,MASCULINO,Rio de Janeiro
+345,142,40,1,2023-03-13,Produto 40,Eletrônicos,412.28,Sofia Vieira,64,FEMININO,Fortaleza
+346,64,5,6,2023-09-20,Produto 5,Bebidas,32.66,Srta. Juliana Araújo,31,FEMININO,Fortaleza
+347,38,20,6,2024-12-03,Produto 20,Alimentos,120.45,Vitor Nunes,68,FEMININO,São Paulo
+348,37,40,5,2024-07-28,Produto 40,Eletrônicos,412.28,Natália Dias,64,FEMININO,São Paulo
+349,126,44,5,2023-01-12,Produto 44,Alimentos,203.11,Dr. Thomas Santos,29,FEMININO,Belém
+350,139,1,5,2023-05-21,Produto 1,Eletrônicos,61.16,Sr. Pedro da Rocha,18,FEMININO,São Paulo
+351,100,30,6,2024-07-08,Produto 30,Limpeza,192.1,Mariana Moura,32,FEMININO,São Paulo
+352,77,21,8,2023-01-17,Produto 21,Alimentos,292.75,Clara Nascimento,61,MASCULINO,São Paulo
+353,3,20,2,2023-03-04,Produto 20,Alimentos,120.45,Cauê Ferreira,46,MASCULINO,São Paulo
+354,161,6,6,2023-09-10,Produto 6,Eletrônicos,369.83,Stephany Moreira,69,FEMININO,Fortaleza
+355,134,22,1,2024-04-09,Produto 22,Alimentos,432.25,Dr. Guilherme Moreira,61,MASCULINO,São Paulo
+356,178,18,4,2024-01-11,Produto 18,Alimentos,77.57,Marcos Vinicius da Costa,45,FEMININO,São Paulo
+357,10,8,3,2024-06-03,Produto 8,Higiene,354.39,Marina Moraes,40,FEMININO,Belém
+358,5,39,9,2023-03-31,Produto 39,Bebidas,384.76,Thomas Alves,60,FEMININO,Manaus
+359,151,32,3,2024-12-20,Produto 32,Alimentos,128.12,João Felipe Martins,26,FEMININO,Belém
+360,138,33,6,2024-09-21,Produto 33,Higiene,168.48,Maitê Freitas,52,MASCULINO,Belém
+361,172,16,1,2023-06-24,Produto 16,Alimentos,201.34,Cecília da Cruz,53,MASCULINO,São Paulo
+362,130,12,6,2023-03-17,Produto 12,Bebidas,434.1,Sra. Stella Fernandes,40,MASCULINO,Fortaleza
+363,13,38,4,2024-09-04,Produto 38,Higiene,371.78,Lorena Duarte,41,MASCULINO,Rio de Janeiro
+364,168,34,8,2024-10-24,Produto 34,Limpeza,220.05,Maria Fernanda Sales,62,FEMININO,Fortaleza
+365,130,14,9,2024-02-04,Produto 14,Eletrônicos,215.92,Sra. Stella Fernandes,40,MASCULINO,Fortaleza
+366,84,36,4,2023-03-12,Produto 36,Limpeza,205.58,Pietra Azevedo,32,MASCULINO,Fortaleza
+367,65,33,6,2023-06-29,Produto 33,Higiene,168.48,Bryan Sales,34,MASCULINO,Rio de Janeiro
+368,63,23,1,2023-05-04,Produto 23,Limpeza,440.78,Dr. Kevin Campos,52,FEMININO,Manaus
+369,101,50,4,2024-01-16,Produto 50,Alimentos,489.06,Dr. Augusto Aragão,62,FEMININO,São Paulo
+370,73,45,7,2023-10-20,Produto 45,Limpeza,241.47,Bárbara da Cruz,21,FEMININO,São Paulo
+371,17,2,1,2023-07-14,Produto 2,Eletrônicos,465.81,Dra. Raquel Oliveira,20,FEMININO,Fortaleza
+372,9,41,8,2023-08-16,Produto 41,Eletrônicos,373.38,Paulo Teixeira,36,FEMININO,Fortaleza
+373,143,21,6,2024-03-06,Produto 21,Alimentos,292.75,Otávio Freitas,31,MASCULINO,São Paulo
+374,152,2,5,2024-03-11,Produto 2,Eletrônicos,465.81,Pedro Henrique Vieira,32,FEMININO,Fortaleza
+375,38,27,9,2024-04-05,Produto 27,Higiene,178.36,Vitor Nunes,68,FEMININO,São Paulo
+376,163,9,2,2024-09-09,Produto 9,Alimentos,484.48,Gustavo Ferreira,21,FEMININO,Manaus
+377,94,1,5,2023-01-21,Produto 1,Eletrônicos,61.16,Fernando Aragão,41,FEMININO,Fortaleza
+378,95,11,6,2023-03-05,Produto 11,Limpeza,419.3,Ana Fernandes,43,MASCULINO,São Paulo
+379,49,3,7,2023-06-14,Produto 3,Alimentos,487.25,João Miguel Nogueira,21,MASCULINO,Rio de Janeiro
+380,69,23,5,2023-01-27,Produto 23,Limpeza,440.78,Otávio Campos,21,FEMININO,Rio de Janeiro
+381,62,26,9,2023-11-07,Produto 26,Higiene,297.98,Vicente Lopes,64,MASCULINO,Fortaleza
+382,188,4,1,2023-10-12,Produto 4,Limpeza,497.99,Sophia Martins,47,FEMININO,São Paulo
+383,178,18,7,2024-10-21,Produto 18,Alimentos,77.57,Marcos Vinicius da Costa,45,FEMININO,São Paulo
+384,78,6,7,2023-10-08,Produto 6,Eletrônicos,369.83,Sr. Enzo Araújo,51,FEMININO,Rio de Janeiro
+385,117,35,4,2023-06-13,Produto 35,Alimentos,130.57,Anthony Cunha,50,FEMININO,Belém
+386,120,22,9,2023-08-12,Produto 22,Alimentos,432.25,Ana Luiza da Cruz,56,FEMININO,Rio de Janeiro
+387,137,43,5,2023-05-26,Produto 43,Limpeza,122.57,Daniela da Costa,44,FEMININO,Manaus
+388,162,15,4,2023-01-30,Produto 15,Limpeza,115.18,Vitor Hugo Fogaça,49,FEMININO,Manaus
+389,76,22,7,2023-02-14,Produto 22,Alimentos,432.25,Dr. Pedro Henrique Aragão,43,FEMININO,Fortaleza
+390,35,37,4,2024-04-15,Produto 37,Limpeza,287.88,Yago Dias,33,MASCULINO,São Paulo
+391,1,42,3,2023-02-03,Produto 42,Higiene,342.11,Sr. Emanuel Costela,56,FEMININO,Rio de Janeiro
+392,40,12,9,2024-10-14,Produto 12,Bebidas,434.1,Heitor Lopes,69,FEMININO,São Paulo
+393,64,47,8,2024-03-02,Produto 47,Eletrônicos,266.54,Srta. Juliana Araújo,31,FEMININO,Fortaleza
+394,150,49,1,2023-08-09,Produto 49,Eletrônicos,402.04,Maysa Fogaça,44,FEMININO,Belém
+395,60,42,7,2024-06-17,Produto 42,Higiene,342.11,Catarina Melo,61,MASCULINO,Fortaleza
+396,64,38,9,2024-11-22,Produto 38,Higiene,371.78,Srta. Juliana Araújo,31,FEMININO,Fortaleza
+397,93,18,8,2024-01-02,Produto 18,Alimentos,77.57,Maria Fernanda da Mata,64,MASCULINO,São Paulo
+398,72,45,8,2024-07-03,Produto 45,Limpeza,241.47,Luiza Nascimento,59,FEMININO,Belém
+399,11,35,6,2024-08-04,Produto 35,Alimentos,130.57,Ana Lívia das Neves,28,FEMININO,Rio de Janeiro
+400,105,30,4,2023-04-26,Produto 30,Limpeza,192.1,Caroline Fernandes,26,MASCULINO,Manaus
+401,14,24,8,2023-08-27,Produto 24,Alimentos,122.16,Joaquim da Costa,53,FEMININO,Manaus
+402,60,42,3,2023-12-01,Produto 42,Higiene,342.11,Catarina Melo,61,MASCULINO,Fortaleza
+403,30,30,9,2024-03-16,Produto 30,Limpeza,192.1,Bárbara Vieira,42,MASCULINO,Fortaleza
+404,35,14,2,2023-05-28,Produto 14,Eletrônicos,215.92,Yago Dias,33,MASCULINO,São Paulo
+405,165,6,2,2023-01-09,Produto 6,Eletrônicos,369.83,Guilherme Rodrigues,54,FEMININO,Rio de Janeiro
+406,5,3,7,2023-10-15,Produto 3,Alimentos,487.25,Thomas Alves,60,FEMININO,Manaus
+407,83,16,4,2024-01-23,Produto 16,Alimentos,201.34,Beatriz Lima,65,FEMININO,Fortaleza
+408,123,7,8,2023-02-19,Produto 7,Alimentos,275.23,Natália Dias,24,MASCULINO,Rio de Janeiro
+409,78,14,9,2024-05-31,Produto 14,Eletrônicos,215.92,Sr. Enzo Araújo,51,FEMININO,Rio de Janeiro
+410,154,9,7,2024-09-29,Produto 9,Alimentos,484.48,Dra. Clarice Fernandes,43,MASCULINO,Manaus
+411,62,15,5,2024-08-09,Produto 15,Limpeza,115.18,Vicente Lopes,64,MASCULINO,Fortaleza
+412,132,21,8,2024-11-07,Produto 21,Alimentos,292.75,Daniel Moreira,54,MASCULINO,Fortaleza
+413,89,35,4,2023-10-05,Produto 35,Alimentos,130.57,Carlos Eduardo Costela,38,MASCULINO,Fortaleza
+414,42,2,2,2023-10-27,Produto 2,Eletrônicos,465.81,Kaique Alves,54,MASCULINO,Rio de Janeiro
+415,89,27,6,2024-08-11,Produto 27,Higiene,178.36,Carlos Eduardo Costela,38,MASCULINO,Fortaleza
+416,146,2,9,2024-10-10,Produto 2,Eletrônicos,465.81,Joana Pereira,22,MASCULINO,São Paulo
+417,40,35,1,2024-09-09,Produto 35,Alimentos,130.57,Heitor Lopes,69,FEMININO,São Paulo
+418,72,18,7,2024-08-29,Produto 18,Alimentos,77.57,Luiza Nascimento,59,FEMININO,Belém
+419,39,14,9,2023-05-15,Produto 14,Eletrônicos,215.92,Luiz Otávio Nascimento,61,FEMININO,Rio de Janeiro
+420,104,20,9,2024-08-02,Produto 20,Alimentos,120.45,Alexia Souza,24,FEMININO,Belém
+421,14,18,3,2023-05-27,Produto 18,Alimentos,77.57,Joaquim da Costa,53,FEMININO,Manaus
+422,32,10,5,2024-05-04,Produto 10,Higiene,345.57,Amanda Lima,44,MASCULINO,Belém
+423,179,25,8,2024-04-22,Produto 25,Eletrônicos,454.31,Dr. Guilherme Fernandes,19,FEMININO,Belém
+424,125,2,8,2023-06-08,Produto 2,Eletrônicos,465.81,Srta. Ana Beatriz Rezende,25,FEMININO,Manaus
+425,166,25,4,2024-01-19,Produto 25,Eletrônicos,454.31,Luna Cavalcanti,40,FEMININO,Rio de Janeiro
+426,97,33,1,2023-06-12,Produto 33,Higiene,168.48,Dr. Isaac Castro,62,FEMININO,Manaus
+427,23,36,1,2024-03-16,Produto 36,Limpeza,205.58,Pietra da Luz,55,FEMININO,Belém
+428,63,31,4,2023-07-08,Produto 31,Eletrônicos,354.02,Dr. Kevin Campos,52,FEMININO,Manaus
+429,143,14,6,2024-02-19,Produto 14,Eletrônicos,215.92,Otávio Freitas,31,MASCULINO,São Paulo
+430,153,1,8,2023-12-05,Produto 1,Eletrônicos,61.16,Carolina da Paz,32,FEMININO,São Paulo
+431,145,46,6,2024-08-29,Produto 46,Higiene,46.03,Alana Rodrigues,18,FEMININO,São Paulo
+432,194,16,9,2023-06-30,Produto 16,Alimentos,201.34,Daniela Silva,18,FEMININO,Belém
+433,53,46,9,2023-10-15,Produto 46,Higiene,46.03,Emanuella Ribeiro,26,FEMININO,Rio de Janeiro
+434,104,3,2,2023-07-06,Produto 3,Alimentos,487.25,Alexia Souza,24,FEMININO,Belém
+435,104,35,1,2023-05-18,Produto 35,Alimentos,130.57,Alexia Souza,24,FEMININO,Belém
+436,179,41,2,2023-05-10,Produto 41,Eletrônicos,373.38,Dr. Guilherme Fernandes,19,FEMININO,Belém
+437,39,6,5,2023-07-13,Produto 6,Eletrônicos,369.83,Luiz Otávio Nascimento,61,FEMININO,Rio de Janeiro
+438,179,25,4,2023-11-12,Produto 25,Eletrônicos,454.31,Dr. Guilherme Fernandes,19,FEMININO,Belém
+439,198,13,4,2023-05-24,Produto 13,Alimentos,420.05,Heitor Campos,58,MASCULINO,Belém
+440,134,34,9,2023-01-16,Produto 34,Limpeza,220.05,Dr. Guilherme Moreira,61,MASCULINO,São Paulo
+441,67,8,8,2023-10-29,Produto 8,Higiene,354.39,Alexandre Costa,67,FEMININO,São Paulo
+442,135,21,6,2024-02-27,Produto 21,Alimentos,292.75,Sr. Lucas Gabriel Azevedo,57,MASCULINO,Belém
+443,179,34,1,2023-09-02,Produto 34,Limpeza,220.05,Dr. Guilherme Fernandes,19,FEMININO,Belém
+444,200,4,2,2023-04-17,Produto 4,Limpeza,497.99,André Costa,56,FEMININO,Manaus
+445,42,25,6,2023-03-29,Produto 25,Eletrônicos,454.31,Kaique Alves,54,MASCULINO,Rio de Janeiro
+446,192,15,2,2023-05-09,Produto 15,Limpeza,115.18,Ana Luiza Silva,56,MASCULINO,Fortaleza
+447,15,4,5,2023-12-07,Produto 4,Limpeza,497.99,Camila Nogueira,57,FEMININO,Manaus
+448,111,45,5,2023-01-04,Produto 45,Limpeza,241.47,Dr. Vicente Araújo,28,FEMININO,Manaus
+449,157,12,6,2023-11-23,Produto 12,Bebidas,434.1,Lavínia Gonçalves,68,MASCULINO,Fortaleza
+450,33,32,6,2024-02-14,Produto 32,Alimentos,128.12,Gabriela Araújo,59,FEMININO,Manaus
+451,155,32,6,2023-11-02,Produto 32,Alimentos,128.12,Dr. Carlos Eduardo Cavalcanti,59,FEMININO,Fortaleza
+452,164,28,2,2024-08-29,Produto 28,Alimentos,355.55,Joaquim da Cruz,47,FEMININO,Belém
+453,157,13,3,2024-12-21,Produto 13,Alimentos,420.05,Lavínia Gonçalves,68,MASCULINO,Fortaleza
+454,38,31,6,2023-08-13,Produto 31,Eletrônicos,354.02,Vitor Nunes,68,FEMININO,São Paulo
+455,185,14,8,2023-12-14,Produto 14,Eletrônicos,215.92,Lucas Gabriel Nascimento,61,FEMININO,Belém
+456,97,20,1,2023-11-17,Produto 20,Alimentos,120.45,Dr. Isaac Castro,62,FEMININO,Manaus
+457,155,18,1,2024-07-12,Produto 18,Alimentos,77.57,Dr. Carlos Eduardo Cavalcanti,59,FEMININO,Fortaleza
+458,183,29,2,2023-06-30,Produto 29,Limpeza,243.43,Catarina Martins,45,MASCULINO,Manaus
+459,33,6,6,2024-09-09,Produto 6,Eletrônicos,369.83,Gabriela Araújo,59,FEMININO,Manaus
+460,196,32,9,2024-12-11,Produto 32,Alimentos,128.12,Yago Nogueira,69,FEMININO,Belém
+461,86,29,4,2024-01-21,Produto 29,Limpeza,243.43,Dr. Luigi Campos,31,MASCULINO,Belém
+462,66,43,3,2024-09-09,Produto 43,Limpeza,122.57,Thiago Silva,53,FEMININO,Fortaleza
+463,10,2,8,2023-04-18,Produto 2,Eletrônicos,465.81,Marina Moraes,40,FEMININO,Belém
+464,5,23,9,2024-06-14,Produto 23,Limpeza,440.78,Thomas Alves,60,FEMININO,Manaus
+465,123,19,5,2024-02-14,Produto 19,Higiene,259.1,Natália Dias,24,MASCULINO,Rio de Janeiro
+466,74,31,9,2023-10-23,Produto 31,Eletrônicos,354.02,Maria Vitória Jesus,46,MASCULINO,São Paulo
+467,97,5,2,2023-06-20,Produto 5,Bebidas,32.66,Dr. Isaac Castro,62,FEMININO,Manaus
+468,118,19,3,2023-11-27,Produto 19,Higiene,259.1,Ana Julia Nogueira,22,MASCULINO,Belém
+469,38,34,7,2024-05-07,Produto 34,Limpeza,220.05,Vitor Nunes,68,FEMININO,São Paulo
+470,141,10,7,2023-07-14,Produto 10,Higiene,345.57,Vitor Hugo da Rosa,54,FEMININO,Belém
+471,159,25,6,2023-01-12,Produto 25,Eletrônicos,454.31,Ian Silveira,56,MASCULINO,São Paulo
+472,47,2,6,2023-07-14,Produto 2,Eletrônicos,465.81,Bruno Santos,56,FEMININO,Manaus
+473,109,11,2,2024-05-04,Produto 11,Limpeza,419.3,Felipe Silveira,25,MASCULINO,São Paulo
+474,180,50,6,2023-07-01,Produto 50,Alimentos,489.06,Vitor Souza,59,FEMININO,Rio de Janeiro
+475,184,31,4,2024-10-17,Produto 31,Eletrônicos,354.02,Isabelly Fogaça,45,MASCULINO,São Paulo
+476,15,15,3,2023-11-12,Produto 15,Limpeza,115.18,Camila Nogueira,57,FEMININO,Manaus
+477,157,9,2,2024-11-24,Produto 9,Alimentos,484.48,Lavínia Gonçalves,68,MASCULINO,Fortaleza
+478,136,23,1,2023-01-30,Produto 23,Limpeza,440.78,Isabella da Costa,39,FEMININO,Fortaleza
+479,5,19,5,2024-08-18,Produto 19,Higiene,259.1,Thomas Alves,60,FEMININO,Manaus
+480,157,9,2,2024-11-08,Produto 9,Alimentos,484.48,Lavínia Gonçalves,68,MASCULINO,Fortaleza
+481,47,35,2,2023-04-06,Produto 35,Alimentos,130.57,Bruno Santos,56,FEMININO,Manaus
+482,68,21,7,2024-01-16,Produto 21,Alimentos,292.75,Vitor Gabriel Pereira,57,FEMININO,São Paulo
+483,76,9,8,2024-03-19,Produto 9,Alimentos,484.48,Dr. Pedro Henrique Aragão,43,FEMININO,Fortaleza
+484,173,28,8,2023-10-25,Produto 28,Alimentos,355.55,Alana das Neves,30,FEMININO,Rio de Janeiro
+485,130,46,4,2023-12-27,Produto 46,Higiene,46.03,Sra. Stella Fernandes,40,MASCULINO,Fortaleza
+486,155,7,1,2024-01-09,Produto 7,Alimentos,275.23,Dr. Carlos Eduardo Cavalcanti,59,FEMININO,Fortaleza
+487,95,16,7,2024-07-07,Produto 16,Alimentos,201.34,Ana Fernandes,43,MASCULINO,São Paulo
+488,115,16,1,2023-10-30,Produto 16,Alimentos,201.34,Sr. Leonardo Jesus,52,FEMININO,Belém
+489,164,33,4,2024-02-25,Produto 33,Higiene,168.48,Joaquim da Cruz,47,FEMININO,Belém
+490,36,4,8,2023-09-03,Produto 4,Limpeza,497.99,Rafael Rezende,32,MASCULINO,Manaus
+491,26,4,2,2024-12-20,Produto 4,Limpeza,497.99,Rebeca da Cunha,50,FEMININO,Belém
+492,43,39,6,2023-08-25,Produto 39,Bebidas,384.76,Milena Aragão,68,FEMININO,São Paulo
+493,27,40,6,2024-06-17,Produto 40,Eletrônicos,412.28,Vitor Nogueira,29,MASCULINO,Rio de Janeiro
+494,69,17,9,2023-07-04,Produto 17,Eletrônicos,446.49,Otávio Campos,21,FEMININO,Rio de Janeiro
+495,148,37,5,2024-04-12,Produto 37,Limpeza,287.88,Ana Sophia Cardoso,31,FEMININO,São Paulo
+496,11,39,4,2023-12-29,Produto 39,Bebidas,384.76,Ana Lívia das Neves,28,FEMININO,Rio de Janeiro
+497,74,29,5,2023-10-10,Produto 29,Limpeza,243.43,Maria Vitória Jesus,46,MASCULINO,São Paulo
+498,104,36,5,2024-07-06,Produto 36,Limpeza,205.58,Alexia Souza,24,FEMININO,Belém
+499,38,38,8,2023-12-02,Produto 38,Higiene,371.78,Vitor Nunes,68,FEMININO,São Paulo
+500,134,39,8,2023-06-11,Produto 39,Bebidas,384.76,Dr. Guilherme Moreira,61,MASCULINO,São Paulo
+501,200,50,2,2023-06-09,Produto 50,Alimentos,489.06,André Costa,56,FEMININO,Manaus
+502,23,37,7,2024-04-18,Produto 37,Limpeza,287.88,Pietra da Luz,55,FEMININO,Belém
+503,47,35,8,2024-08-23,Produto 35,Alimentos,130.57,Bruno Santos,56,FEMININO,Manaus
+504,90,7,6,2023-11-18,Produto 7,Alimentos,275.23,Diego Martins,33,MASCULINO,Rio de Janeiro
+505,46,27,5,2023-01-12,Produto 27,Higiene,178.36,Evelyn Peixoto,26,MASCULINO,Manaus
+506,107,28,9,2024-02-28,Produto 28,Alimentos,355.55,Arthur Moura,18,FEMININO,Belém
+507,140,22,3,2023-03-14,Produto 22,Alimentos,432.25,Camila Caldeira,52,FEMININO,São Paulo
+508,141,14,4,2024-08-10,Produto 14,Eletrônicos,215.92,Vitor Hugo da Rosa,54,FEMININO,Belém
+509,104,7,9,2023-07-20,Produto 7,Alimentos,275.23,Alexia Souza,24,FEMININO,Belém
+510,190,37,6,2024-06-05,Produto 37,Limpeza,287.88,Rafael Novaes,45,MASCULINO,Rio de Janeiro
+511,111,22,8,2024-05-19,Produto 22,Alimentos,432.25,Dr. Vicente Araújo,28,FEMININO,Manaus
+512,104,5,7,2024-11-18,Produto 5,Bebidas,32.66,Alexia Souza,24,FEMININO,Belém
+513,60,2,2,2023-02-08,Produto 2,Eletrônicos,465.81,Catarina Melo,61,MASCULINO,Fortaleza
+514,171,27,3,2023-03-01,Produto 27,Higiene,178.36,João da Cunha,46,FEMININO,Manaus
+515,100,21,1,2024-07-31,Produto 21,Alimentos,292.75,Mariana Moura,32,FEMININO,São Paulo
+516,68,38,9,2023-11-17,Produto 38,Higiene,371.78,Vitor Gabriel Pereira,57,FEMININO,São Paulo
+517,133,15,7,2024-03-10,Produto 15,Limpeza,115.18,Cecília da Paz,52,MASCULINO,São Paulo
+518,120,21,1,2024-09-27,Produto 21,Alimentos,292.75,Ana Luiza da Cruz,56,FEMININO,Rio de Janeiro
+519,37,10,3,2024-11-06,Produto 10,Higiene,345.57,Natália Dias,64,FEMININO,São Paulo
+520,72,23,4,2024-02-12,Produto 23,Limpeza,440.78,Luiza Nascimento,59,FEMININO,Belém
+521,127,39,4,2024-01-21,Produto 39,Bebidas,384.76,Noah Lopes,51,MASCULINO,Fortaleza
+522,106,5,5,2024-11-01,Produto 5,Bebidas,32.66,Mirella Oliveira,41,MASCULINO,Fortaleza
+523,92,1,3,2024-07-22,Produto 1,Eletrônicos,61.16,André Aragão,35,FEMININO,Belém
+524,31,13,3,2023-03-19,Produto 13,Alimentos,420.05,Noah Aragão,66,MASCULINO,Belém
+525,122,21,1,2023-07-13,Produto 21,Alimentos,292.75,Rafaela da Rosa,45,FEMININO,São Paulo
+526,137,26,7,2023-10-12,Produto 26,Higiene,297.98,Daniela da Costa,44,FEMININO,Manaus
+527,51,50,1,2024-06-10,Produto 50,Alimentos,489.06,Evelyn Aragão,31,FEMININO,São Paulo
+528,29,45,2,2024-06-07,Produto 45,Limpeza,241.47,Sra. Sabrina Farias,61,MASCULINO,Manaus
+529,40,21,4,2024-09-04,Produto 21,Alimentos,292.75,Heitor Lopes,69,FEMININO,São Paulo
+530,41,18,4,2023-06-05,Produto 18,Alimentos,77.57,Natália da Cunha,20,MASCULINO,São Paulo
+531,11,37,5,2023-12-06,Produto 37,Limpeza,287.88,Ana Lívia das Neves,28,FEMININO,Rio de Janeiro
+532,151,45,2,2023-05-05,Produto 45,Limpeza,241.47,João Felipe Martins,26,FEMININO,Belém
+533,1,32,4,2023-10-07,Produto 32,Alimentos,128.12,Sr. Emanuel Costela,56,FEMININO,Rio de Janeiro
+534,46,36,1,2024-09-13,Produto 36,Limpeza,205.58,Evelyn Peixoto,26,MASCULINO,Manaus
+535,101,17,2,2024-10-19,Produto 17,Eletrônicos,446.49,Dr. Augusto Aragão,62,FEMININO,São Paulo
+536,149,35,1,2024-12-28,Produto 35,Alimentos,130.57,Dr. Thales Cavalcanti,56,FEMININO,Manaus
+537,90,49,4,2024-11-04,Produto 49,Eletrônicos,402.04,Diego Martins,33,MASCULINO,Rio de Janeiro
+538,110,11,4,2023-05-08,Produto 11,Limpeza,419.3,Dra. Brenda Peixoto,41,FEMININO,São Paulo
+539,164,21,7,2023-11-10,Produto 21,Alimentos,292.75,Joaquim da Cruz,47,FEMININO,Belém
+540,182,26,9,2023-11-28,Produto 26,Higiene,297.98,Ana Julia Nogueira,23,MASCULINO,Rio de Janeiro
+541,57,4,9,2023-05-30,Produto 4,Limpeza,497.99,Sr. Davi Lucas Rezende,45,MASCULINO,Fortaleza
+542,1,34,5,2024-03-29,Produto 34,Limpeza,220.05,Sr. Emanuel Costela,56,FEMININO,Rio de Janeiro
+543,63,48,1,2023-02-05,Produto 48,Limpeza,220.99,Dr. Kevin Campos,52,FEMININO,Manaus
+544,182,18,1,2024-11-15,Produto 18,Alimentos,77.57,Ana Julia Nogueira,23,MASCULINO,Rio de Janeiro
+545,55,40,6,2024-02-24,Produto 40,Eletrônicos,412.28,Dr. Lucas Gabriel Dias,19,MASCULINO,Manaus
+546,115,35,2,2023-01-22,Produto 35,Alimentos,130.57,Sr. Leonardo Jesus,52,FEMININO,Belém
+547,168,41,8,2023-07-25,Produto 41,Eletrônicos,373.38,Maria Fernanda Sales,62,FEMININO,Fortaleza
+548,143,29,9,2024-09-30,Produto 29,Limpeza,243.43,Otávio Freitas,31,MASCULINO,São Paulo
+549,149,29,4,2023-12-22,Produto 29,Limpeza,243.43,Dr. Thales Cavalcanti,56,FEMININO,Manaus
+550,175,38,5,2024-03-15,Produto 38,Higiene,371.78,Ana Lívia Duarte,24,FEMININO,Belém
+551,53,42,8,2024-12-29,Produto 42,Higiene,342.11,Emanuella Ribeiro,26,FEMININO,Rio de Janeiro
+552,137,21,3,2023-04-06,Produto 21,Alimentos,292.75,Daniela da Costa,44,FEMININO,Manaus
+553,180,42,5,2023-06-13,Produto 42,Higiene,342.11,Vitor Souza,59,FEMININO,Rio de Janeiro
+554,57,13,3,2023-05-28,Produto 13,Alimentos,420.05,Sr. Davi Lucas Rezende,45,MASCULINO,Fortaleza
+555,117,49,3,2024-06-13,Produto 49,Eletrônicos,402.04,Anthony Cunha,50,FEMININO,Belém
+556,154,41,3,2023-10-21,Produto 41,Eletrônicos,373.38,Dra. Clarice Fernandes,43,MASCULINO,Manaus
+557,169,17,7,2023-07-14,Produto 17,Eletrônicos,446.49,Srta. Caroline Farias,32,MASCULINO,Rio de Janeiro
+558,35,9,7,2024-10-24,Produto 9,Alimentos,484.48,Yago Dias,33,MASCULINO,São Paulo
+559,63,41,7,2024-04-24,Produto 41,Eletrônicos,373.38,Dr. Kevin Campos,52,FEMININO,Manaus
+560,25,1,8,2023-05-03,Produto 1,Eletrônicos,61.16,Miguel Nunes,38,FEMININO,Manaus
+561,90,2,5,2024-02-04,Produto 2,Eletrônicos,465.81,Diego Martins,33,MASCULINO,Rio de Janeiro
+562,75,48,5,2024-11-29,Produto 48,Limpeza,220.99,Sabrina Nascimento,35,MASCULINO,Manaus
+563,38,29,4,2024-03-27,Produto 29,Limpeza,243.43,Vitor Nunes,68,FEMININO,São Paulo
+564,130,33,7,2024-10-22,Produto 33,Higiene,168.48,Sra. Stella Fernandes,40,MASCULINO,Fortaleza
+565,135,10,4,2023-04-14,Produto 10,Higiene,345.57,Sr. Lucas Gabriel Azevedo,57,MASCULINO,Belém
+566,162,50,2,2024-04-06,Produto 50,Alimentos,489.06,Vitor Hugo Fogaça,49,FEMININO,Manaus
+567,91,40,4,2024-12-18,Produto 40,Eletrônicos,412.28,Eduardo Moreira,62,FEMININO,Fortaleza
+568,17,21,8,2024-12-10,Produto 21,Alimentos,292.75,Dra. Raquel Oliveira,20,FEMININO,Fortaleza
+569,128,28,9,2024-01-31,Produto 28,Alimentos,355.55,Dr. Pedro Lucas Ramos,50,MASCULINO,Belém
+570,171,11,3,2023-12-03,Produto 11,Limpeza,419.3,João da Cunha,46,FEMININO,Manaus
+571,187,34,7,2024-08-21,Produto 34,Limpeza,220.05,Thales Fogaça,37,FEMININO,São Paulo
+572,108,8,9,2023-05-22,Produto 8,Higiene,354.39,Maria Vitória Farias,61,MASCULINO,Manaus
+573,179,22,4,2023-11-13,Produto 22,Alimentos,432.25,Dr. Guilherme Fernandes,19,FEMININO,Belém
+574,182,8,3,2024-12-11,Produto 8,Higiene,354.39,Ana Julia Nogueira,23,MASCULINO,Rio de Janeiro
+575,152,49,5,2024-07-11,Produto 49,Eletrônicos,402.04,Pedro Henrique Vieira,32,FEMININO,Fortaleza
+576,25,15,1,2024-06-10,Produto 15,Limpeza,115.18,Miguel Nunes,38,FEMININO,Manaus
+577,199,17,3,2024-07-09,Produto 17,Eletrônicos,446.49,Vinicius da Luz,20,MASCULINO,Fortaleza
+578,180,23,8,2024-02-05,Produto 23,Limpeza,440.78,Vitor Souza,59,FEMININO,Rio de Janeiro
+579,198,24,8,2024-11-11,Produto 24,Alimentos,122.16,Heitor Campos,58,MASCULINO,Belém
+580,88,45,4,2023-11-06,Produto 45,Limpeza,241.47,Alexandre Ribeiro,57,MASCULINO,Belém
+581,161,19,2,2024-05-09,Produto 19,Higiene,259.1,Stephany Moreira,69,FEMININO,Fortaleza
+582,177,5,8,2024-07-09,Produto 5,Bebidas,32.66,Ana Vitória Carvalho,39,FEMININO,Fortaleza
+583,29,32,8,2024-09-01,Produto 32,Alimentos,128.12,Sra. Sabrina Farias,61,MASCULINO,Manaus
+584,63,44,4,2023-04-19,Produto 44,Alimentos,203.11,Dr. Kevin Campos,52,FEMININO,Manaus
+585,150,1,3,2024-01-07,Produto 1,Eletrônicos,61.16,Maysa Fogaça,44,FEMININO,Belém
+586,154,23,2,2024-09-07,Produto 23,Limpeza,440.78,Dra. Clarice Fernandes,43,MASCULINO,Manaus
+587,156,37,9,2023-07-25,Produto 37,Limpeza,287.88,Vitor Hugo Lopes,30,FEMININO,Rio de Janeiro
+588,114,8,1,2023-02-12,Produto 8,Higiene,354.39,Pedro Dias,25,FEMININO,Belém
+589,49,13,7,2023-09-02,Produto 13,Alimentos,420.05,João Miguel Nogueira,21,MASCULINO,Rio de Janeiro
+590,199,8,5,2023-10-14,Produto 8,Higiene,354.39,Vinicius da Luz,20,MASCULINO,Fortaleza
+591,81,23,8,2023-12-21,Produto 23,Limpeza,440.78,Dr. Vitor Gomes,31,MASCULINO,Manaus
+592,84,43,4,2024-04-20,Produto 43,Limpeza,122.57,Pietra Azevedo,32,MASCULINO,Fortaleza
+593,105,1,7,2023-03-24,Produto 1,Eletrônicos,61.16,Caroline Fernandes,26,MASCULINO,Manaus
+594,177,45,5,2023-04-20,Produto 45,Limpeza,241.47,Ana Vitória Carvalho,39,FEMININO,Fortaleza
+595,148,24,5,2023-07-09,Produto 24,Alimentos,122.16,Ana Sophia Cardoso,31,FEMININO,São Paulo
+596,118,35,9,2023-09-08,Produto 35,Alimentos,130.57,Ana Julia Nogueira,22,MASCULINO,Belém
+597,86,24,9,2024-12-24,Produto 24,Alimentos,122.16,Dr. Luigi Campos,31,MASCULINO,Belém
+598,63,17,9,2023-10-18,Produto 17,Eletrônicos,446.49,Dr. Kevin Campos,52,FEMININO,Manaus
+599,189,5,6,2024-10-06,Produto 5,Bebidas,32.66,Davi Lucas Rodrigues,28,MASCULINO,São Paulo
+600,104,20,6,2023-07-20,Produto 20,Alimentos,120.45,Alexia Souza,24,FEMININO,Belém
+601,49,21,5,2023-11-22,Produto 21,Alimentos,292.75,João Miguel Nogueira,21,MASCULINO,Rio de Janeiro
+602,71,40,9,2024-05-25,Produto 40,Eletrônicos,412.28,João Vitor Fogaça,23,MASCULINO,São Paulo
+603,1,31,8,2024-02-13,Produto 31,Eletrônicos,354.02,Sr. Emanuel Costela,56,FEMININO,Rio de Janeiro
+604,141,46,7,2024-08-29,Produto 46,Higiene,46.03,Vitor Hugo da Rosa,54,FEMININO,Belém
+605,179,36,7,2024-05-22,Produto 36,Limpeza,205.58,Dr. Guilherme Fernandes,19,FEMININO,Belém
+606,123,11,6,2024-12-31,Produto 11,Limpeza,419.3,Natália Dias,24,MASCULINO,Rio de Janeiro
+607,184,15,5,2024-08-23,Produto 15,Limpeza,115.18,Isabelly Fogaça,45,MASCULINO,São Paulo
+608,62,19,4,2023-03-13,Produto 19,Higiene,259.1,Vicente Lopes,64,MASCULINO,Fortaleza
+609,32,7,3,2023-09-04,Produto 7,Alimentos,275.23,Amanda Lima,44,MASCULINO,Belém
+610,158,28,3,2024-10-02,Produto 28,Alimentos,355.55,Thales Barros,49,MASCULINO,Fortaleza
+611,29,43,6,2024-12-24,Produto 43,Limpeza,122.57,Sra. Sabrina Farias,61,MASCULINO,Manaus
+612,49,5,4,2024-08-30,Produto 5,Bebidas,32.66,João Miguel Nogueira,21,MASCULINO,Rio de Janeiro
+613,173,5,6,2024-08-09,Produto 5,Bebidas,32.66,Alana das Neves,30,FEMININO,Rio de Janeiro
+614,30,30,3,2024-07-19,Produto 30,Limpeza,192.1,Bárbara Vieira,42,MASCULINO,Fortaleza
+615,144,32,4,2023-12-10,Produto 32,Alimentos,128.12,Clarice Gomes,20,FEMININO,Fortaleza
+616,168,8,9,2023-02-23,Produto 8,Higiene,354.39,Maria Fernanda Sales,62,FEMININO,Fortaleza
+617,19,10,5,2024-12-30,Produto 10,Higiene,345.57,Benjamin Monteiro,19,FEMININO,Belém
+618,18,38,7,2024-06-11,Produto 38,Higiene,371.78,Augusto Alves,39,MASCULINO,Belém
+619,1,47,2,2024-09-02,Produto 47,Eletrônicos,266.54,Sr. Emanuel Costela,56,FEMININO,Rio de Janeiro
+620,78,32,5,2024-06-15,Produto 32,Alimentos,128.12,Sr. Enzo Araújo,51,FEMININO,Rio de Janeiro
+621,115,48,9,2024-07-11,Produto 48,Limpeza,220.99,Sr. Leonardo Jesus,52,FEMININO,Belém
+622,175,28,3,2023-07-12,Produto 28,Alimentos,355.55,Ana Lívia Duarte,24,FEMININO,Belém
+623,194,17,9,2023-02-27,Produto 17,Eletrônicos,446.49,Daniela Silva,18,FEMININO,Belém
+624,113,31,6,2024-03-12,Produto 31,Eletrônicos,354.02,Enzo Gabriel Farias,34,MASCULINO,Manaus
+625,114,8,4,2023-04-21,Produto 8,Higiene,354.39,Pedro Dias,25,FEMININO,Belém
+626,166,40,7,2023-05-09,Produto 40,Eletrônicos,412.28,Luna Cavalcanti,40,FEMININO,Rio de Janeiro
+627,179,25,8,2024-12-06,Produto 25,Eletrônicos,454.31,Dr. Guilherme Fernandes,19,FEMININO,Belém
+628,63,9,6,2023-11-22,Produto 9,Alimentos,484.48,Dr. Kevin Campos,52,FEMININO,Manaus
+629,132,2,5,2023-01-08,Produto 2,Eletrônicos,465.81,Daniel Moreira,54,MASCULINO,Fortaleza
+630,129,15,6,2023-01-29,Produto 15,Limpeza,115.18,Júlia Souza,65,FEMININO,Manaus
+631,8,50,5,2023-04-22,Produto 50,Alimentos,489.06,Mirella Barros,56,MASCULINO,Belém
+632,157,3,8,2024-11-03,Produto 3,Alimentos,487.25,Lavínia Gonçalves,68,MASCULINO,Fortaleza
+633,55,49,1,2023-05-11,Produto 49,Eletrônicos,402.04,Dr. Lucas Gabriel Dias,19,MASCULINO,Manaus
+634,103,36,7,2023-07-07,Produto 36,Limpeza,205.58,Ana Sophia Araújo,42,MASCULINO,São Paulo
+635,131,4,2,2024-11-05,Produto 4,Limpeza,497.99,Srta. Isabelly Cavalcanti,41,MASCULINO,Belém
+636,32,14,9,2024-12-09,Produto 14,Eletrônicos,215.92,Amanda Lima,44,MASCULINO,Belém
+637,10,41,1,2024-04-19,Produto 41,Eletrônicos,373.38,Marina Moraes,40,FEMININO,Belém
+638,110,41,6,2023-12-30,Produto 41,Eletrônicos,373.38,Dra. Brenda Peixoto,41,FEMININO,São Paulo
+639,162,25,9,2023-07-23,Produto 25,Eletrônicos,454.31,Vitor Hugo Fogaça,49,FEMININO,Manaus
+640,124,50,1,2023-07-31,Produto 50,Alimentos,489.06,Larissa Farias,26,FEMININO,Belém
+641,87,10,4,2024-09-12,Produto 10,Higiene,345.57,João Miguel Moraes,40,FEMININO,Fortaleza
+642,55,21,4,2023-10-03,Produto 21,Alimentos,292.75,Dr. Lucas Gabriel Dias,19,MASCULINO,Manaus
+643,32,36,9,2023-03-14,Produto 36,Limpeza,205.58,Amanda Lima,44,MASCULINO,Belém
+644,178,12,5,2024-11-09,Produto 12,Bebidas,434.1,Marcos Vinicius da Costa,45,FEMININO,São Paulo
+645,135,27,5,2023-08-31,Produto 27,Higiene,178.36,Sr. Lucas Gabriel Azevedo,57,MASCULINO,Belém
+646,93,40,6,2023-04-12,Produto 40,Eletrônicos,412.28,Maria Fernanda da Mata,64,MASCULINO,São Paulo
+647,8,2,1,2024-11-15,Produto 2,Eletrônicos,465.81,Mirella Barros,56,MASCULINO,Belém
+648,65,13,1,2023-06-20,Produto 13,Alimentos,420.05,Bryan Sales,34,MASCULINO,Rio de Janeiro
+649,57,32,9,2024-10-14,Produto 32,Alimentos,128.12,Sr. Davi Lucas Rezende,45,MASCULINO,Fortaleza
+650,67,31,3,2023-07-07,Produto 31,Eletrônicos,354.02,Alexandre Costa,67,FEMININO,São Paulo
+651,187,16,4,2024-03-16,Produto 16,Alimentos,201.34,Thales Fogaça,37,FEMININO,São Paulo
+652,72,32,1,2023-03-27,Produto 32,Alimentos,128.12,Luiza Nascimento,59,FEMININO,Belém
+653,54,32,9,2024-04-20,Produto 32,Alimentos,128.12,Maria Luiza Fernandes,43,FEMININO,São Paulo
+654,67,34,8,2023-02-21,Produto 34,Limpeza,220.05,Alexandre Costa,67,FEMININO,São Paulo
+655,51,11,2,2023-04-21,Produto 11,Limpeza,419.3,Evelyn Aragão,31,FEMININO,São Paulo
+656,97,10,8,2023-02-12,Produto 10,Higiene,345.57,Dr. Isaac Castro,62,FEMININO,Manaus
+657,92,15,7,2023-07-30,Produto 15,Limpeza,115.18,André Aragão,35,FEMININO,Belém
+658,8,17,6,2023-07-19,Produto 17,Eletrônicos,446.49,Mirella Barros,56,MASCULINO,Belém
+659,162,40,1,2024-09-18,Produto 40,Eletrônicos,412.28,Vitor Hugo Fogaça,49,FEMININO,Manaus
+660,35,18,7,2023-01-26,Produto 18,Alimentos,77.57,Yago Dias,33,MASCULINO,São Paulo
+661,96,9,7,2023-10-26,Produto 9,Alimentos,484.48,Enzo Gabriel Alves,42,MASCULINO,Rio de Janeiro
+662,88,25,9,2023-03-18,Produto 25,Eletrônicos,454.31,Alexandre Ribeiro,57,MASCULINO,Belém
+663,78,40,1,2023-05-17,Produto 40,Eletrônicos,412.28,Sr. Enzo Araújo,51,FEMININO,Rio de Janeiro
+664,32,14,2,2023-01-20,Produto 14,Eletrônicos,215.92,Amanda Lima,44,MASCULINO,Belém
+665,120,25,9,2024-03-15,Produto 25,Eletrônicos,454.31,Ana Luiza da Cruz,56,FEMININO,Rio de Janeiro
+666,46,50,9,2023-07-30,Produto 50,Alimentos,489.06,Evelyn Peixoto,26,MASCULINO,Manaus
+667,144,22,6,2024-07-04,Produto 22,Alimentos,432.25,Clarice Gomes,20,FEMININO,Fortaleza
+668,196,30,6,2024-03-10,Produto 30,Limpeza,192.1,Yago Nogueira,69,FEMININO,Belém
+669,165,20,4,2023-07-26,Produto 20,Alimentos,120.45,Guilherme Rodrigues,54,FEMININO,Rio de Janeiro
+670,182,21,4,2024-03-14,Produto 21,Alimentos,292.75,Ana Julia Nogueira,23,MASCULINO,Rio de Janeiro
+671,142,44,5,2024-10-27,Produto 44,Alimentos,203.11,Sofia Vieira,64,FEMININO,Fortaleza
+672,55,32,3,2023-02-11,Produto 32,Alimentos,128.12,Dr. Lucas Gabriel Dias,19,MASCULINO,Manaus
+673,176,46,1,2024-02-15,Produto 46,Higiene,46.03,Sr. Luiz Gustavo Viana,68,MASCULINO,Belém
+674,7,49,1,2024-06-06,Produto 49,Eletrônicos,402.04,Sr. João Guilherme Pereira,38,MASCULINO,Manaus
+675,74,21,7,2024-09-01,Produto 21,Alimentos,292.75,Maria Vitória Jesus,46,MASCULINO,São Paulo
+676,7,35,1,2024-03-02,Produto 35,Alimentos,130.57,Sr. João Guilherme Pereira,38,MASCULINO,Manaus
+677,161,32,1,2023-10-02,Produto 32,Alimentos,128.12,Stephany Moreira,69,FEMININO,Fortaleza
+678,151,30,3,2024-03-23,Produto 30,Limpeza,192.1,João Felipe Martins,26,FEMININO,Belém
+679,85,39,4,2024-01-04,Produto 39,Bebidas,384.76,Felipe Correia,25,FEMININO,Fortaleza
+680,147,49,4,2023-08-08,Produto 49,Eletrônicos,402.04,Leandro Teixeira,43,MASCULINO,Rio de Janeiro
+681,112,12,2,2024-07-30,Produto 12,Bebidas,434.1,Ana Alves,68,MASCULINO,São Paulo
+682,125,41,1,2023-08-20,Produto 41,Eletrônicos,373.38,Srta. Ana Beatriz Rezende,25,FEMININO,Manaus
+683,147,47,3,2023-11-24,Produto 47,Eletrônicos,266.54,Leandro Teixeira,43,MASCULINO,Rio de Janeiro
+684,36,18,4,2024-03-18,Produto 18,Alimentos,77.57,Rafael Rezende,32,MASCULINO,Manaus
+685,29,21,3,2023-02-21,Produto 21,Alimentos,292.75,Sra. Sabrina Farias,61,MASCULINO,Manaus
+686,188,13,8,2024-01-11,Produto 13,Alimentos,420.05,Sophia Martins,47,FEMININO,São Paulo
+687,82,21,1,2023-09-20,Produto 21,Alimentos,292.75,Dr. Henrique Rodrigues,48,FEMININO,Belém
+688,2,8,2,2023-09-24,Produto 8,Higiene,354.39,Cauã Ferreira,69,FEMININO,Rio de Janeiro
+689,129,46,7,2023-12-25,Produto 46,Higiene,46.03,Júlia Souza,65,FEMININO,Manaus
+690,47,40,4,2023-11-13,Produto 40,Eletrônicos,412.28,Bruno Santos,56,FEMININO,Manaus
+691,197,46,8,2023-11-20,Produto 46,Higiene,46.03,Carolina Cunha,30,FEMININO,Rio de Janeiro
+692,148,7,3,2024-10-27,Produto 7,Alimentos,275.23,Ana Sophia Cardoso,31,FEMININO,São Paulo
+693,11,23,6,2024-10-13,Produto 23,Limpeza,440.78,Ana Lívia das Neves,28,FEMININO,Rio de Janeiro
+694,130,44,9,2024-07-16,Produto 44,Alimentos,203.11,Sra. Stella Fernandes,40,MASCULINO,Fortaleza
+695,195,32,1,2024-09-20,Produto 32,Alimentos,128.12,Catarina Campos,44,FEMININO,São Paulo
+696,119,11,1,2024-02-25,Produto 11,Limpeza,419.3,Luna Pires,59,FEMININO,Belém
+697,140,22,8,2023-02-15,Produto 22,Alimentos,432.25,Camila Caldeira,52,FEMININO,São Paulo
+698,20,22,3,2024-08-22,Produto 22,Alimentos,432.25,João Vitor da Rosa,41,MASCULINO,Rio de Janeiro
+699,5,43,5,2024-12-20,Produto 43,Limpeza,122.57,Thomas Alves,60,FEMININO,Manaus
+700,37,25,1,2023-09-26,Produto 25,Eletrônicos,454.31,Natália Dias,64,FEMININO,São Paulo
+701,166,22,5,2024-08-23,Produto 22,Alimentos,432.25,Luna Cavalcanti,40,FEMININO,Rio de Janeiro
+702,137,28,6,2024-01-16,Produto 28,Alimentos,355.55,Daniela da Costa,44,FEMININO,Manaus
+703,53,29,8,2023-04-28,Produto 29,Limpeza,243.43,Emanuella Ribeiro,26,FEMININO,Rio de Janeiro
+704,172,13,3,2024-07-19,Produto 13,Alimentos,420.05,Cecília da Cruz,53,MASCULINO,São Paulo
+705,99,18,3,2023-04-26,Produto 18,Alimentos,77.57,Sophia Ferreira,46,MASCULINO,Fortaleza
+706,86,2,9,2024-09-21,Produto 2,Eletrônicos,465.81,Dr. Luigi Campos,31,MASCULINO,Belém
+707,108,29,4,2023-09-17,Produto 29,Limpeza,243.43,Maria Vitória Farias,61,MASCULINO,Manaus
+708,24,21,4,2023-03-16,Produto 21,Alimentos,292.75,Thomas Fogaça,19,FEMININO,Belém
+709,81,15,7,2024-04-24,Produto 15,Limpeza,115.18,Dr. Vitor Gomes,31,MASCULINO,Manaus
+710,158,27,2,2023-11-01,Produto 27,Higiene,178.36,Thales Barros,49,MASCULINO,Fortaleza
+711,120,50,8,2023-01-07,Produto 50,Alimentos,489.06,Ana Luiza da Cruz,56,FEMININO,Rio de Janeiro
+712,59,31,6,2024-01-01,Produto 31,Eletrônicos,354.02,Natália Ribeiro,24,FEMININO,Manaus
+713,128,15,3,2024-09-25,Produto 15,Limpeza,115.18,Dr. Pedro Lucas Ramos,50,MASCULINO,Belém
+714,114,23,9,2024-06-06,Produto 23,Limpeza,440.78,Pedro Dias,25,FEMININO,Belém
+715,115,24,5,2023-12-14,Produto 24,Alimentos,122.16,Sr. Leonardo Jesus,52,FEMININO,Belém
+716,14,44,8,2024-03-13,Produto 44,Alimentos,203.11,Joaquim da Costa,53,FEMININO,Manaus
+717,9,13,7,2023-08-03,Produto 13,Alimentos,420.05,Paulo Teixeira,36,FEMININO,Fortaleza
+718,40,22,8,2024-03-04,Produto 22,Alimentos,432.25,Heitor Lopes,69,FEMININO,São Paulo
+719,194,43,7,2024-05-12,Produto 43,Limpeza,122.57,Daniela Silva,18,FEMININO,Belém
+720,25,37,3,2024-06-23,Produto 37,Limpeza,287.88,Miguel Nunes,38,FEMININO,Manaus
+721,103,33,2,2024-01-02,Produto 33,Higiene,168.48,Ana Sophia Araújo,42,MASCULINO,São Paulo
+722,22,3,7,2023-11-09,Produto 3,Alimentos,487.25,Kaique Barbosa,47,MASCULINO,Manaus
+723,4,19,3,2024-06-21,Produto 19,Higiene,259.1,Giovanna Aragão,32,MASCULINO,Belém
+724,154,23,3,2023-02-23,Produto 23,Limpeza,440.78,Dra. Clarice Fernandes,43,MASCULINO,Manaus
+725,186,29,2,2024-06-24,Produto 29,Limpeza,243.43,Sr. Vicente Pires,61,MASCULINO,São Paulo
+726,29,30,4,2024-04-11,Produto 30,Limpeza,192.1,Sra. Sabrina Farias,61,MASCULINO,Manaus
+727,109,39,8,2023-06-13,Produto 39,Bebidas,384.76,Felipe Silveira,25,MASCULINO,São Paulo
+728,98,44,1,2023-11-30,Produto 44,Alimentos,203.11,Marcela Cavalcanti,58,FEMININO,Rio de Janeiro
+729,37,47,1,2024-06-30,Produto 47,Eletrônicos,266.54,Natália Dias,64,FEMININO,São Paulo
+730,75,25,5,2023-12-14,Produto 25,Eletrônicos,454.31,Sabrina Nascimento,35,MASCULINO,Manaus
+731,70,37,5,2023-09-30,Produto 37,Limpeza,287.88,Luiz Felipe Sales,19,MASCULINO,Manaus
+732,146,47,1,2024-12-20,Produto 47,Eletrônicos,266.54,Joana Pereira,22,MASCULINO,São Paulo
+733,128,8,6,2024-02-18,Produto 8,Higiene,354.39,Dr. Pedro Lucas Ramos,50,MASCULINO,Belém
+734,85,42,1,2024-05-14,Produto 42,Higiene,342.11,Felipe Correia,25,FEMININO,Fortaleza
+735,42,16,5,2023-04-03,Produto 16,Alimentos,201.34,Kaique Alves,54,MASCULINO,Rio de Janeiro
+736,100,8,9,2024-11-15,Produto 8,Higiene,354.39,Mariana Moura,32,FEMININO,São Paulo
+737,41,1,5,2023-03-20,Produto 1,Eletrônicos,61.16,Natália da Cunha,20,MASCULINO,São Paulo
+738,166,44,6,2024-09-13,Produto 44,Alimentos,203.11,Luna Cavalcanti,40,FEMININO,Rio de Janeiro
+739,34,5,8,2023-08-05,Produto 5,Bebidas,32.66,Dr. Igor Moura,45,MASCULINO,Rio de Janeiro
+740,17,3,1,2023-12-24,Produto 3,Alimentos,487.25,Dra. Raquel Oliveira,20,FEMININO,Fortaleza
+741,165,1,2,2024-09-09,Produto 1,Eletrônicos,61.16,Guilherme Rodrigues,54,FEMININO,Rio de Janeiro
+742,153,4,9,2024-05-21,Produto 4,Limpeza,497.99,Carolina da Paz,32,FEMININO,São Paulo
+743,122,40,3,2024-07-12,Produto 40,Eletrônicos,412.28,Rafaela da Rosa,45,FEMININO,São Paulo
+744,76,35,6,2023-06-30,Produto 35,Alimentos,130.57,Dr. Pedro Henrique Aragão,43,FEMININO,Fortaleza
+745,87,32,5,2024-07-29,Produto 32,Alimentos,128.12,João Miguel Moraes,40,FEMININO,Fortaleza
+746,117,42,2,2023-09-03,Produto 42,Higiene,342.11,Anthony Cunha,50,FEMININO,Belém
+747,106,34,7,2023-09-01,Produto 34,Limpeza,220.05,Mirella Oliveira,41,MASCULINO,Fortaleza
+748,86,43,4,2024-05-20,Produto 43,Limpeza,122.57,Dr. Luigi Campos,31,MASCULINO,Belém
+749,27,25,1,2024-02-26,Produto 25,Eletrônicos,454.31,Vitor Nogueira,29,MASCULINO,Rio de Janeiro
+750,57,10,4,2023-11-16,Produto 10,Higiene,345.57,Sr. Davi Lucas Rezende,45,MASCULINO,Fortaleza
+751,31,21,6,2023-03-28,Produto 21,Alimentos,292.75,Noah Aragão,66,MASCULINO,Belém
+752,134,46,7,2023-08-05,Produto 46,Higiene,46.03,Dr. Guilherme Moreira,61,MASCULINO,São Paulo
+753,168,39,7,2024-05-04,Produto 39,Bebidas,384.76,Maria Fernanda Sales,62,FEMININO,Fortaleza
+754,98,27,7,2024-06-02,Produto 27,Higiene,178.36,Marcela Cavalcanti,58,FEMININO,Rio de Janeiro
+755,12,27,3,2023-10-05,Produto 27,Higiene,178.36,Elisa da Mota,28,MASCULINO,Fortaleza
+756,53,2,6,2024-12-22,Produto 2,Eletrônicos,465.81,Emanuella Ribeiro,26,FEMININO,Rio de Janeiro
+757,199,41,8,2023-06-18,Produto 41,Eletrônicos,373.38,Vinicius da Luz,20,MASCULINO,Fortaleza
+758,138,48,4,2023-11-26,Produto 48,Limpeza,220.99,Maitê Freitas,52,MASCULINO,Belém
+759,173,13,8,2024-10-11,Produto 13,Alimentos,420.05,Alana das Neves,30,FEMININO,Rio de Janeiro
+760,145,9,2,2024-03-16,Produto 9,Alimentos,484.48,Alana Rodrigues,18,FEMININO,São Paulo
+761,154,36,9,2024-01-26,Produto 36,Limpeza,205.58,Dra. Clarice Fernandes,43,MASCULINO,Manaus
+762,190,22,9,2024-05-10,Produto 22,Alimentos,432.25,Rafael Novaes,45,MASCULINO,Rio de Janeiro
+763,122,42,8,2024-01-16,Produto 42,Higiene,342.11,Rafaela da Rosa,45,FEMININO,São Paulo
+764,46,26,1,2023-11-02,Produto 26,Higiene,297.98,Evelyn Peixoto,26,MASCULINO,Manaus
+765,64,12,2,2024-11-03,Produto 12,Bebidas,434.1,Srta. Juliana Araújo,31,FEMININO,Fortaleza
+766,130,17,6,2024-05-27,Produto 17,Eletrônicos,446.49,Sra. Stella Fernandes,40,MASCULINO,Fortaleza
+767,54,14,5,2023-07-07,Produto 14,Eletrônicos,215.92,Maria Luiza Fernandes,43,FEMININO,São Paulo
+768,107,14,9,2024-05-30,Produto 14,Eletrônicos,215.92,Arthur Moura,18,FEMININO,Belém
+769,193,34,5,2024-10-05,Produto 34,Limpeza,220.05,Kamilly da Paz,50,FEMININO,São Paulo
+770,51,20,2,2024-03-02,Produto 20,Alimentos,120.45,Evelyn Aragão,31,FEMININO,São Paulo
+771,181,11,4,2024-05-16,Produto 11,Limpeza,419.3,Otávio Cavalcanti,62,FEMININO,São Paulo
+772,36,16,9,2024-12-30,Produto 16,Alimentos,201.34,Rafael Rezende,32,MASCULINO,Manaus
+773,115,31,1,2023-09-17,Produto 31,Eletrônicos,354.02,Sr. Leonardo Jesus,52,FEMININO,Belém
+774,26,6,1,2024-05-27,Produto 6,Eletrônicos,369.83,Rebeca da Cunha,50,FEMININO,Belém
+775,29,19,7,2023-03-12,Produto 19,Higiene,259.1,Sra. Sabrina Farias,61,MASCULINO,Manaus
+776,149,37,3,2024-04-22,Produto 37,Limpeza,287.88,Dr. Thales Cavalcanti,56,FEMININO,Manaus
+777,11,4,2,2023-06-27,Produto 4,Limpeza,497.99,Ana Lívia das Neves,28,FEMININO,Rio de Janeiro
+778,40,47,9,2024-04-01,Produto 47,Eletrônicos,266.54,Heitor Lopes,69,FEMININO,São Paulo
+779,11,4,3,2023-07-08,Produto 4,Limpeza,497.99,Ana Lívia das Neves,28,FEMININO,Rio de Janeiro
+780,164,20,2,2023-10-18,Produto 20,Alimentos,120.45,Joaquim da Cruz,47,FEMININO,Belém
+781,113,10,8,2024-06-03,Produto 10,Higiene,345.57,Enzo Gabriel Farias,34,MASCULINO,Manaus
+782,187,24,6,2023-10-19,Produto 24,Alimentos,122.16,Thales Fogaça,37,FEMININO,São Paulo
+783,39,35,6,2024-09-26,Produto 35,Alimentos,130.57,Luiz Otávio Nascimento,61,FEMININO,Rio de Janeiro
+784,54,26,7,2023-10-10,Produto 26,Higiene,297.98,Maria Luiza Fernandes,43,FEMININO,São Paulo
+785,98,37,7,2024-06-27,Produto 37,Limpeza,287.88,Marcela Cavalcanti,58,FEMININO,Rio de Janeiro
+786,55,38,6,2024-01-12,Produto 38,Higiene,371.78,Dr. Lucas Gabriel Dias,19,MASCULINO,Manaus
+787,111,21,4,2024-10-19,Produto 21,Alimentos,292.75,Dr. Vicente Araújo,28,FEMININO,Manaus
+788,152,40,9,2023-06-05,Produto 40,Eletrônicos,412.28,Pedro Henrique Vieira,32,FEMININO,Fortaleza
+789,150,39,6,2024-05-22,Produto 39,Bebidas,384.76,Maysa Fogaça,44,FEMININO,Belém
+790,69,21,4,2024-02-17,Produto 21,Alimentos,292.75,Otávio Campos,21,FEMININO,Rio de Janeiro
+791,56,10,3,2024-06-11,Produto 10,Higiene,345.57,Marcela Lima,37,FEMININO,Belém
+792,33,38,4,2023-12-21,Produto 38,Higiene,371.78,Gabriela Araújo,59,FEMININO,Manaus
+793,36,46,3,2024-07-12,Produto 46,Higiene,46.03,Rafael Rezende,32,MASCULINO,Manaus
+794,148,4,2,2023-07-06,Produto 4,Limpeza,497.99,Ana Sophia Cardoso,31,FEMININO,São Paulo
+795,81,45,5,2023-01-31,Produto 45,Limpeza,241.47,Dr. Vitor Gomes,31,MASCULINO,Manaus
+796,190,20,2,2023-09-17,Produto 20,Alimentos,120.45,Rafael Novaes,45,MASCULINO,Rio de Janeiro
+797,109,17,6,2024-02-25,Produto 17,Eletrônicos,446.49,Felipe Silveira,25,MASCULINO,São Paulo
+798,154,7,3,2024-06-12,Produto 7,Alimentos,275.23,Dra. Clarice Fernandes,43,MASCULINO,Manaus
+799,194,4,6,2024-07-04,Produto 4,Limpeza,497.99,Daniela Silva,18,FEMININO,Belém
+800,73,29,9,2023-10-31,Produto 29,Limpeza,243.43,Bárbara da Cruz,21,FEMININO,São Paulo
+801,40,14,1,2023-02-08,Produto 14,Eletrônicos,215.92,Heitor Lopes,69,FEMININO,São Paulo
+802,17,3,6,2024-05-03,Produto 3,Alimentos,487.25,Dra. Raquel Oliveira,20,FEMININO,Fortaleza
+803,129,24,9,2024-10-05,Produto 24,Alimentos,122.16,Júlia Souza,65,FEMININO,Manaus
+804,61,37,4,2024-06-25,Produto 37,Limpeza,287.88,Luigi Vieira,25,MASCULINO,Belém
+805,171,16,2,2024-10-31,Produto 16,Alimentos,201.34,João da Cunha,46,FEMININO,Manaus
+806,104,4,4,2023-10-05,Produto 4,Limpeza,497.99,Alexia Souza,24,FEMININO,Belém
+807,42,24,1,2023-07-22,Produto 24,Alimentos,122.16,Kaique Alves,54,MASCULINO,Rio de Janeiro
+808,25,34,3,2023-03-07,Produto 34,Limpeza,220.05,Miguel Nunes,38,FEMININO,Manaus
+809,39,30,9,2023-04-18,Produto 30,Limpeza,192.1,Luiz Otávio Nascimento,61,FEMININO,Rio de Janeiro
+810,35,18,5,2023-09-25,Produto 18,Alimentos,77.57,Yago Dias,33,MASCULINO,São Paulo
+811,131,19,6,2023-08-10,Produto 19,Higiene,259.1,Srta. Isabelly Cavalcanti,41,MASCULINO,Belém
+812,108,31,3,2024-06-13,Produto 31,Eletrônicos,354.02,Maria Vitória Farias,61,MASCULINO,Manaus
+813,172,19,5,2023-03-31,Produto 19,Higiene,259.1,Cecília da Cruz,53,MASCULINO,São Paulo
+814,179,49,8,2024-11-23,Produto 49,Eletrônicos,402.04,Dr. Guilherme Fernandes,19,FEMININO,Belém
+815,102,46,6,2023-09-12,Produto 46,Higiene,46.03,Sarah Monteiro,18,MASCULINO,Belém
+816,98,19,4,2024-03-30,Produto 19,Higiene,259.1,Marcela Cavalcanti,58,FEMININO,Rio de Janeiro
+817,12,22,2,2023-09-10,Produto 22,Alimentos,432.25,Elisa da Mota,28,MASCULINO,Fortaleza
+818,19,24,9,2023-09-14,Produto 24,Alimentos,122.16,Benjamin Monteiro,19,FEMININO,Belém
+819,101,45,1,2024-01-18,Produto 45,Limpeza,241.47,Dr. Augusto Aragão,62,FEMININO,São Paulo
+820,44,12,1,2024-03-17,Produto 12,Bebidas,434.1,Dr. Murilo Monteiro,24,MASCULINO,São Paulo
+821,187,30,4,2024-08-21,Produto 30,Limpeza,192.1,Thales Fogaça,37,FEMININO,São Paulo
+822,49,38,7,2023-03-31,Produto 38,Higiene,371.78,João Miguel Nogueira,21,MASCULINO,Rio de Janeiro
+823,189,31,1,2024-01-25,Produto 31,Eletrônicos,354.02,Davi Lucas Rodrigues,28,MASCULINO,São Paulo
+824,17,36,9,2024-08-04,Produto 36,Limpeza,205.58,Dra. Raquel Oliveira,20,FEMININO,Fortaleza
+825,74,19,4,2023-02-13,Produto 19,Higiene,259.1,Maria Vitória Jesus,46,MASCULINO,São Paulo
+826,57,48,3,2024-12-12,Produto 48,Limpeza,220.99,Sr. Davi Lucas Rezende,45,MASCULINO,Fortaleza
+827,55,45,1,2024-10-25,Produto 45,Limpeza,241.47,Dr. Lucas Gabriel Dias,19,MASCULINO,Manaus
+828,47,36,4,2024-08-20,Produto 36,Limpeza,205.58,Bruno Santos,56,FEMININO,Manaus
+829,12,30,9,2023-01-19,Produto 30,Limpeza,192.1,Elisa da Mota,28,MASCULINO,Fortaleza
+830,62,49,6,2023-04-11,Produto 49,Eletrônicos,402.04,Vicente Lopes,64,MASCULINO,Fortaleza
+831,80,33,6,2024-08-29,Produto 33,Higiene,168.48,Carolina Gomes,53,MASCULINO,Belém
+832,83,18,1,2023-12-23,Produto 18,Alimentos,77.57,Beatriz Lima,65,FEMININO,Fortaleza
+833,8,49,2,2024-06-25,Produto 49,Eletrônicos,402.04,Mirella Barros,56,MASCULINO,Belém
+834,149,28,6,2023-02-02,Produto 28,Alimentos,355.55,Dr. Thales Cavalcanti,56,FEMININO,Manaus
+835,81,47,2,2023-08-17,Produto 47,Eletrônicos,266.54,Dr. Vitor Gomes,31,MASCULINO,Manaus
+836,118,11,3,2024-06-07,Produto 11,Limpeza,419.3,Ana Julia Nogueira,22,MASCULINO,Belém
+837,198,45,4,2024-09-21,Produto 45,Limpeza,241.47,Heitor Campos,58,MASCULINO,Belém
+838,200,33,5,2023-06-04,Produto 33,Higiene,168.48,André Costa,56,FEMININO,Manaus
+839,25,17,9,2024-02-27,Produto 17,Eletrônicos,446.49,Miguel Nunes,38,FEMININO,Manaus
+840,89,6,4,2023-09-03,Produto 6,Eletrônicos,369.83,Carlos Eduardo Costela,38,MASCULINO,Fortaleza
+841,12,4,9,2024-02-09,Produto 4,Limpeza,497.99,Elisa da Mota,28,MASCULINO,Fortaleza
+842,143,20,3,2024-06-24,Produto 20,Alimentos,120.45,Otávio Freitas,31,MASCULINO,São Paulo
+843,59,48,8,2023-06-10,Produto 48,Limpeza,220.99,Natália Ribeiro,24,FEMININO,Manaus
+844,154,47,1,2024-12-02,Produto 47,Eletrônicos,266.54,Dra. Clarice Fernandes,43,MASCULINO,Manaus
+845,109,27,9,2023-04-27,Produto 27,Higiene,178.36,Felipe Silveira,25,MASCULINO,São Paulo
+846,26,15,9,2023-09-28,Produto 15,Limpeza,115.18,Rebeca da Cunha,50,FEMININO,Belém
+847,47,6,2,2024-11-22,Produto 6,Eletrônicos,369.83,Bruno Santos,56,FEMININO,Manaus
+848,32,47,4,2024-05-01,Produto 47,Eletrônicos,266.54,Amanda Lima,44,MASCULINO,Belém
+849,10,14,8,2023-06-21,Produto 14,Eletrônicos,215.92,Marina Moraes,40,FEMININO,Belém
+850,16,11,7,2023-10-01,Produto 11,Limpeza,419.3,Yasmin Jesus,41,FEMININO,Fortaleza
+851,199,39,1,2023-09-16,Produto 39,Bebidas,384.76,Vinicius da Luz,20,MASCULINO,Fortaleza
+852,145,9,5,2023-05-15,Produto 9,Alimentos,484.48,Alana Rodrigues,18,FEMININO,São Paulo
+853,151,26,7,2024-11-13,Produto 26,Higiene,297.98,João Felipe Martins,26,FEMININO,Belém
+854,26,16,4,2024-12-22,Produto 16,Alimentos,201.34,Rebeca da Cunha,50,FEMININO,Belém
+855,86,5,1,2024-02-26,Produto 5,Bebidas,32.66,Dr. Luigi Campos,31,MASCULINO,Belém
+856,135,10,9,2024-02-25,Produto 10,Higiene,345.57,Sr. Lucas Gabriel Azevedo,57,MASCULINO,Belém
+857,14,50,5,2023-07-05,Produto 50,Alimentos,489.06,Joaquim da Costa,53,FEMININO,Manaus
+858,79,3,2,2023-12-30,Produto 3,Alimentos,487.25,Renan Lopes,27,FEMININO,Fortaleza
+859,117,13,8,2024-08-29,Produto 13,Alimentos,420.05,Anthony Cunha,50,FEMININO,Belém
+860,7,43,2,2024-01-13,Produto 43,Limpeza,122.57,Sr. João Guilherme Pereira,38,MASCULINO,Manaus
+861,137,49,3,2024-06-06,Produto 49,Eletrônicos,402.04,Daniela da Costa,44,FEMININO,Manaus
+862,115,30,1,2024-08-02,Produto 30,Limpeza,192.1,Sr. Leonardo Jesus,52,FEMININO,Belém
+863,176,45,2,2024-12-22,Produto 45,Limpeza,241.47,Sr. Luiz Gustavo Viana,68,MASCULINO,Belém
+864,72,6,7,2023-07-15,Produto 6,Eletrônicos,369.83,Luiza Nascimento,59,FEMININO,Belém
+865,59,17,2,2023-04-08,Produto 17,Eletrônicos,446.49,Natália Ribeiro,24,FEMININO,Manaus
+866,82,45,6,2024-08-27,Produto 45,Limpeza,241.47,Dr. Henrique Rodrigues,48,FEMININO,Belém
+867,116,19,3,2023-01-22,Produto 19,Higiene,259.1,Gustavo da Cunha,52,FEMININO,Manaus
+868,167,42,4,2024-03-25,Produto 42,Higiene,342.11,Igor Cavalcanti,56,MASCULINO,Belém
+869,146,35,8,2023-06-21,Produto 35,Alimentos,130.57,Joana Pereira,22,MASCULINO,São Paulo
+870,187,46,3,2024-01-18,Produto 46,Higiene,46.03,Thales Fogaça,37,FEMININO,São Paulo
+871,103,26,6,2023-05-14,Produto 26,Higiene,297.98,Ana Sophia Araújo,42,MASCULINO,São Paulo
+872,17,5,1,2024-03-01,Produto 5,Bebidas,32.66,Dra. Raquel Oliveira,20,FEMININO,Fortaleza
+873,14,29,7,2023-01-25,Produto 29,Limpeza,243.43,Joaquim da Costa,53,FEMININO,Manaus
+874,159,37,8,2024-05-17,Produto 37,Limpeza,287.88,Ian Silveira,56,MASCULINO,São Paulo
+875,152,20,8,2023-07-04,Produto 20,Alimentos,120.45,Pedro Henrique Vieira,32,FEMININO,Fortaleza
+876,108,49,3,2023-03-26,Produto 49,Eletrônicos,402.04,Maria Vitória Farias,61,MASCULINO,Manaus
+877,188,21,1,2024-07-20,Produto 21,Alimentos,292.75,Sophia Martins,47,FEMININO,São Paulo
+878,45,10,9,2023-05-24,Produto 10,Higiene,345.57,Raul Sales,38,MASCULINO,São Paulo
+879,98,5,6,2024-11-09,Produto 5,Bebidas,32.66,Marcela Cavalcanti,58,FEMININO,Rio de Janeiro
+880,131,36,9,2024-02-16,Produto 36,Limpeza,205.58,Srta. Isabelly Cavalcanti,41,MASCULINO,Belém
+881,37,6,7,2023-08-12,Produto 6,Eletrônicos,369.83,Natália Dias,64,FEMININO,São Paulo
+882,171,26,1,2023-08-08,Produto 26,Higiene,297.98,João da Cunha,46,FEMININO,Manaus
+883,168,4,1,2023-06-28,Produto 4,Limpeza,497.99,Maria Fernanda Sales,62,FEMININO,Fortaleza
+884,183,39,6,2024-09-22,Produto 39,Bebidas,384.76,Catarina Martins,45,MASCULINO,Manaus
+885,108,39,5,2024-03-08,Produto 39,Bebidas,384.76,Maria Vitória Farias,61,MASCULINO,Manaus
+886,39,50,9,2023-09-22,Produto 50,Alimentos,489.06,Luiz Otávio Nascimento,61,FEMININO,Rio de Janeiro
+887,15,35,2,2024-03-04,Produto 35,Alimentos,130.57,Camila Nogueira,57,FEMININO,Manaus
+888,120,1,8,2024-10-23,Produto 1,Eletrônicos,61.16,Ana Luiza da Cruz,56,FEMININO,Rio de Janeiro
+889,4,24,5,2024-02-20,Produto 24,Alimentos,122.16,Giovanna Aragão,32,MASCULINO,Belém
+890,93,36,2,2024-03-28,Produto 36,Limpeza,205.58,Maria Fernanda da Mata,64,MASCULINO,São Paulo
+891,153,6,6,2024-12-27,Produto 6,Eletrônicos,369.83,Carolina da Paz,32,FEMININO,São Paulo
+892,141,41,8,2023-07-16,Produto 41,Eletrônicos,373.38,Vitor Hugo da Rosa,54,FEMININO,Belém
+893,161,46,4,2024-07-07,Produto 46,Higiene,46.03,Stephany Moreira,69,FEMININO,Fortaleza
+894,16,44,2,2023-02-22,Produto 44,Alimentos,203.11,Yasmin Jesus,41,FEMININO,Fortaleza
+895,170,31,5,2024-04-24,Produto 31,Eletrônicos,354.02,Bryan Farias,60,MASCULINO,Manaus
+896,108,20,2,2024-03-18,Produto 20,Alimentos,120.45,Maria Vitória Farias,61,MASCULINO,Manaus
+897,126,24,2,2023-11-26,Produto 24,Alimentos,122.16,Dr. Thomas Santos,29,FEMININO,Belém
+898,194,25,6,2023-09-08,Produto 25,Eletrônicos,454.31,Daniela Silva,18,FEMININO,Belém
+899,55,36,9,2023-05-03,Produto 36,Limpeza,205.58,Dr. Lucas Gabriel Dias,19,MASCULINO,Manaus
+900,170,21,4,2024-01-22,Produto 21,Alimentos,292.75,Bryan Farias,60,MASCULINO,Manaus
+901,34,30,6,2023-12-05,Produto 30,Limpeza,192.1,Dr. Igor Moura,45,MASCULINO,Rio de Janeiro
+902,158,24,7,2023-12-14,Produto 24,Alimentos,122.16,Thales Barros,49,MASCULINO,Fortaleza
+903,13,44,6,2023-01-29,Produto 44,Alimentos,203.11,Lorena Duarte,41,MASCULINO,Rio de Janeiro
+904,141,42,8,2023-02-04,Produto 42,Higiene,342.11,Vitor Hugo da Rosa,54,FEMININO,Belém
+905,18,30,4,2024-06-01,Produto 30,Limpeza,192.1,Augusto Alves,39,MASCULINO,Belém
+906,160,22,1,2024-01-31,Produto 22,Alimentos,432.25,Maria Vitória Cavalcanti,66,MASCULINO,Rio de Janeiro
+907,96,28,7,2024-09-14,Produto 28,Alimentos,355.55,Enzo Gabriel Alves,42,MASCULINO,Rio de Janeiro
+908,123,7,3,2023-10-21,Produto 7,Alimentos,275.23,Natália Dias,24,MASCULINO,Rio de Janeiro
+909,39,35,6,2024-08-11,Produto 35,Alimentos,130.57,Luiz Otávio Nascimento,61,FEMININO,Rio de Janeiro
+910,46,28,2,2023-12-15,Produto 28,Alimentos,355.55,Evelyn Peixoto,26,MASCULINO,Manaus
+911,29,14,9,2023-05-27,Produto 14,Eletrônicos,215.92,Sra. Sabrina Farias,61,MASCULINO,Manaus
+912,190,10,1,2023-03-08,Produto 10,Higiene,345.57,Rafael Novaes,45,MASCULINO,Rio de Janeiro
+913,62,16,6,2024-06-03,Produto 16,Alimentos,201.34,Vicente Lopes,64,MASCULINO,Fortaleza
+914,185,16,6,2023-05-02,Produto 16,Alimentos,201.34,Lucas Gabriel Nascimento,61,FEMININO,Belém
+915,16,31,5,2023-12-06,Produto 31,Eletrônicos,354.02,Yasmin Jesus,41,FEMININO,Fortaleza
+916,184,42,5,2023-06-24,Produto 42,Higiene,342.11,Isabelly Fogaça,45,MASCULINO,São Paulo
+917,121,25,1,2024-11-21,Produto 25,Eletrônicos,454.31,Isabel da Rosa,58,MASCULINO,Fortaleza
+918,10,13,5,2024-08-19,Produto 13,Alimentos,420.05,Marina Moraes,40,FEMININO,Belém
+919,158,6,2,2024-03-26,Produto 6,Eletrônicos,369.83,Thales Barros,49,MASCULINO,Fortaleza
+920,153,44,7,2024-07-10,Produto 44,Alimentos,203.11,Carolina da Paz,32,FEMININO,São Paulo
+921,103,9,3,2023-05-16,Produto 9,Alimentos,484.48,Ana Sophia Araújo,42,MASCULINO,São Paulo
+922,84,45,4,2023-01-16,Produto 45,Limpeza,241.47,Pietra Azevedo,32,MASCULINO,Fortaleza
+923,133,36,3,2023-11-29,Produto 36,Limpeza,205.58,Cecília da Paz,52,MASCULINO,São Paulo
+924,65,43,3,2023-07-14,Produto 43,Limpeza,122.57,Bryan Sales,34,MASCULINO,Rio de Janeiro
+925,177,20,4,2024-05-10,Produto 20,Alimentos,120.45,Ana Vitória Carvalho,39,FEMININO,Fortaleza
+926,3,18,5,2023-01-09,Produto 18,Alimentos,77.57,Cauê Ferreira,46,MASCULINO,São Paulo
+927,173,43,1,2023-11-30,Produto 43,Limpeza,122.57,Alana das Neves,30,FEMININO,Rio de Janeiro
+928,142,21,4,2023-11-29,Produto 21,Alimentos,292.75,Sofia Vieira,64,FEMININO,Fortaleza
+929,120,4,8,2023-11-23,Produto 4,Limpeza,497.99,Ana Luiza da Cruz,56,FEMININO,Rio de Janeiro
+930,158,50,7,2023-01-15,Produto 50,Alimentos,489.06,Thales Barros,49,MASCULINO,Fortaleza
+931,68,33,9,2024-09-05,Produto 33,Higiene,168.48,Vitor Gabriel Pereira,57,FEMININO,São Paulo
+932,146,27,5,2023-08-14,Produto 27,Higiene,178.36,Joana Pereira,22,MASCULINO,São Paulo
+933,190,7,4,2024-02-29,Produto 7,Alimentos,275.23,Rafael Novaes,45,MASCULINO,Rio de Janeiro
+934,37,6,8,2024-02-12,Produto 6,Eletrônicos,369.83,Natália Dias,64,FEMININO,São Paulo
+935,153,15,9,2023-04-23,Produto 15,Limpeza,115.18,Carolina da Paz,32,FEMININO,São Paulo
+936,176,18,7,2024-03-03,Produto 18,Alimentos,77.57,Sr. Luiz Gustavo Viana,68,MASCULINO,Belém
+937,193,32,7,2023-01-01,Produto 32,Alimentos,128.12,Kamilly da Paz,50,FEMININO,São Paulo
+938,181,11,5,2023-09-23,Produto 11,Limpeza,419.3,Otávio Cavalcanti,62,FEMININO,São Paulo
+939,73,20,4,2024-05-05,Produto 20,Alimentos,120.45,Bárbara da Cruz,21,FEMININO,São Paulo
+940,143,24,1,2023-07-27,Produto 24,Alimentos,122.16,Otávio Freitas,31,MASCULINO,São Paulo
+941,49,15,7,2024-09-13,Produto 15,Limpeza,115.18,João Miguel Nogueira,21,MASCULINO,Rio de Janeiro
+942,121,48,1,2024-12-12,Produto 48,Limpeza,220.99,Isabel da Rosa,58,MASCULINO,Fortaleza
+943,88,7,1,2024-01-04,Produto 7,Alimentos,275.23,Alexandre Ribeiro,57,MASCULINO,Belém
+944,196,21,5,2023-11-02,Produto 21,Alimentos,292.75,Yago Nogueira,69,FEMININO,Belém
+945,140,42,9,2023-01-12,Produto 42,Higiene,342.11,Camila Caldeira,52,FEMININO,São Paulo
+946,187,26,6,2023-12-11,Produto 26,Higiene,297.98,Thales Fogaça,37,FEMININO,São Paulo
+947,37,44,3,2024-04-09,Produto 44,Alimentos,203.11,Natália Dias,64,FEMININO,São Paulo
+948,61,14,3,2024-11-30,Produto 14,Eletrônicos,215.92,Luigi Vieira,25,MASCULINO,Belém
+949,171,37,7,2024-10-27,Produto 37,Limpeza,287.88,João da Cunha,46,FEMININO,Manaus
+950,124,21,6,2024-05-08,Produto 21,Alimentos,292.75,Larissa Farias,26,FEMININO,Belém
+951,198,18,9,2024-01-03,Produto 18,Alimentos,77.57,Heitor Campos,58,MASCULINO,Belém
+952,39,5,6,2024-02-24,Produto 5,Bebidas,32.66,Luiz Otávio Nascimento,61,FEMININO,Rio de Janeiro
+953,184,3,5,2023-06-20,Produto 3,Alimentos,487.25,Isabelly Fogaça,45,MASCULINO,São Paulo
+954,63,23,7,2023-05-14,Produto 23,Limpeza,440.78,Dr. Kevin Campos,52,FEMININO,Manaus
+955,46,26,1,2024-03-02,Produto 26,Higiene,297.98,Evelyn Peixoto,26,MASCULINO,Manaus
+956,88,37,7,2023-01-25,Produto 37,Limpeza,287.88,Alexandre Ribeiro,57,MASCULINO,Belém
+957,11,24,3,2024-06-13,Produto 24,Alimentos,122.16,Ana Lívia das Neves,28,FEMININO,Rio de Janeiro
+958,62,49,9,2023-07-09,Produto 49,Eletrônicos,402.04,Vicente Lopes,64,MASCULINO,Fortaleza
+959,77,19,6,2023-05-21,Produto 19,Higiene,259.1,Clara Nascimento,61,MASCULINO,São Paulo
+960,153,25,9,2024-07-08,Produto 25,Eletrônicos,454.31,Carolina da Paz,32,FEMININO,São Paulo
+961,199,21,5,2024-10-19,Produto 21,Alimentos,292.75,Vinicius da Luz,20,MASCULINO,Fortaleza
+962,52,12,7,2023-11-11,Produto 12,Bebidas,434.1,Thiago Moreira,67,FEMININO,São Paulo
+963,4,41,4,2024-03-19,Produto 41,Eletrônicos,373.38,Giovanna Aragão,32,MASCULINO,Belém
+964,59,33,7,2023-11-15,Produto 33,Higiene,168.48,Natália Ribeiro,24,FEMININO,Manaus
+965,72,50,1,2024-03-16,Produto 50,Alimentos,489.06,Luiza Nascimento,59,FEMININO,Belém
+966,148,4,7,2023-04-02,Produto 4,Limpeza,497.99,Ana Sophia Cardoso,31,FEMININO,São Paulo
+967,93,42,8,2023-06-28,Produto 42,Higiene,342.11,Maria Fernanda da Mata,64,MASCULINO,São Paulo
+968,63,7,5,2023-02-25,Produto 7,Alimentos,275.23,Dr. Kevin Campos,52,FEMININO,Manaus
+969,54,22,2,2023-06-04,Produto 22,Alimentos,432.25,Maria Luiza Fernandes,43,FEMININO,São Paulo
+970,117,33,5,2024-11-02,Produto 33,Higiene,168.48,Anthony Cunha,50,FEMININO,Belém
+971,110,17,6,2023-04-21,Produto 17,Eletrônicos,446.49,Dra. Brenda Peixoto,41,FEMININO,São Paulo
+972,74,24,2,2023-05-17,Produto 24,Alimentos,122.16,Maria Vitória Jesus,46,MASCULINO,São Paulo
+973,107,34,6,2023-08-20,Produto 34,Limpeza,220.05,Arthur Moura,18,FEMININO,Belém
+974,57,28,6,2024-04-12,Produto 28,Alimentos,355.55,Sr. Davi Lucas Rezende,45,MASCULINO,Fortaleza
+975,169,43,1,2024-04-25,Produto 43,Limpeza,122.57,Srta. Caroline Farias,32,MASCULINO,Rio de Janeiro
+976,3,41,1,2023-03-09,Produto 41,Eletrônicos,373.38,Cauê Ferreira,46,MASCULINO,São Paulo
+977,120,39,3,2023-09-06,Produto 39,Bebidas,384.76,Ana Luiza da Cruz,56,FEMININO,Rio de Janeiro
+978,6,22,3,2023-11-19,Produto 22,Alimentos,432.25,Lucas Freitas,25,MASCULINO,Fortaleza
+979,5,49,4,2024-06-01,Produto 49,Eletrônicos,402.04,Thomas Alves,60,FEMININO,Manaus
+980,5,17,2,2024-03-07,Produto 17,Eletrônicos,446.49,Thomas Alves,60,FEMININO,Manaus
+981,54,34,9,2024-05-01,Produto 34,Limpeza,220.05,Maria Luiza Fernandes,43,FEMININO,São Paulo
+982,47,6,7,2024-08-28,Produto 6,Eletrônicos,369.83,Bruno Santos,56,FEMININO,Manaus
+983,177,46,7,2024-03-04,Produto 46,Higiene,46.03,Ana Vitória Carvalho,39,FEMININO,Fortaleza
+984,9,6,6,2023-09-26,Produto 6,Eletrônicos,369.83,Paulo Teixeira,36,FEMININO,Fortaleza
+985,99,34,3,2024-12-09,Produto 34,Limpeza,220.05,Sophia Ferreira,46,MASCULINO,Fortaleza
+986,20,1,6,2024-06-20,Produto 1,Eletrônicos,61.16,João Vitor da Rosa,41,MASCULINO,Rio de Janeiro
+987,122,10,8,2023-05-28,Produto 10,Higiene,345.57,Rafaela da Rosa,45,FEMININO,São Paulo
+988,61,21,8,2023-04-28,Produto 21,Alimentos,292.75,Luigi Vieira,25,MASCULINO,Belém
+989,123,5,9,2024-01-02,Produto 5,Bebidas,32.66,Natália Dias,24,MASCULINO,Rio de Janeiro
+990,163,2,1,2023-03-07,Produto 2,Eletrônicos,465.81,Gustavo Ferreira,21,FEMININO,Manaus
+991,178,22,1,2024-01-05,Produto 22,Alimentos,432.25,Marcos Vinicius da Costa,45,FEMININO,São Paulo
+992,82,48,3,2023-06-24,Produto 48,Limpeza,220.99,Dr. Henrique Rodrigues,48,FEMININO,Belém
+993,62,2,3,2024-08-10,Produto 2,Eletrônicos,465.81,Vicente Lopes,64,MASCULINO,Fortaleza
+994,145,10,8,2024-05-09,Produto 10,Higiene,345.57,Alana Rodrigues,18,FEMININO,São Paulo
+995,3,34,1,2023-04-24,Produto 34,Limpeza,220.05,Cauê Ferreira,46,MASCULINO,São Paulo
+996,160,16,2,2023-04-21,Produto 16,Alimentos,201.34,Maria Vitória Cavalcanti,66,MASCULINO,Rio de Janeiro
+997,13,48,2,2024-03-14,Produto 48,Limpeza,220.99,Lorena Duarte,41,MASCULINO,Rio de Janeiro
+998,120,39,3,2024-12-15,Produto 39,Bebidas,384.76,Ana Luiza da Cruz,56,FEMININO,Rio de Janeiro
+999,125,22,6,2023-05-27,Produto 22,Alimentos,432.25,Srta. Ana Beatriz Rezende,25,FEMININO,Manaus
+1000,89,12,1,2023-02-04,Produto 12,Bebidas,434.1,Carlos Eduardo Costela,38,MASCULINO,Fortaleza
+1001,73,24,2,2023-11-05,Produto 24,Alimentos,122.16,Bárbara da Cruz,21,FEMININO,São Paulo
+1002,68,47,1,2024-06-21,Produto 47,Eletrônicos,266.54,Vitor Gabriel Pereira,57,FEMININO,São Paulo
+1003,142,40,5,2023-01-14,Produto 40,Eletrônicos,412.28,Sofia Vieira,64,FEMININO,Fortaleza
+1004,101,38,7,2024-01-09,Produto 38,Higiene,371.78,Dr. Augusto Aragão,62,FEMININO,São Paulo
+1005,98,10,8,2024-07-10,Produto 10,Higiene,345.57,Marcela Cavalcanti,58,FEMININO,Rio de Janeiro
+1006,11,35,1,2024-03-03,Produto 35,Alimentos,130.57,Ana Lívia das Neves,28,FEMININO,Rio de Janeiro
+1007,105,49,7,2024-12-28,Produto 49,Eletrônicos,402.04,Caroline Fernandes,26,MASCULINO,Manaus
+1008,184,32,5,2023-08-21,Produto 32,Alimentos,128.12,Isabelly Fogaça,45,MASCULINO,São Paulo
+1009,67,7,1,2024-12-05,Produto 7,Alimentos,275.23,Alexandre Costa,67,FEMININO,São Paulo
+1010,123,21,3,2024-07-16,Produto 21,Alimentos,292.75,Natália Dias,24,MASCULINO,Rio de Janeiro
+1011,29,20,7,2024-12-26,Produto 20,Alimentos,120.45,Sra. Sabrina Farias,61,MASCULINO,Manaus
+1012,137,26,1,2024-10-24,Produto 26,Higiene,297.98,Daniela da Costa,44,FEMININO,Manaus
+1013,195,4,7,2024-03-15,Produto 4,Limpeza,497.99,Catarina Campos,44,FEMININO,São Paulo
+1014,153,46,5,2024-05-16,Produto 46,Higiene,46.03,Carolina da Paz,32,FEMININO,São Paulo
+1015,76,22,1,2023-10-02,Produto 22,Alimentos,432.25,Dr. Pedro Henrique Aragão,43,FEMININO,Fortaleza
+1016,170,15,1,2023-03-17,Produto 15,Limpeza,115.18,Bryan Farias,60,MASCULINO,Manaus
+1017,9,40,1,2024-03-14,Produto 40,Eletrônicos,412.28,Paulo Teixeira,36,FEMININO,Fortaleza
+1018,40,21,9,2024-11-29,Produto 21,Alimentos,292.75,Heitor Lopes,69,FEMININO,São Paulo
+1019,25,15,3,2023-10-16,Produto 15,Limpeza,115.18,Miguel Nunes,38,FEMININO,Manaus
+1020,5,22,5,2024-06-23,Produto 22,Alimentos,432.25,Thomas Alves,60,FEMININO,Manaus
+1021,139,28,9,2024-11-22,Produto 28,Alimentos,355.55,Sr. Pedro da Rocha,18,FEMININO,São Paulo
+1022,187,14,6,2023-09-10,Produto 14,Eletrônicos,215.92,Thales Fogaça,37,FEMININO,São Paulo
+1023,124,27,9,2023-05-06,Produto 27,Higiene,178.36,Larissa Farias,26,FEMININO,Belém
+1024,38,41,8,2023-06-26,Produto 41,Eletrônicos,373.38,Vitor Nunes,68,FEMININO,São Paulo
+1025,72,40,8,2023-02-06,Produto 40,Eletrônicos,412.28,Luiza Nascimento,59,FEMININO,Belém
+1026,133,28,1,2024-02-14,Produto 28,Alimentos,355.55,Cecília da Paz,52,MASCULINO,São Paulo
+1027,176,26,9,2024-09-02,Produto 26,Higiene,297.98,Sr. Luiz Gustavo Viana,68,MASCULINO,Belém
+1028,90,49,6,2024-09-01,Produto 49,Eletrônicos,402.04,Diego Martins,33,MASCULINO,Rio de Janeiro
+1029,146,2,9,2023-05-07,Produto 2,Eletrônicos,465.81,Joana Pereira,22,MASCULINO,São Paulo
+1030,198,25,3,2024-04-27,Produto 25,Eletrônicos,454.31,Heitor Campos,58,MASCULINO,Belém
+1031,37,3,3,2023-06-17,Produto 3,Alimentos,487.25,Natália Dias,64,FEMININO,São Paulo
+1032,60,8,6,2024-08-14,Produto 8,Higiene,354.39,Catarina Melo,61,MASCULINO,Fortaleza
+1033,176,44,9,2023-10-21,Produto 44,Alimentos,203.11,Sr. Luiz Gustavo Viana,68,MASCULINO,Belém
+1034,28,33,7,2024-09-29,Produto 33,Higiene,168.48,Maria Castro,39,FEMININO,Fortaleza
+1035,197,42,3,2023-12-09,Produto 42,Higiene,342.11,Carolina Cunha,30,FEMININO,Rio de Janeiro
+1036,81,35,3,2023-11-06,Produto 35,Alimentos,130.57,Dr. Vitor Gomes,31,MASCULINO,Manaus
+1037,114,6,2,2024-10-23,Produto 6,Eletrônicos,369.83,Pedro Dias,25,FEMININO,Belém
+1038,40,39,9,2024-06-11,Produto 39,Bebidas,384.76,Heitor Lopes,69,FEMININO,São Paulo
+1039,45,23,3,2024-06-23,Produto 23,Limpeza,440.78,Raul Sales,38,MASCULINO,São Paulo
+1040,62,25,5,2024-02-23,Produto 25,Eletrônicos,454.31,Vicente Lopes,64,MASCULINO,Fortaleza
+1041,93,50,9,2024-03-19,Produto 50,Alimentos,489.06,Maria Fernanda da Mata,64,MASCULINO,São Paulo
+1042,115,43,8,2024-11-15,Produto 43,Limpeza,122.57,Sr. Leonardo Jesus,52,FEMININO,Belém
+1043,186,19,2,2024-07-11,Produto 19,Higiene,259.1,Sr. Vicente Pires,61,MASCULINO,São Paulo
+1044,67,5,3,2023-08-24,Produto 5,Bebidas,32.66,Alexandre Costa,67,FEMININO,São Paulo
+1045,56,11,2,2024-03-14,Produto 11,Limpeza,419.3,Marcela Lima,37,FEMININO,Belém
+1046,40,12,8,2023-08-02,Produto 12,Bebidas,434.1,Heitor Lopes,69,FEMININO,São Paulo
+1047,98,10,6,2023-03-26,Produto 10,Higiene,345.57,Marcela Cavalcanti,58,FEMININO,Rio de Janeiro
+1048,40,8,6,2023-03-26,Produto 8,Higiene,354.39,Heitor Lopes,69,FEMININO,São Paulo
+1049,91,24,9,2024-05-03,Produto 24,Alimentos,122.16,Eduardo Moreira,62,FEMININO,Fortaleza
+1050,33,28,8,2023-03-06,Produto 28,Alimentos,355.55,Gabriela Araújo,59,FEMININO,Manaus
+1051,6,41,4,2024-10-07,Produto 41,Eletrônicos,373.38,Lucas Freitas,25,MASCULINO,Fortaleza
+1052,147,36,4,2024-10-24,Produto 36,Limpeza,205.58,Leandro Teixeira,43,MASCULINO,Rio de Janeiro
+1053,80,37,9,2024-09-18,Produto 37,Limpeza,287.88,Carolina Gomes,53,MASCULINO,Belém
+1054,168,21,1,2023-03-05,Produto 21,Alimentos,292.75,Maria Fernanda Sales,62,FEMININO,Fortaleza
+1055,92,8,2,2023-12-09,Produto 8,Higiene,354.39,André Aragão,35,FEMININO,Belém
+1056,97,9,2,2023-12-18,Produto 9,Alimentos,484.48,Dr. Isaac Castro,62,FEMININO,Manaus
+1057,59,47,6,2023-06-07,Produto 47,Eletrônicos,266.54,Natália Ribeiro,24,FEMININO,Manaus
+1058,59,15,4,2024-08-11,Produto 15,Limpeza,115.18,Natália Ribeiro,24,FEMININO,Manaus
+1059,48,48,3,2024-05-05,Produto 48,Limpeza,220.99,Bernardo Azevedo,35,FEMININO,Manaus
+1060,169,46,3,2024-10-19,Produto 46,Higiene,46.03,Srta. Caroline Farias,32,MASCULINO,Rio de Janeiro
+1061,13,40,3,2024-04-07,Produto 40,Eletrônicos,412.28,Lorena Duarte,41,MASCULINO,Rio de Janeiro
+1062,107,18,6,2023-08-13,Produto 18,Alimentos,77.57,Arthur Moura,18,FEMININO,Belém
+1063,45,42,8,2023-11-09,Produto 42,Higiene,342.11,Raul Sales,38,MASCULINO,São Paulo
+1064,89,20,7,2024-09-06,Produto 20,Alimentos,120.45,Carlos Eduardo Costela,38,MASCULINO,Fortaleza
+1065,181,6,4,2024-04-10,Produto 6,Eletrônicos,369.83,Otávio Cavalcanti,62,FEMININO,São Paulo
+1066,170,12,4,2023-03-29,Produto 12,Bebidas,434.1,Bryan Farias,60,MASCULINO,Manaus
+1067,100,2,2,2023-10-30,Produto 2,Eletrônicos,465.81,Mariana Moura,32,FEMININO,São Paulo
+1068,191,7,1,2024-11-10,Produto 7,Alimentos,275.23,Emilly Duarte,42,FEMININO,Manaus
+1069,155,16,9,2024-03-10,Produto 16,Alimentos,201.34,Dr. Carlos Eduardo Cavalcanti,59,FEMININO,Fortaleza
+1070,166,3,2,2024-11-12,Produto 3,Alimentos,487.25,Luna Cavalcanti,40,FEMININO,Rio de Janeiro
+1071,188,45,8,2023-05-15,Produto 45,Limpeza,241.47,Sophia Martins,47,FEMININO,São Paulo
+1072,7,3,9,2023-02-19,Produto 3,Alimentos,487.25,Sr. João Guilherme Pereira,38,MASCULINO,Manaus
+1073,133,27,4,2024-03-07,Produto 27,Higiene,178.36,Cecília da Paz,52,MASCULINO,São Paulo
+1074,45,50,8,2023-12-06,Produto 50,Alimentos,489.06,Raul Sales,38,MASCULINO,São Paulo
+1075,58,43,9,2023-12-13,Produto 43,Limpeza,122.57,Dra. Letícia Azevedo,64,MASCULINO,São Paulo
+1076,31,40,5,2024-10-07,Produto 40,Eletrônicos,412.28,Noah Aragão,66,MASCULINO,Belém
+1077,23,38,7,2023-12-13,Produto 38,Higiene,371.78,Pietra da Luz,55,FEMININO,Belém
+1078,170,33,4,2024-10-10,Produto 33,Higiene,168.48,Bryan Farias,60,MASCULINO,Manaus
+1079,138,28,1,2023-09-02,Produto 28,Alimentos,355.55,Maitê Freitas,52,MASCULINO,Belém
+1080,160,1,3,2023-04-19,Produto 1,Eletrônicos,61.16,Maria Vitória Cavalcanti,66,MASCULINO,Rio de Janeiro
+1081,107,8,5,2024-06-16,Produto 8,Higiene,354.39,Arthur Moura,18,FEMININO,Belém
+1082,181,37,3,2023-03-31,Produto 37,Limpeza,287.88,Otávio Cavalcanti,62,FEMININO,São Paulo
+1083,158,32,7,2023-10-23,Produto 32,Alimentos,128.12,Thales Barros,49,MASCULINO,Fortaleza
+1084,39,48,9,2023-04-22,Produto 48,Limpeza,220.99,Luiz Otávio Nascimento,61,FEMININO,Rio de Janeiro
+1085,159,43,6,2024-08-11,Produto 43,Limpeza,122.57,Ian Silveira,56,MASCULINO,São Paulo
+1086,82,37,1,2023-06-26,Produto 37,Limpeza,287.88,Dr. Henrique Rodrigues,48,FEMININO,Belém
+1087,100,4,7,2023-12-09,Produto 4,Limpeza,497.99,Mariana Moura,32,FEMININO,São Paulo
+1088,2,30,3,2024-10-21,Produto 30,Limpeza,192.1,Cauã Ferreira,69,FEMININO,Rio de Janeiro
+1089,77,6,5,2023-04-11,Produto 6,Eletrônicos,369.83,Clara Nascimento,61,MASCULINO,São Paulo
+1090,12,46,4,2024-09-20,Produto 46,Higiene,46.03,Elisa da Mota,28,MASCULINO,Fortaleza
+1091,39,19,5,2024-08-26,Produto 19,Higiene,259.1,Luiz Otávio Nascimento,61,FEMININO,Rio de Janeiro
+1092,194,32,5,2024-02-05,Produto 32,Alimentos,128.12,Daniela Silva,18,FEMININO,Belém
+1093,13,9,6,2023-01-28,Produto 9,Alimentos,484.48,Lorena Duarte,41,MASCULINO,Rio de Janeiro
+1094,46,12,6,2024-06-20,Produto 12,Bebidas,434.1,Evelyn Peixoto,26,MASCULINO,Manaus
+1095,155,11,8,2023-02-27,Produto 11,Limpeza,419.3,Dr. Carlos Eduardo Cavalcanti,59,FEMININO,Fortaleza
+1096,113,46,8,2024-05-12,Produto 46,Higiene,46.03,Enzo Gabriel Farias,34,MASCULINO,Manaus
+1097,17,16,9,2023-10-24,Produto 16,Alimentos,201.34,Dra. Raquel Oliveira,20,FEMININO,Fortaleza
+1098,104,1,8,2023-05-14,Produto 1,Eletrônicos,61.16,Alexia Souza,24,FEMININO,Belém
+1099,98,45,2,2023-11-27,Produto 45,Limpeza,241.47,Marcela Cavalcanti,58,FEMININO,Rio de Janeiro
+1100,188,21,1,2023-09-06,Produto 21,Alimentos,292.75,Sophia Martins,47,FEMININO,São Paulo
+1101,192,30,2,2024-07-03,Produto 30,Limpeza,192.1,Ana Luiza Silva,56,MASCULINO,Fortaleza
+1102,88,13,2,2023-03-16,Produto 13,Alimentos,420.05,Alexandre Ribeiro,57,MASCULINO,Belém
+1103,109,34,3,2024-10-15,Produto 34,Limpeza,220.05,Felipe Silveira,25,MASCULINO,São Paulo
+1104,163,4,7,2023-06-17,Produto 4,Limpeza,497.99,Gustavo Ferreira,21,FEMININO,Manaus
+1105,70,28,2,2024-05-17,Produto 28,Alimentos,355.55,Luiz Felipe Sales,19,MASCULINO,Manaus
+1106,158,38,1,2023-12-21,Produto 38,Higiene,371.78,Thales Barros,49,MASCULINO,Fortaleza
+1107,199,31,6,2023-08-13,Produto 31,Eletrônicos,354.02,Vinicius da Luz,20,MASCULINO,Fortaleza
+1108,74,27,9,2024-10-25,Produto 27,Higiene,178.36,Maria Vitória Jesus,46,MASCULINO,São Paulo
+1109,63,5,3,2024-06-14,Produto 5,Bebidas,32.66,Dr. Kevin Campos,52,FEMININO,Manaus
+1110,156,25,6,2023-05-26,Produto 25,Eletrônicos,454.31,Vitor Hugo Lopes,30,FEMININO,Rio de Janeiro
+1111,60,3,3,2023-08-29,Produto 3,Alimentos,487.25,Catarina Melo,61,MASCULINO,Fortaleza
+1112,79,33,1,2023-12-10,Produto 33,Higiene,168.48,Renan Lopes,27,FEMININO,Fortaleza
+1113,37,4,5,2023-02-04,Produto 4,Limpeza,497.99,Natália Dias,64,FEMININO,São Paulo
+1114,22,25,4,2024-12-02,Produto 25,Eletrônicos,454.31,Kaique Barbosa,47,MASCULINO,Manaus
+1115,196,20,7,2023-01-01,Produto 20,Alimentos,120.45,Yago Nogueira,69,FEMININO,Belém
+1116,148,34,6,2023-06-02,Produto 34,Limpeza,220.05,Ana Sophia Cardoso,31,FEMININO,São Paulo
+1117,96,26,7,2024-03-04,Produto 26,Higiene,297.98,Enzo Gabriel Alves,42,MASCULINO,Rio de Janeiro
+1118,68,5,5,2024-05-22,Produto 5,Bebidas,32.66,Vitor Gabriel Pereira,57,FEMININO,São Paulo
+1119,192,35,4,2023-05-06,Produto 35,Alimentos,130.57,Ana Luiza Silva,56,MASCULINO,Fortaleza
+1120,17,28,7,2024-05-05,Produto 28,Alimentos,355.55,Dra. Raquel Oliveira,20,FEMININO,Fortaleza
+1121,12,29,7,2024-04-26,Produto 29,Limpeza,243.43,Elisa da Mota,28,MASCULINO,Fortaleza
+1122,150,9,6,2023-12-11,Produto 9,Alimentos,484.48,Maysa Fogaça,44,FEMININO,Belém
+1123,145,38,8,2023-08-09,Produto 38,Higiene,371.78,Alana Rodrigues,18,FEMININO,São Paulo
+1124,138,50,4,2024-12-23,Produto 50,Alimentos,489.06,Maitê Freitas,52,MASCULINO,Belém
+1125,118,6,5,2023-01-25,Produto 6,Eletrônicos,369.83,Ana Julia Nogueira,22,MASCULINO,Belém
+1126,193,19,4,2024-06-11,Produto 19,Higiene,259.1,Kamilly da Paz,50,FEMININO,São Paulo
+1127,22,44,1,2023-07-01,Produto 44,Alimentos,203.11,Kaique Barbosa,47,MASCULINO,Manaus
+1128,120,11,8,2024-05-13,Produto 11,Limpeza,419.3,Ana Luiza da Cruz,56,FEMININO,Rio de Janeiro
+1129,50,2,1,2024-10-02,Produto 2,Eletrônicos,465.81,Nathan Costela,42,FEMININO,Belém
+1130,14,47,5,2023-02-11,Produto 47,Eletrônicos,266.54,Joaquim da Costa,53,FEMININO,Manaus
+1131,192,44,6,2024-04-25,Produto 44,Alimentos,203.11,Ana Luiza Silva,56,MASCULINO,Fortaleza
+1132,175,44,6,2024-03-14,Produto 44,Alimentos,203.11,Ana Lívia Duarte,24,FEMININO,Belém
+1133,29,9,5,2024-02-06,Produto 9,Alimentos,484.48,Sra. Sabrina Farias,61,MASCULINO,Manaus
+1134,164,21,3,2024-06-29,Produto 21,Alimentos,292.75,Joaquim da Cruz,47,FEMININO,Belém
+1135,180,24,5,2023-12-11,Produto 24,Alimentos,122.16,Vitor Souza,59,FEMININO,Rio de Janeiro
+1136,125,34,8,2023-02-14,Produto 34,Limpeza,220.05,Srta. Ana Beatriz Rezende,25,FEMININO,Manaus
+1137,7,22,2,2024-10-07,Produto 22,Alimentos,432.25,Sr. João Guilherme Pereira,38,MASCULINO,Manaus
+1138,29,3,6,2023-01-21,Produto 3,Alimentos,487.25,Sra. Sabrina Farias,61,MASCULINO,Manaus
+1139,139,12,9,2024-09-25,Produto 12,Bebidas,434.1,Sr. Pedro da Rocha,18,FEMININO,São Paulo
+1140,33,28,8,2023-03-11,Produto 28,Alimentos,355.55,Gabriela Araújo,59,FEMININO,Manaus
+1141,134,30,8,2023-02-17,Produto 30,Limpeza,192.1,Dr. Guilherme Moreira,61,MASCULINO,São Paulo
+1142,111,26,8,2024-05-05,Produto 26,Higiene,297.98,Dr. Vicente Araújo,28,FEMININO,Manaus
+1143,79,48,7,2024-07-04,Produto 48,Limpeza,220.99,Renan Lopes,27,FEMININO,Fortaleza
+1144,160,21,8,2023-10-14,Produto 21,Alimentos,292.75,Maria Vitória Cavalcanti,66,MASCULINO,Rio de Janeiro
+1145,179,28,6,2023-01-10,Produto 28,Alimentos,355.55,Dr. Guilherme Fernandes,19,FEMININO,Belém
+1146,58,26,2,2024-06-25,Produto 26,Higiene,297.98,Dra. Letícia Azevedo,64,MASCULINO,São Paulo
+1147,26,33,2,2023-10-01,Produto 33,Higiene,168.48,Rebeca da Cunha,50,FEMININO,Belém
+1148,174,21,8,2024-08-22,Produto 21,Alimentos,292.75,Enzo Gabriel Nogueira,49,MASCULINO,Fortaleza
+1149,29,35,1,2024-01-16,Produto 35,Alimentos,130.57,Sra. Sabrina Farias,61,MASCULINO,Manaus
+1150,4,34,6,2023-11-25,Produto 34,Limpeza,220.05,Giovanna Aragão,32,MASCULINO,Belém
+1151,99,41,6,2024-04-23,Produto 41,Eletrônicos,373.38,Sophia Ferreira,46,MASCULINO,Fortaleza
+1152,141,47,4,2023-01-15,Produto 47,Eletrônicos,266.54,Vitor Hugo da Rosa,54,FEMININO,Belém
+1153,39,18,3,2024-05-30,Produto 18,Alimentos,77.57,Luiz Otávio Nascimento,61,FEMININO,Rio de Janeiro
+1154,15,11,3,2023-07-10,Produto 11,Limpeza,419.3,Camila Nogueira,57,FEMININO,Manaus
+1155,119,23,1,2023-06-17,Produto 23,Limpeza,440.78,Luna Pires,59,FEMININO,Belém
+1156,29,48,3,2024-06-04,Produto 48,Limpeza,220.99,Sra. Sabrina Farias,61,MASCULINO,Manaus
+1157,157,22,4,2024-09-12,Produto 22,Alimentos,432.25,Lavínia Gonçalves,68,MASCULINO,Fortaleza
+1158,75,17,5,2023-05-17,Produto 17,Eletrônicos,446.49,Sabrina Nascimento,35,MASCULINO,Manaus
+1159,116,5,3,2023-06-03,Produto 5,Bebidas,32.66,Gustavo da Cunha,52,FEMININO,Manaus
+1160,32,44,6,2024-01-23,Produto 44,Alimentos,203.11,Amanda Lima,44,MASCULINO,Belém
+1161,130,11,5,2023-07-28,Produto 11,Limpeza,419.3,Sra. Stella Fernandes,40,MASCULINO,Fortaleza
+1162,175,30,3,2023-09-29,Produto 30,Limpeza,192.1,Ana Lívia Duarte,24,FEMININO,Belém
+1163,84,15,6,2023-05-23,Produto 15,Limpeza,115.18,Pietra Azevedo,32,MASCULINO,Fortaleza
+1164,22,27,6,2024-09-02,Produto 27,Higiene,178.36,Kaique Barbosa,47,MASCULINO,Manaus
+1165,27,35,8,2023-03-10,Produto 35,Alimentos,130.57,Vitor Nogueira,29,MASCULINO,Rio de Janeiro
+1166,195,33,2,2023-09-04,Produto 33,Higiene,168.48,Catarina Campos,44,FEMININO,São Paulo
+1167,81,20,1,2023-09-18,Produto 20,Alimentos,120.45,Dr. Vitor Gomes,31,MASCULINO,Manaus
+1168,126,16,4,2023-03-20,Produto 16,Alimentos,201.34,Dr. Thomas Santos,29,FEMININO,Belém
+1169,184,34,7,2024-10-19,Produto 34,Limpeza,220.05,Isabelly Fogaça,45,MASCULINO,São Paulo
+1170,92,2,3,2024-09-14,Produto 2,Eletrônicos,465.81,André Aragão,35,FEMININO,Belém
+1171,21,35,3,2024-08-27,Produto 35,Alimentos,130.57,Francisco da Cruz,61,FEMININO,Fortaleza
+1172,47,40,5,2024-06-08,Produto 40,Eletrônicos,412.28,Bruno Santos,56,FEMININO,Manaus
+1173,101,28,5,2024-09-12,Produto 28,Alimentos,355.55,Dr. Augusto Aragão,62,FEMININO,São Paulo
+1174,187,47,3,2023-11-26,Produto 47,Eletrônicos,266.54,Thales Fogaça,37,FEMININO,São Paulo
+1175,84,39,9,2023-07-08,Produto 39,Bebidas,384.76,Pietra Azevedo,32,MASCULINO,Fortaleza
+1176,6,6,4,2023-04-05,Produto 6,Eletrônicos,369.83,Lucas Freitas,25,MASCULINO,Fortaleza
+1177,147,9,3,2024-09-08,Produto 9,Alimentos,484.48,Leandro Teixeira,43,MASCULINO,Rio de Janeiro
+1178,185,20,2,2023-01-08,Produto 20,Alimentos,120.45,Lucas Gabriel Nascimento,61,FEMININO,Belém
+1179,197,1,9,2023-03-08,Produto 1,Eletrônicos,61.16,Carolina Cunha,30,FEMININO,Rio de Janeiro
+1180,131,8,4,2024-05-10,Produto 8,Higiene,354.39,Srta. Isabelly Cavalcanti,41,MASCULINO,Belém
+1181,1,23,3,2023-07-10,Produto 23,Limpeza,440.78,Sr. Emanuel Costela,56,FEMININO,Rio de Janeiro
+1182,58,3,7,2024-01-01,Produto 3,Alimentos,487.25,Dra. Letícia Azevedo,64,MASCULINO,São Paulo
+1183,124,4,8,2024-06-04,Produto 4,Limpeza,497.99,Larissa Farias,26,FEMININO,Belém
+1184,166,25,2,2023-04-27,Produto 25,Eletrônicos,454.31,Luna Cavalcanti,40,FEMININO,Rio de Janeiro
+1185,15,47,7,2023-09-24,Produto 47,Eletrônicos,266.54,Camila Nogueira,57,FEMININO,Manaus
+1186,162,38,5,2024-09-02,Produto 38,Higiene,371.78,Vitor Hugo Fogaça,49,FEMININO,Manaus
+1187,189,15,5,2024-04-29,Produto 15,Limpeza,115.18,Davi Lucas Rodrigues,28,MASCULINO,São Paulo
+1188,163,21,3,2024-05-23,Produto 21,Alimentos,292.75,Gustavo Ferreira,21,FEMININO,Manaus
+1189,64,35,5,2023-10-25,Produto 35,Alimentos,130.57,Srta. Juliana Araújo,31,FEMININO,Fortaleza
+1190,25,46,2,2023-06-13,Produto 46,Higiene,46.03,Miguel Nunes,38,FEMININO,Manaus
+1191,24,14,4,2024-01-11,Produto 14,Eletrônicos,215.92,Thomas Fogaça,19,FEMININO,Belém
+1192,12,36,6,2024-10-14,Produto 36,Limpeza,205.58,Elisa da Mota,28,MASCULINO,Fortaleza
+1193,18,12,1,2023-09-25,Produto 12,Bebidas,434.1,Augusto Alves,39,MASCULINO,Belém
+1194,15,17,4,2024-07-02,Produto 17,Eletrônicos,446.49,Camila Nogueira,57,FEMININO,Manaus
+1195,27,39,6,2023-03-15,Produto 39,Bebidas,384.76,Vitor Nogueira,29,MASCULINO,Rio de Janeiro
+1196,72,9,9,2024-05-22,Produto 9,Alimentos,484.48,Luiza Nascimento,59,FEMININO,Belém
+1197,60,35,2,2023-03-14,Produto 35,Alimentos,130.57,Catarina Melo,61,MASCULINO,Fortaleza
+1198,174,13,7,2023-11-04,Produto 13,Alimentos,420.05,Enzo Gabriel Nogueira,49,MASCULINO,Fortaleza
+1199,145,15,6,2023-07-18,Produto 15,Limpeza,115.18,Alana Rodrigues,18,FEMININO,São Paulo
+1200,93,18,2,2023-05-10,Produto 18,Alimentos,77.57,Maria Fernanda da Mata,64,MASCULINO,São Paulo
+1201,53,33,8,2024-07-25,Produto 33,Higiene,168.48,Emanuella Ribeiro,26,FEMININO,Rio de Janeiro
+1202,8,6,7,2024-09-06,Produto 6,Eletrônicos,369.83,Mirella Barros,56,MASCULINO,Belém
+1203,79,27,5,2024-05-01,Produto 27,Higiene,178.36,Renan Lopes,27,FEMININO,Fortaleza
+1204,27,23,5,2023-05-31,Produto 23,Limpeza,440.78,Vitor Nogueira,29,MASCULINO,Rio de Janeiro
+1205,174,27,7,2024-10-30,Produto 27,Higiene,178.36,Enzo Gabriel Nogueira,49,MASCULINO,Fortaleza
+1206,50,34,9,2023-07-25,Produto 34,Limpeza,220.05,Nathan Costela,42,FEMININO,Belém
+1207,199,46,9,2023-06-28,Produto 46,Higiene,46.03,Vinicius da Luz,20,MASCULINO,Fortaleza
+1208,131,38,9,2023-07-16,Produto 38,Higiene,371.78,Srta. Isabelly Cavalcanti,41,MASCULINO,Belém
+1209,93,14,6,2023-03-30,Produto 14,Eletrônicos,215.92,Maria Fernanda da Mata,64,MASCULINO,São Paulo
+1210,192,36,6,2024-03-09,Produto 36,Limpeza,205.58,Ana Luiza Silva,56,MASCULINO,Fortaleza
+1211,172,8,3,2023-07-02,Produto 8,Higiene,354.39,Cecília da Cruz,53,MASCULINO,São Paulo
+1212,181,35,1,2023-07-28,Produto 35,Alimentos,130.57,Otávio Cavalcanti,62,FEMININO,São Paulo
+1213,24,19,7,2024-05-07,Produto 19,Higiene,259.1,Thomas Fogaça,19,FEMININO,Belém
+1214,60,30,4,2023-05-10,Produto 30,Limpeza,192.1,Catarina Melo,61,MASCULINO,Fortaleza
+1215,122,14,1,2024-10-26,Produto 14,Eletrônicos,215.92,Rafaela da Rosa,45,FEMININO,São Paulo
+1216,131,20,8,2023-01-13,Produto 20,Alimentos,120.45,Srta. Isabelly Cavalcanti,41,MASCULINO,Belém
+1217,148,49,6,2024-09-25,Produto 49,Eletrônicos,402.04,Ana Sophia Cardoso,31,FEMININO,São Paulo
+1218,46,25,6,2023-04-16,Produto 25,Eletrônicos,454.31,Evelyn Peixoto,26,MASCULINO,Manaus
+1219,15,40,2,2024-01-10,Produto 40,Eletrônicos,412.28,Camila Nogueira,57,FEMININO,Manaus
+1220,153,24,1,2024-08-04,Produto 24,Alimentos,122.16,Carolina da Paz,32,FEMININO,São Paulo
+1221,199,14,2,2024-12-07,Produto 14,Eletrônicos,215.92,Vinicius da Luz,20,MASCULINO,Fortaleza
+1222,17,26,4,2024-11-28,Produto 26,Higiene,297.98,Dra. Raquel Oliveira,20,FEMININO,Fortaleza
+1223,126,38,2,2023-04-09,Produto 38,Higiene,371.78,Dr. Thomas Santos,29,FEMININO,Belém
+1224,84,23,1,2024-08-16,Produto 23,Limpeza,440.78,Pietra Azevedo,32,MASCULINO,Fortaleza
+1225,9,22,7,2024-08-09,Produto 22,Alimentos,432.25,Paulo Teixeira,36,FEMININO,Fortaleza
+1226,166,48,8,2023-07-11,Produto 48,Limpeza,220.99,Luna Cavalcanti,40,FEMININO,Rio de Janeiro
+1227,176,19,6,2023-11-21,Produto 19,Higiene,259.1,Sr. Luiz Gustavo Viana,68,MASCULINO,Belém
+1228,188,46,4,2024-12-26,Produto 46,Higiene,46.03,Sophia Martins,47,FEMININO,São Paulo
+1229,63,3,6,2024-04-11,Produto 3,Alimentos,487.25,Dr. Kevin Campos,52,FEMININO,Manaus
+1230,117,42,3,2024-01-02,Produto 42,Higiene,342.11,Anthony Cunha,50,FEMININO,Belém
+1231,130,19,8,2023-11-14,Produto 19,Higiene,259.1,Sra. Stella Fernandes,40,MASCULINO,Fortaleza
+1232,88,9,2,2023-05-24,Produto 9,Alimentos,484.48,Alexandre Ribeiro,57,MASCULINO,Belém
+1233,72,28,5,2024-01-19,Produto 28,Alimentos,355.55,Luiza Nascimento,59,FEMININO,Belém
+1234,139,20,1,2023-08-04,Produto 20,Alimentos,120.45,Sr. Pedro da Rocha,18,FEMININO,São Paulo
+1235,64,45,6,2023-12-27,Produto 45,Limpeza,241.47,Srta. Juliana Araújo,31,FEMININO,Fortaleza
+1236,72,7,2,2023-11-20,Produto 7,Alimentos,275.23,Luiza Nascimento,59,FEMININO,Belém
+1237,21,14,4,2023-01-15,Produto 14,Eletrônicos,215.92,Francisco da Cruz,61,FEMININO,Fortaleza
+1238,18,9,6,2023-08-05,Produto 9,Alimentos,484.48,Augusto Alves,39,MASCULINO,Belém
+1239,64,19,8,2024-05-06,Produto 19,Higiene,259.1,Srta. Juliana Araújo,31,FEMININO,Fortaleza
+1240,82,47,8,2024-06-30,Produto 47,Eletrônicos,266.54,Dr. Henrique Rodrigues,48,FEMININO,Belém
+1241,110,14,6,2023-07-02,Produto 14,Eletrônicos,215.92,Dra. Brenda Peixoto,41,FEMININO,São Paulo
+1242,95,38,4,2023-09-27,Produto 38,Higiene,371.78,Ana Fernandes,43,MASCULINO,São Paulo
+1243,166,36,8,2024-04-11,Produto 36,Limpeza,205.58,Luna Cavalcanti,40,FEMININO,Rio de Janeiro
+1244,32,40,8,2024-09-03,Produto 40,Eletrônicos,412.28,Amanda Lima,44,MASCULINO,Belém
+1245,11,17,1,2024-06-02,Produto 17,Eletrônicos,446.49,Ana Lívia das Neves,28,FEMININO,Rio de Janeiro
+1246,45,30,4,2024-06-25,Produto 30,Limpeza,192.1,Raul Sales,38,MASCULINO,São Paulo
+1247,33,9,4,2024-04-11,Produto 9,Alimentos,484.48,Gabriela Araújo,59,FEMININO,Manaus
+1248,102,33,7,2023-11-01,Produto 33,Higiene,168.48,Sarah Monteiro,18,MASCULINO,Belém
+1249,169,25,7,2023-05-24,Produto 25,Eletrônicos,454.31,Srta. Caroline Farias,32,MASCULINO,Rio de Janeiro
+1250,136,14,8,2023-04-21,Produto 14,Eletrônicos,215.92,Isabella da Costa,39,FEMININO,Fortaleza
+1251,11,11,5,2023-08-20,Produto 11,Limpeza,419.3,Ana Lívia das Neves,28,FEMININO,Rio de Janeiro
+1252,179,35,7,2024-11-21,Produto 35,Alimentos,130.57,Dr. Guilherme Fernandes,19,FEMININO,Belém
+1253,88,41,8,2024-08-06,Produto 41,Eletrônicos,373.38,Alexandre Ribeiro,57,MASCULINO,Belém
+1254,41,14,9,2024-12-22,Produto 14,Eletrônicos,215.92,Natália da Cunha,20,MASCULINO,São Paulo
+1255,145,30,3,2024-08-14,Produto 30,Limpeza,192.1,Alana Rodrigues,18,FEMININO,São Paulo
+1256,76,41,3,2024-05-14,Produto 41,Eletrônicos,373.38,Dr. Pedro Henrique Aragão,43,FEMININO,Fortaleza
+1257,121,4,4,2024-08-17,Produto 4,Limpeza,497.99,Isabel da Rosa,58,MASCULINO,Fortaleza
+1258,46,4,5,2024-07-07,Produto 4,Limpeza,497.99,Evelyn Peixoto,26,MASCULINO,Manaus
+1259,160,28,1,2023-09-30,Produto 28,Alimentos,355.55,Maria Vitória Cavalcanti,66,MASCULINO,Rio de Janeiro
+1260,80,8,7,2024-12-03,Produto 8,Higiene,354.39,Carolina Gomes,53,MASCULINO,Belém
+1261,54,2,9,2023-06-22,Produto 2,Eletrônicos,465.81,Maria Luiza Fernandes,43,FEMININO,São Paulo
+1262,86,41,8,2023-01-07,Produto 41,Eletrônicos,373.38,Dr. Luigi Campos,31,MASCULINO,Belém
+1263,92,46,5,2023-06-04,Produto 46,Higiene,46.03,André Aragão,35,FEMININO,Belém
+1264,148,22,4,2024-06-05,Produto 22,Alimentos,432.25,Ana Sophia Cardoso,31,FEMININO,São Paulo
+1265,161,41,7,2024-06-29,Produto 41,Eletrônicos,373.38,Stephany Moreira,69,FEMININO,Fortaleza
+1266,168,16,5,2024-07-01,Produto 16,Alimentos,201.34,Maria Fernanda Sales,62,FEMININO,Fortaleza
+1267,160,29,7,2024-06-01,Produto 29,Limpeza,243.43,Maria Vitória Cavalcanti,66,MASCULINO,Rio de Janeiro
+1268,97,49,1,2023-08-03,Produto 49,Eletrônicos,402.04,Dr. Isaac Castro,62,FEMININO,Manaus
+1269,2,48,1,2023-05-14,Produto 48,Limpeza,220.99,Cauã Ferreira,69,FEMININO,Rio de Janeiro
+1270,33,30,3,2023-10-12,Produto 30,Limpeza,192.1,Gabriela Araújo,59,FEMININO,Manaus
+1271,158,12,2,2023-05-06,Produto 12,Bebidas,434.1,Thales Barros,49,MASCULINO,Fortaleza
+1272,161,35,2,2024-03-14,Produto 35,Alimentos,130.57,Stephany Moreira,69,FEMININO,Fortaleza
+1273,77,11,7,2024-11-16,Produto 11,Limpeza,419.3,Clara Nascimento,61,MASCULINO,São Paulo
+1274,116,46,2,2023-06-01,Produto 46,Higiene,46.03,Gustavo da Cunha,52,FEMININO,Manaus
+1275,154,50,4,2023-11-27,Produto 50,Alimentos,489.06,Dra. Clarice Fernandes,43,MASCULINO,Manaus
+1276,150,21,2,2024-06-21,Produto 21,Alimentos,292.75,Maysa Fogaça,44,FEMININO,Belém
+1277,103,21,6,2024-01-18,Produto 21,Alimentos,292.75,Ana Sophia Araújo,42,MASCULINO,São Paulo
+1278,194,5,8,2023-04-25,Produto 5,Bebidas,32.66,Daniela Silva,18,FEMININO,Belém
+1279,166,48,4,2024-04-26,Produto 48,Limpeza,220.99,Luna Cavalcanti,40,FEMININO,Rio de Janeiro
+1280,103,20,5,2023-10-11,Produto 20,Alimentos,120.45,Ana Sophia Araújo,42,MASCULINO,São Paulo
+1281,90,37,4,2023-03-16,Produto 37,Limpeza,287.88,Diego Martins,33,MASCULINO,Rio de Janeiro
+1282,174,3,3,2023-06-15,Produto 3,Alimentos,487.25,Enzo Gabriel Nogueira,49,MASCULINO,Fortaleza
+1283,122,44,5,2023-07-08,Produto 44,Alimentos,203.11,Rafaela da Rosa,45,FEMININO,São Paulo
+1284,143,33,9,2023-03-19,Produto 33,Higiene,168.48,Otávio Freitas,31,MASCULINO,São Paulo
+1285,106,9,8,2024-08-24,Produto 9,Alimentos,484.48,Mirella Oliveira,41,MASCULINO,Fortaleza
+1286,119,9,8,2024-11-18,Produto 9,Alimentos,484.48,Luna Pires,59,FEMININO,Belém
+1287,172,4,8,2023-01-21,Produto 4,Limpeza,497.99,Cecília da Cruz,53,MASCULINO,São Paulo
+1288,49,35,8,2024-07-19,Produto 35,Alimentos,130.57,João Miguel Nogueira,21,MASCULINO,Rio de Janeiro
+1289,104,17,7,2023-07-03,Produto 17,Eletrônicos,446.49,Alexia Souza,24,FEMININO,Belém
+1290,61,34,8,2023-08-10,Produto 34,Limpeza,220.05,Luigi Vieira,25,MASCULINO,Belém
+1291,195,24,8,2023-11-24,Produto 24,Alimentos,122.16,Catarina Campos,44,FEMININO,São Paulo
+1292,123,32,8,2023-06-28,Produto 32,Alimentos,128.12,Natália Dias,24,MASCULINO,Rio de Janeiro
+1293,134,1,7,2023-04-22,Produto 1,Eletrônicos,61.16,Dr. Guilherme Moreira,61,MASCULINO,São Paulo
+1294,9,8,1,2024-12-26,Produto 8,Higiene,354.39,Paulo Teixeira,36,FEMININO,Fortaleza
+1295,6,45,4,2023-02-28,Produto 45,Limpeza,241.47,Lucas Freitas,25,MASCULINO,Fortaleza
+1296,73,23,4,2023-11-23,Produto 23,Limpeza,440.78,Bárbara da Cruz,21,FEMININO,São Paulo
+1297,103,47,5,2024-09-12,Produto 47,Eletrônicos,266.54,Ana Sophia Araújo,42,MASCULINO,São Paulo
+1298,160,40,6,2024-10-30,Produto 40,Eletrônicos,412.28,Maria Vitória Cavalcanti,66,MASCULINO,Rio de Janeiro
+1299,41,12,4,2023-07-10,Produto 12,Bebidas,434.1,Natália da Cunha,20,MASCULINO,São Paulo
+1300,114,12,2,2023-07-19,Produto 12,Bebidas,434.1,Pedro Dias,25,FEMININO,Belém
+1301,8,46,6,2023-11-08,Produto 46,Higiene,46.03,Mirella Barros,56,MASCULINO,Belém
+1302,72,47,8,2024-12-08,Produto 47,Eletrônicos,266.54,Luiza Nascimento,59,FEMININO,Belém
+1303,178,15,8,2023-02-04,Produto 15,Limpeza,115.18,Marcos Vinicius da Costa,45,FEMININO,São Paulo
+1304,92,41,7,2024-01-14,Produto 41,Eletrônicos,373.38,André Aragão,35,FEMININO,Belém
+1305,62,19,6,2024-01-22,Produto 19,Higiene,259.1,Vicente Lopes,64,MASCULINO,Fortaleza
+1306,84,26,2,2023-08-25,Produto 26,Higiene,297.98,Pietra Azevedo,32,MASCULINO,Fortaleza
+1307,62,29,7,2024-09-07,Produto 29,Limpeza,243.43,Vicente Lopes,64,MASCULINO,Fortaleza
+1308,111,22,5,2024-06-02,Produto 22,Alimentos,432.25,Dr. Vicente Araújo,28,FEMININO,Manaus
+1309,127,40,6,2023-10-10,Produto 40,Eletrônicos,412.28,Noah Lopes,51,MASCULINO,Fortaleza
+1310,7,21,8,2023-01-01,Produto 21,Alimentos,292.75,Sr. João Guilherme Pereira,38,MASCULINO,Manaus
+1311,84,38,8,2024-12-31,Produto 38,Higiene,371.78,Pietra Azevedo,32,MASCULINO,Fortaleza
+1312,132,20,3,2024-04-08,Produto 20,Alimentos,120.45,Daniel Moreira,54,MASCULINO,Fortaleza
+1313,134,29,7,2023-08-18,Produto 29,Limpeza,243.43,Dr. Guilherme Moreira,61,MASCULINO,São Paulo
+1314,58,4,1,2023-06-21,Produto 4,Limpeza,497.99,Dra. Letícia Azevedo,64,MASCULINO,São Paulo
+1315,22,7,1,2023-03-28,Produto 7,Alimentos,275.23,Kaique Barbosa,47,MASCULINO,Manaus
+1316,154,28,7,2024-07-06,Produto 28,Alimentos,355.55,Dra. Clarice Fernandes,43,MASCULINO,Manaus
+1317,127,28,9,2023-05-03,Produto 28,Alimentos,355.55,Noah Lopes,51,MASCULINO,Fortaleza
+1318,3,4,7,2023-10-25,Produto 4,Limpeza,497.99,Cauê Ferreira,46,MASCULINO,São Paulo
+1319,127,22,5,2024-11-20,Produto 22,Alimentos,432.25,Noah Lopes,51,MASCULINO,Fortaleza
+1320,41,12,8,2024-07-28,Produto 12,Bebidas,434.1,Natália da Cunha,20,MASCULINO,São Paulo
+1321,188,45,2,2024-04-28,Produto 45,Limpeza,241.47,Sophia Martins,47,FEMININO,São Paulo
+1322,106,3,9,2023-06-14,Produto 3,Alimentos,487.25,Mirella Oliveira,41,MASCULINO,Fortaleza
+1323,14,22,6,2024-11-29,Produto 22,Alimentos,432.25,Joaquim da Costa,53,FEMININO,Manaus
+1324,12,44,9,2024-01-18,Produto 44,Alimentos,203.11,Elisa da Mota,28,MASCULINO,Fortaleza
+1325,87,2,2,2023-07-28,Produto 2,Eletrônicos,465.81,João Miguel Moraes,40,FEMININO,Fortaleza
+1326,12,24,3,2024-03-07,Produto 24,Alimentos,122.16,Elisa da Mota,28,MASCULINO,Fortaleza
+1327,141,34,8,2024-01-24,Produto 34,Limpeza,220.05,Vitor Hugo da Rosa,54,FEMININO,Belém
+1328,25,27,1,2024-07-13,Produto 27,Higiene,178.36,Miguel Nunes,38,FEMININO,Manaus
+1329,45,41,7,2023-08-12,Produto 41,Eletrônicos,373.38,Raul Sales,38,MASCULINO,São Paulo
+1330,122,1,7,2023-01-03,Produto 1,Eletrônicos,61.16,Rafaela da Rosa,45,FEMININO,São Paulo
+1331,147,8,1,2024-01-07,Produto 8,Higiene,354.39,Leandro Teixeira,43,MASCULINO,Rio de Janeiro
+1332,55,23,9,2024-11-17,Produto 23,Limpeza,440.78,Dr. Lucas Gabriel Dias,19,MASCULINO,Manaus
+1333,100,38,8,2024-03-21,Produto 38,Higiene,371.78,Mariana Moura,32,FEMININO,São Paulo
+1334,173,6,4,2024-09-02,Produto 6,Eletrônicos,369.83,Alana das Neves,30,FEMININO,Rio de Janeiro
+1335,136,22,5,2023-04-26,Produto 22,Alimentos,432.25,Isabella da Costa,39,FEMININO,Fortaleza
+1336,119,25,2,2023-09-27,Produto 25,Eletrônicos,454.31,Luna Pires,59,FEMININO,Belém
+1337,53,18,9,2024-03-22,Produto 18,Alimentos,77.57,Emanuella Ribeiro,26,FEMININO,Rio de Janeiro
+1338,183,17,6,2024-01-03,Produto 17,Eletrônicos,446.49,Catarina Martins,45,MASCULINO,Manaus
+1339,32,12,3,2023-09-10,Produto 12,Bebidas,434.1,Amanda Lima,44,MASCULINO,Belém
+1340,51,6,7,2023-11-13,Produto 6,Eletrônicos,369.83,Evelyn Aragão,31,FEMININO,São Paulo
+1341,44,26,9,2024-02-19,Produto 26,Higiene,297.98,Dr. Murilo Monteiro,24,MASCULINO,São Paulo
+1342,82,27,3,2023-04-05,Produto 27,Higiene,178.36,Dr. Henrique Rodrigues,48,FEMININO,Belém
+1343,198,8,2,2023-01-24,Produto 8,Higiene,354.39,Heitor Campos,58,MASCULINO,Belém
+1344,146,19,7,2024-09-19,Produto 19,Higiene,259.1,Joana Pereira,22,MASCULINO,São Paulo
+1345,150,42,7,2024-10-24,Produto 42,Higiene,342.11,Maysa Fogaça,44,FEMININO,Belém
+1346,37,1,4,2023-02-19,Produto 1,Eletrônicos,61.16,Natália Dias,64,FEMININO,São Paulo
+1347,96,29,9,2024-05-16,Produto 29,Limpeza,243.43,Enzo Gabriel Alves,42,MASCULINO,Rio de Janeiro
+1348,56,45,8,2024-12-18,Produto 45,Limpeza,241.47,Marcela Lima,37,FEMININO,Belém
+1349,105,49,1,2024-05-12,Produto 49,Eletrônicos,402.04,Caroline Fernandes,26,MASCULINO,Manaus
+1350,59,35,1,2023-12-01,Produto 35,Alimentos,130.57,Natália Ribeiro,24,FEMININO,Manaus
+1351,131,40,5,2023-03-20,Produto 40,Eletrônicos,412.28,Srta. Isabelly Cavalcanti,41,MASCULINO,Belém
+1352,156,14,6,2024-08-04,Produto 14,Eletrônicos,215.92,Vitor Hugo Lopes,30,FEMININO,Rio de Janeiro
+1353,35,35,3,2023-01-27,Produto 35,Alimentos,130.57,Yago Dias,33,MASCULINO,São Paulo
+1354,189,48,9,2023-09-28,Produto 48,Limpeza,220.99,Davi Lucas Rodrigues,28,MASCULINO,São Paulo
+1355,93,45,6,2024-07-15,Produto 45,Limpeza,241.47,Maria Fernanda da Mata,64,MASCULINO,São Paulo
+1356,182,20,4,2023-09-04,Produto 20,Alimentos,120.45,Ana Julia Nogueira,23,MASCULINO,Rio de Janeiro
+1357,191,49,7,2024-08-13,Produto 49,Eletrônicos,402.04,Emilly Duarte,42,FEMININO,Manaus
+1358,97,13,8,2024-01-22,Produto 13,Alimentos,420.05,Dr. Isaac Castro,62,FEMININO,Manaus
+1359,135,38,9,2024-12-02,Produto 38,Higiene,371.78,Sr. Lucas Gabriel Azevedo,57,MASCULINO,Belém
+1360,76,49,6,2024-07-12,Produto 49,Eletrônicos,402.04,Dr. Pedro Henrique Aragão,43,FEMININO,Fortaleza
+1361,49,46,6,2023-12-27,Produto 46,Higiene,46.03,João Miguel Nogueira,21,MASCULINO,Rio de Janeiro
+1362,94,49,8,2024-05-02,Produto 49,Eletrônicos,402.04,Fernando Aragão,41,FEMININO,Fortaleza
+1363,159,8,5,2023-12-18,Produto 8,Higiene,354.39,Ian Silveira,56,MASCULINO,São Paulo
+1364,186,43,3,2024-12-01,Produto 43,Limpeza,122.57,Sr. Vicente Pires,61,MASCULINO,São Paulo
+1365,189,20,3,2023-09-13,Produto 20,Alimentos,120.45,Davi Lucas Rodrigues,28,MASCULINO,São Paulo
+1366,24,33,6,2023-08-10,Produto 33,Higiene,168.48,Thomas Fogaça,19,FEMININO,Belém
+1367,148,26,2,2023-01-01,Produto 26,Higiene,297.98,Ana Sophia Cardoso,31,FEMININO,São Paulo
+1368,37,39,6,2024-06-29,Produto 39,Bebidas,384.76,Natália Dias,64,FEMININO,São Paulo
+1369,4,21,6,2024-03-21,Produto 21,Alimentos,292.75,Giovanna Aragão,32,MASCULINO,Belém
+1370,108,49,8,2023-03-20,Produto 49,Eletrônicos,402.04,Maria Vitória Farias,61,MASCULINO,Manaus
+1371,126,42,7,2023-08-24,Produto 42,Higiene,342.11,Dr. Thomas Santos,29,FEMININO,Belém
+1372,20,43,8,2023-11-30,Produto 43,Limpeza,122.57,João Vitor da Rosa,41,MASCULINO,Rio de Janeiro
+1373,188,41,9,2023-12-15,Produto 41,Eletrônicos,373.38,Sophia Martins,47,FEMININO,São Paulo
+1374,152,9,6,2023-04-08,Produto 9,Alimentos,484.48,Pedro Henrique Vieira,32,FEMININO,Fortaleza
+1375,50,24,3,2023-03-23,Produto 24,Alimentos,122.16,Nathan Costela,42,FEMININO,Belém
+1376,177,37,3,2024-05-16,Produto 37,Limpeza,287.88,Ana Vitória Carvalho,39,FEMININO,Fortaleza
+1377,179,49,1,2024-04-21,Produto 49,Eletrônicos,402.04,Dr. Guilherme Fernandes,19,FEMININO,Belém
+1378,96,41,5,2024-12-04,Produto 41,Eletrônicos,373.38,Enzo Gabriel Alves,42,MASCULINO,Rio de Janeiro
+1379,105,17,4,2024-07-03,Produto 17,Eletrônicos,446.49,Caroline Fernandes,26,MASCULINO,Manaus
+1380,164,24,9,2023-01-14,Produto 24,Alimentos,122.16,Joaquim da Cruz,47,FEMININO,Belém
+1381,117,21,9,2024-01-27,Produto 21,Alimentos,292.75,Anthony Cunha,50,FEMININO,Belém
+1382,98,39,5,2023-12-13,Produto 39,Bebidas,384.76,Marcela Cavalcanti,58,FEMININO,Rio de Janeiro
+1383,66,41,4,2023-11-06,Produto 41,Eletrônicos,373.38,Thiago Silva,53,FEMININO,Fortaleza
+1384,79,39,7,2024-01-21,Produto 39,Bebidas,384.76,Renan Lopes,27,FEMININO,Fortaleza
+1385,162,13,6,2023-07-28,Produto 13,Alimentos,420.05,Vitor Hugo Fogaça,49,FEMININO,Manaus
+1386,164,11,4,2023-12-23,Produto 11,Limpeza,419.3,Joaquim da Cruz,47,FEMININO,Belém
+1387,6,46,2,2024-08-23,Produto 46,Higiene,46.03,Lucas Freitas,25,MASCULINO,Fortaleza
+1388,39,19,1,2024-07-21,Produto 19,Higiene,259.1,Luiz Otávio Nascimento,61,FEMININO,Rio de Janeiro
+1389,170,11,4,2023-04-04,Produto 11,Limpeza,419.3,Bryan Farias,60,MASCULINO,Manaus
+1390,115,13,4,2023-04-03,Produto 13,Alimentos,420.05,Sr. Leonardo Jesus,52,FEMININO,Belém
+1391,186,46,1,2023-12-06,Produto 46,Higiene,46.03,Sr. Vicente Pires,61,MASCULINO,São Paulo
+1392,125,45,6,2024-08-19,Produto 45,Limpeza,241.47,Srta. Ana Beatriz Rezende,25,FEMININO,Manaus
+1393,12,1,4,2024-03-20,Produto 1,Eletrônicos,61.16,Elisa da Mota,28,MASCULINO,Fortaleza
+1394,131,40,1,2023-01-22,Produto 40,Eletrônicos,412.28,Srta. Isabelly Cavalcanti,41,MASCULINO,Belém
+1395,18,44,1,2023-10-18,Produto 44,Alimentos,203.11,Augusto Alves,39,MASCULINO,Belém
+1396,40,19,1,2024-04-29,Produto 19,Higiene,259.1,Heitor Lopes,69,FEMININO,São Paulo
+1397,21,12,8,2023-11-02,Produto 12,Bebidas,434.1,Francisco da Cruz,61,FEMININO,Fortaleza
+1398,143,8,8,2024-09-25,Produto 8,Higiene,354.39,Otávio Freitas,31,MASCULINO,São Paulo
+1399,99,8,2,2023-05-08,Produto 8,Higiene,354.39,Sophia Ferreira,46,MASCULINO,Fortaleza
+1400,26,45,7,2024-09-16,Produto 45,Limpeza,241.47,Rebeca da Cunha,50,FEMININO,Belém
+1401,8,12,8,2023-09-30,Produto 12,Bebidas,434.1,Mirella Barros,56,MASCULINO,Belém
+1402,100,48,8,2024-03-17,Produto 48,Limpeza,220.99,Mariana Moura,32,FEMININO,São Paulo
+1403,87,33,7,2024-05-17,Produto 33,Higiene,168.48,João Miguel Moraes,40,FEMININO,Fortaleza
+1404,42,45,5,2023-05-10,Produto 45,Limpeza,241.47,Kaique Alves,54,MASCULINO,Rio de Janeiro
+1405,172,26,1,2023-05-12,Produto 26,Higiene,297.98,Cecília da Cruz,53,MASCULINO,São Paulo
+1406,14,39,9,2024-08-19,Produto 39,Bebidas,384.76,Joaquim da Costa,53,FEMININO,Manaus
+1407,78,28,7,2024-04-26,Produto 28,Alimentos,355.55,Sr. Enzo Araújo,51,FEMININO,Rio de Janeiro
+1408,2,5,2,2024-01-25,Produto 5,Bebidas,32.66,Cauã Ferreira,69,FEMININO,Rio de Janeiro
+1409,119,8,6,2024-08-15,Produto 8,Higiene,354.39,Luna Pires,59,FEMININO,Belém
+1410,37,25,2,2023-11-21,Produto 25,Eletrônicos,454.31,Natália Dias,64,FEMININO,São Paulo
+1411,69,27,1,2023-03-10,Produto 27,Higiene,178.36,Otávio Campos,21,FEMININO,Rio de Janeiro
+1412,166,46,7,2024-10-21,Produto 46,Higiene,46.03,Luna Cavalcanti,40,FEMININO,Rio de Janeiro
+1413,41,23,2,2024-03-23,Produto 23,Limpeza,440.78,Natália da Cunha,20,MASCULINO,São Paulo
+1414,62,30,2,2024-06-11,Produto 30,Limpeza,192.1,Vicente Lopes,64,MASCULINO,Fortaleza
+1415,60,45,5,2024-09-08,Produto 45,Limpeza,241.47,Catarina Melo,61,MASCULINO,Fortaleza
+1416,125,47,5,2023-06-14,Produto 47,Eletrônicos,266.54,Srta. Ana Beatriz Rezende,25,FEMININO,Manaus
+1417,111,23,7,2024-05-02,Produto 23,Limpeza,440.78,Dr. Vicente Araújo,28,FEMININO,Manaus
+1418,14,49,1,2024-12-13,Produto 49,Eletrônicos,402.04,Joaquim da Costa,53,FEMININO,Manaus
+1419,84,47,8,2024-12-09,Produto 47,Eletrônicos,266.54,Pietra Azevedo,32,MASCULINO,Fortaleza
+1420,130,20,3,2024-03-01,Produto 20,Alimentos,120.45,Sra. Stella Fernandes,40,MASCULINO,Fortaleza
+1421,70,18,4,2024-11-27,Produto 18,Alimentos,77.57,Luiz Felipe Sales,19,MASCULINO,Manaus
+1422,145,18,9,2023-09-22,Produto 18,Alimentos,77.57,Alana Rodrigues,18,FEMININO,São Paulo
+1423,123,2,4,2024-09-03,Produto 2,Eletrônicos,465.81,Natália Dias,24,MASCULINO,Rio de Janeiro
+1424,89,4,5,2023-12-08,Produto 4,Limpeza,497.99,Carlos Eduardo Costela,38,MASCULINO,Fortaleza
+1425,28,30,7,2024-12-26,Produto 30,Limpeza,192.1,Maria Castro,39,FEMININO,Fortaleza
+1426,66,33,4,2023-10-05,Produto 33,Higiene,168.48,Thiago Silva,53,FEMININO,Fortaleza
+1427,163,36,1,2024-11-04,Produto 36,Limpeza,205.58,Gustavo Ferreira,21,FEMININO,Manaus
+1428,5,18,9,2024-03-14,Produto 18,Alimentos,77.57,Thomas Alves,60,FEMININO,Manaus
+1429,193,37,4,2023-06-06,Produto 37,Limpeza,287.88,Kamilly da Paz,50,FEMININO,São Paulo
+1430,168,19,9,2024-02-26,Produto 19,Higiene,259.1,Maria Fernanda Sales,62,FEMININO,Fortaleza
+1431,184,47,6,2023-09-08,Produto 47,Eletrônicos,266.54,Isabelly Fogaça,45,MASCULINO,São Paulo
+1432,164,28,1,2024-08-31,Produto 28,Alimentos,355.55,Joaquim da Cruz,47,FEMININO,Belém
+1433,45,40,3,2024-06-13,Produto 40,Eletrônicos,412.28,Raul Sales,38,MASCULINO,São Paulo
+1434,151,20,2,2023-11-23,Produto 20,Alimentos,120.45,João Felipe Martins,26,FEMININO,Belém
+1435,47,49,9,2023-04-07,Produto 49,Eletrônicos,402.04,Bruno Santos,56,FEMININO,Manaus
+1436,31,33,1,2024-05-27,Produto 33,Higiene,168.48,Noah Aragão,66,MASCULINO,Belém
+1437,139,12,9,2023-08-04,Produto 12,Bebidas,434.1,Sr. Pedro da Rocha,18,FEMININO,São Paulo
+1438,10,15,9,2023-05-12,Produto 15,Limpeza,115.18,Marina Moraes,40,FEMININO,Belém
+1439,195,41,8,2023-09-17,Produto 41,Eletrônicos,373.38,Catarina Campos,44,FEMININO,São Paulo
+1440,118,39,8,2023-05-05,Produto 39,Bebidas,384.76,Ana Julia Nogueira,22,MASCULINO,Belém
+1441,14,2,1,2023-03-23,Produto 2,Eletrônicos,465.81,Joaquim da Costa,53,FEMININO,Manaus
+1442,80,29,8,2023-10-10,Produto 29,Limpeza,243.43,Carolina Gomes,53,MASCULINO,Belém
+1443,93,41,3,2024-11-13,Produto 41,Eletrônicos,373.38,Maria Fernanda da Mata,64,MASCULINO,São Paulo
+1444,10,10,7,2023-02-28,Produto 10,Higiene,345.57,Marina Moraes,40,FEMININO,Belém
+1445,76,2,1,2024-06-27,Produto 2,Eletrônicos,465.81,Dr. Pedro Henrique Aragão,43,FEMININO,Fortaleza
+1446,94,11,1,2023-06-10,Produto 11,Limpeza,419.3,Fernando Aragão,41,FEMININO,Fortaleza
+1447,105,13,5,2023-10-11,Produto 13,Alimentos,420.05,Caroline Fernandes,26,MASCULINO,Manaus
+1448,1,10,5,2023-04-16,Produto 10,Higiene,345.57,Sr. Emanuel Costela,56,FEMININO,Rio de Janeiro
+1449,133,14,8,2023-04-15,Produto 14,Eletrônicos,215.92,Cecília da Paz,52,MASCULINO,São Paulo
+1450,20,18,7,2024-03-14,Produto 18,Alimentos,77.57,João Vitor da Rosa,41,MASCULINO,Rio de Janeiro
+1451,8,9,8,2023-08-16,Produto 9,Alimentos,484.48,Mirella Barros,56,MASCULINO,Belém
+1452,171,39,6,2024-11-30,Produto 39,Bebidas,384.76,João da Cunha,46,FEMININO,Manaus
+1453,1,28,6,2024-08-04,Produto 28,Alimentos,355.55,Sr. Emanuel Costela,56,FEMININO,Rio de Janeiro
+1454,57,3,2,2023-11-14,Produto 3,Alimentos,487.25,Sr. Davi Lucas Rezende,45,MASCULINO,Fortaleza
+1455,64,20,6,2024-04-08,Produto 20,Alimentos,120.45,Srta. Juliana Araújo,31,FEMININO,Fortaleza
+1456,118,6,5,2024-08-21,Produto 6,Eletrônicos,369.83,Ana Julia Nogueira,22,MASCULINO,Belém
+1457,28,27,3,2024-04-16,Produto 27,Higiene,178.36,Maria Castro,39,FEMININO,Fortaleza
+1458,121,2,6,2023-02-25,Produto 2,Eletrônicos,465.81,Isabel da Rosa,58,MASCULINO,Fortaleza
+1459,107,29,8,2024-09-16,Produto 29,Limpeza,243.43,Arthur Moura,18,FEMININO,Belém
+1460,165,38,9,2023-01-13,Produto 38,Higiene,371.78,Guilherme Rodrigues,54,FEMININO,Rio de Janeiro
+1461,175,3,1,2024-03-15,Produto 3,Alimentos,487.25,Ana Lívia Duarte,24,FEMININO,Belém
+1462,165,16,3,2023-01-18,Produto 16,Alimentos,201.34,Guilherme Rodrigues,54,FEMININO,Rio de Janeiro
+1463,49,30,3,2024-11-24,Produto 30,Limpeza,192.1,João Miguel Nogueira,21,MASCULINO,Rio de Janeiro
+1464,120,40,8,2023-04-23,Produto 40,Eletrônicos,412.28,Ana Luiza da Cruz,56,FEMININO,Rio de Janeiro
+1465,44,2,1,2023-08-17,Produto 2,Eletrônicos,465.81,Dr. Murilo Monteiro,24,MASCULINO,São Paulo
+1466,56,17,5,2023-06-20,Produto 17,Eletrônicos,446.49,Marcela Lima,37,FEMININO,Belém
+1467,156,41,3,2023-10-22,Produto 41,Eletrônicos,373.38,Vitor Hugo Lopes,30,FEMININO,Rio de Janeiro
+1468,111,12,2,2023-07-08,Produto 12,Bebidas,434.1,Dr. Vicente Araújo,28,FEMININO,Manaus
+1469,134,35,8,2024-03-01,Produto 35,Alimentos,130.57,Dr. Guilherme Moreira,61,MASCULINO,São Paulo
+1470,108,43,3,2023-03-20,Produto 43,Limpeza,122.57,Maria Vitória Farias,61,MASCULINO,Manaus
+1471,189,1,7,2024-10-19,Produto 1,Eletrônicos,61.16,Davi Lucas Rodrigues,28,MASCULINO,São Paulo
+1472,148,45,1,2023-07-01,Produto 45,Limpeza,241.47,Ana Sophia Cardoso,31,FEMININO,São Paulo
+1473,114,15,6,2024-05-13,Produto 15,Limpeza,115.18,Pedro Dias,25,FEMININO,Belém
+1474,78,26,3,2024-12-08,Produto 26,Higiene,297.98,Sr. Enzo Araújo,51,FEMININO,Rio de Janeiro
+1475,130,37,8,2023-03-12,Produto 37,Limpeza,287.88,Sra. Stella Fernandes,40,MASCULINO,Fortaleza
+1476,37,21,6,2023-09-05,Produto 21,Alimentos,292.75,Natália Dias,64,FEMININO,São Paulo
+1477,20,49,2,2023-05-26,Produto 49,Eletrônicos,402.04,João Vitor da Rosa,41,MASCULINO,Rio de Janeiro
+1478,26,31,6,2024-09-09,Produto 31,Eletrônicos,354.02,Rebeca da Cunha,50,FEMININO,Belém
+1479,29,25,7,2023-10-23,Produto 25,Eletrônicos,454.31,Sra. Sabrina Farias,61,MASCULINO,Manaus
+1480,1,23,5,2024-08-04,Produto 23,Limpeza,440.78,Sr. Emanuel Costela,56,FEMININO,Rio de Janeiro
+1481,119,24,3,2024-04-14,Produto 24,Alimentos,122.16,Luna Pires,59,FEMININO,Belém
+1482,35,38,4,2024-05-20,Produto 38,Higiene,371.78,Yago Dias,33,MASCULINO,São Paulo
+1483,198,28,4,2023-07-12,Produto 28,Alimentos,355.55,Heitor Campos,58,MASCULINO,Belém
+1484,59,21,6,2023-03-09,Produto 21,Alimentos,292.75,Natália Ribeiro,24,FEMININO,Manaus
+1485,69,43,1,2024-05-08,Produto 43,Limpeza,122.57,Otávio Campos,21,FEMININO,Rio de Janeiro
+1486,161,18,4,2023-02-21,Produto 18,Alimentos,77.57,Stephany Moreira,69,FEMININO,Fortaleza
+1487,179,36,4,2023-12-29,Produto 36,Limpeza,205.58,Dr. Guilherme Fernandes,19,FEMININO,Belém
+1488,12,35,1,2024-04-18,Produto 35,Alimentos,130.57,Elisa da Mota,28,MASCULINO,Fortaleza
+1489,20,45,9,2024-06-04,Produto 45,Limpeza,241.47,João Vitor da Rosa,41,MASCULINO,Rio de Janeiro
+1490,181,9,4,2024-03-06,Produto 9,Alimentos,484.48,Otávio Cavalcanti,62,FEMININO,São Paulo
+1491,43,38,7,2023-10-25,Produto 38,Higiene,371.78,Milena Aragão,68,FEMININO,São Paulo
+1492,126,30,3,2024-03-10,Produto 30,Limpeza,192.1,Dr. Thomas Santos,29,FEMININO,Belém
+1493,50,44,3,2024-11-26,Produto 44,Alimentos,203.11,Nathan Costela,42,FEMININO,Belém
+1494,29,34,8,2024-11-21,Produto 34,Limpeza,220.05,Sra. Sabrina Farias,61,MASCULINO,Manaus
+1495,185,32,8,2023-07-17,Produto 32,Alimentos,128.12,Lucas Gabriel Nascimento,61,FEMININO,Belém
+1496,39,3,1,2023-05-08,Produto 3,Alimentos,487.25,Luiz Otávio Nascimento,61,FEMININO,Rio de Janeiro
+1497,184,3,2,2024-06-15,Produto 3,Alimentos,487.25,Isabelly Fogaça,45,MASCULINO,São Paulo
+1498,171,28,8,2024-02-15,Produto 28,Alimentos,355.55,João da Cunha,46,FEMININO,Manaus
+1499,178,44,1,2023-03-06,Produto 44,Alimentos,203.11,Marcos Vinicius da Costa,45,FEMININO,São Paulo
+1500,151,15,8,2024-11-24,Produto 15,Limpeza,115.18,João Felipe Martins,26,FEMININO,Belém
